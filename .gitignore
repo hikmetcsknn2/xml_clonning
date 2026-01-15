@@ -1,0 +1,44 @@
+dist/
+build/
+*.spec
+*.exe
+__pycache__/
+.venv/
+
+# Local editor/OS files
+.vscode/
+*.pyc
+Thumbs.db
+desktop.ini
+
+# Don't ignore outputs (these must be tracked):
+# ebi_out.xml
+# tkt_out.xml
+# Logs
+logs/
+*.log
+
+# Output files
+output.xml
+output_tmp.xml
+*.xml.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

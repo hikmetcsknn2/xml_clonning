@@ -1,0 +1,85 @@
+========================================
+XML Clone Tool - Kullanım Kılavuzu
+========================================
+
+ADIM 1: BAĞIMLILIKLARI YÜKLEYİN
+---------------------------------
+PowerShell veya CMD'de şu komutu çalıştırın:
+
+    pip install -r requirements.txt
+
+Bu komut şunları yükler:
+- requests (HTTP istekleri için)
+- lxml (XML işleme için)
+- pyyaml (config dosyası için)
+
+
+ADIM 2: ÇALIŞTIRMA
+-------------------
+
+A) Her iki feed'i işlemek için (varsayılan):
+   
+   python make_clone_xmls.py
+
+B) Sadece eBijuteri feed'ini işlemek için:
+
+   python make_clone_xmls.py --only ebi
+
+C) Sadece TeknoTok feed'ini işlemek için:
+
+   python make_clone_xmls.py --only tkt
+
+D) Özel prefix ile çalıştırmak için:
+
+   python make_clone_xmls.py --prefix "test_"
+
+E) Özel çıktı klasörü için:
+
+   python make_clone_xmls.py --out-dir output
+
+
+ADIM 3: ÇIKTI DOSYALARI
+------------------------
+İşlem tamamlandıktan sonra şu dosyalar oluşur:
+
+- ebi_out.xml  (eBijuteri klonlanmış XML)
+- tkt_out.xml  (TeknoTok klonlanmış XML)
+
+
+ADIM 4: DOĞRULAMA (Opsiyonel)
+------------------------------
+Orijinal ve klonlanmış dosyaları karşılaştırmak için:
+
+   python compare_stock_price.py ebi original_ebi.xml ebi_out.xml
+   python compare_stock_price.py tkt original_tkt.xml tkt_out.xml
+
+
+HIZLI BAŞLANGIÇ ÖRNEKLERİ
+--------------------------
+
+1. Basit çalıştırma (her şey varsayılan):
+   python make_clone_xmls.py
+
+2. Sadece bir feed:
+   python make_clone_xmls.py --only ebi
+
+3. Örnek çalıştırmaları görmek için:
+   run_examples.bat
+
+
+SORUN GİDERME
+-------------
+
+Hata: "No module named 'requests'"
+Çözüm: pip install -r requirements.txt komutunu çalıştırın
+
+Hata: "Config file not found"
+Çözüm: config.yaml dosyasının aynı klasörde olduğundan emin olun
+
+Hata: "Failed to fetch XML"
+Çözüm: İnternet bağlantınızı kontrol edin, URL'leri config.yaml'da kontrol edin
+
+
+YARDIM
+------
+Daha fazla bilgi için README.md dosyasına bakın.

@@ -1,0 +1,20 @@
+# XML Clone Tool Configuration
+
+# Prefix to add to barcode/SKU fields
+prefix: "isteburada_"
+
+# Feed URLs
+feeds:
+  ebi:
+    url: "http://xml.ebijuteri.com/api/xml/606eca02c442805e515961e2?format=old"
+    name: "eBijuteri"
+  
+  tkt:
+    url: "https://teknotok.com/wp-content/uploads/teknotok-feeds/teknotokxml.xml"
+    name: "TeknoTok"
+
+# Default settings
+defaults:
+  timeout: 60
+  retries: 5
+  retry_backoff: 2  # seconds
