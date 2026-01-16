@@ -13,6 +13,7 @@ import time
 import yaml
 from pathlib import Path
 from typing import Optional, Tuple
+from urllib.parse import urlsplit
 import requests
 from lxml import etree
 
@@ -52,17 +53,35 @@ class XMLCloneTool:
             'Accept-Language': 'en-US,en;q=0.5',
             'Accept-Encoding': 'gzip, deflate',
             'Connection': 'keep-alive',
+            'Referer': url,
         }
+        session = requests.Session()
+        session.headers.update(headers)
+        primed_cookies = False
+        base_url = None
+        try:
+            parts = urlsplit(url)
+            if parts.scheme and parts.netloc:
+                base_url = f"{parts.scheme}://{parts.netloc}/"
+        except Exception:
+            base_url = None
         
         for attempt in range(self.retries):
             try:
-                response = requests.get(url, headers=headers, timeout=self.timeout)
+                response = session.get(url, timeout=self.timeout)
                 response.raise_for_status()
                 return response.content
             except requests.exceptions.HTTPError as e:
                 status_code = e.response.status_code if e.response else None
                 # Retry on 403 (Forbidden) as it might be temporary rate limiting
                 if status_code in (403, 429, 500, 502, 503, 504):
+                    if status_code == 403 and not primed_cookies and base_url:
+                        primed_cookies = True
+                        try:
+                            session.get(base_url, timeout=self.timeout)
+                        except requests.exceptions.RequestException:
+                            pass
+                        continue
                     if attempt < self.retries - 1:
                         wait_time = self.backoff * (2 ** attempt)
                         print(f"HTTP {status_code} error, retrying in {wait_time}s... (attempt {attempt + 1}/{self.retries})")
