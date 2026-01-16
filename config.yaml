@@ -10,11 +10,12 @@ feeds:
     name: "eBijuteri"
   
   tkt:
-    url: "http://teknotok.com/wp-content/uploads/teknotok-feeds/teknotokxml.xml"
+    url: "https://teknotok.com/wp-content/uploads/teknotok-feeds/teknotokxml.xml"
     name: "TeknoTok"
     headers:
       Referer: "https://teknotok.com/"
       Origin: "https://teknotok.com"
+    use_curl_fallback: true
 
 # Default settings
 defaults:

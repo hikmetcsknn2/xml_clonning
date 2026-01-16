@@ -11,6 +11,7 @@ import os
 import sys
 import time
 import yaml
+import subprocess
 from pathlib import Path
 from typing import Optional, Tuple, Dict
 from urllib.parse import urlsplit
@@ -44,8 +45,11 @@ class XMLCloneTool:
             print(f"Error: Invalid YAML in config: {e}", file=sys.stderr)
             sys.exit(1)
     
-    def _fetch_xml(self, url: str, extra_headers: Optional[Dict[str, str]] = None) -> Optional[bytes]:
-        """Fetch XML from URL with retries and backoff."""
+    def _fetch_xml(self, url: str, extra_headers: Optional[Dict[str, str]] = None, allow_curl_fallback: bool = False) -> Optional[bytes]:
+        """Fetch XML from URL with retries and backoff.
+        
+        If allow_curl_fallback is True and requests gets 403, try curl as fallback.
+        """
         # Use browser-like headers to avoid 403 errors
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -78,6 +82,13 @@ class XMLCloneTool:
                 status_code = e.response.status_code if e.response else None
                 # Retry on 403 (Forbidden) as it might be temporary rate limiting
                 if status_code in (403, 429, 500, 502, 503, 504):
+                    # On 403, if curl fallback is allowed, try curl as last resort
+                    if status_code == 403 and allow_curl_fallback and attempt == self.retries - 1:
+                        print(f"HTTP 403 error, attempting curl fallback...")
+                        curl_result = self._fetch_with_curl(url, headers)
+                        if curl_result is not None:
+                            return curl_result
+                    
                     if status_code == 403 and not primed_cookies and base_url:
                         primed_cookies = True
                         try:
@@ -102,6 +113,50 @@ class XMLCloneTool:
                 return None
         
         return None
+    
+    def _fetch_with_curl(self, url: str, headers: Dict[str, str]) -> Optional[bytes]:
+        """Attempt to fetch URL using curl. Returns bytes or None on failure."""
+        try:
+            # Build curl command
+            cmd = ['curl', '-L', '-s', url]
+            
+            # Add User-Agent
+            ua = headers.get('User-Agent', 'Mozilla/5.0')
+            cmd.extend(['-A', ua])
+            
+            # Add Referer if present
+            referer = headers.get('Referer')
+            if referer:
+                cmd.extend(['-e', referer])
+            
+            # Execute curl with timeout
+            result = subprocess.run(cmd, capture_output=True, timeout=self.timeout)
+            
+            if result.returncode != 0:
+                print(f"Curl failed with return code {result.returncode}", file=sys.stderr)
+                return None
+            
+            content = result.stdout
+            if not content:
+                print(f"Curl returned empty content", file=sys.stderr)
+                return None
+            
+            # Basic sanity check: XML should start with < or <?xml
+            if not (content.startswith(b'<') or content.startswith(b'<?xml')):
+                print(f"Warning: Curl content does not appear to be valid XML", file=sys.stderr)
+            
+            return content
+            
+        except subprocess.TimeoutExpired:
+            print(f"Curl timeout after {self.timeout}s", file=sys.stderr)
+            return None
+        except FileNotFoundError:
+            # curl not available
+            print(f"Curl not found (install curl to enable 403 fallback)", file=sys.stderr)
+            return None
+        except Exception as e:
+            print(f"Curl fallback error: {e}", file=sys.stderr)
+            return None
     
     def _clone_ebijuteri(self, xml_content: bytes) -> Optional[Tuple[etree.ElementTree, int]]:
         """Clone eBijuteri XML and prefix barcode field.
@@ -251,9 +306,10 @@ class XMLCloneTool:
         print(f"\nProcessing {feed_name} ({feed_key})...")
         print(f"  URL: {url}")
         
-        # Fetch XML with any custom headers from feed config
+        # Fetch XML with any custom headers and curl fallback flag from feed config
         headers_override = feed_config.get('headers') if isinstance(feed_config, dict) else None
-        xml_content = self._fetch_xml(url, extra_headers=headers_override)
+        allow_curl_fallback = feed_config.get('use_curl_fallback', False) if isinstance(feed_config, dict) else False
+        xml_content = self._fetch_xml(url, extra_headers=headers_override, allow_curl_fallback=allow_curl_fallback)
         if xml_content is None:
             print(f"  Failed to fetch XML", file=sys.stderr)
             return False, 0, 0
