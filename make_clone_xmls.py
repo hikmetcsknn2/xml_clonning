@@ -12,7 +12,7 @@ import sys
 import time
 import yaml
 from pathlib import Path
-from typing import Optional, Tuple
+from typing import Optional, Tuple, Dict
 from urllib.parse import urlsplit
 import requests
 from lxml import etree
@@ -44,7 +44,7 @@ class XMLCloneTool:
             print(f"Error: Invalid YAML in config: {e}", file=sys.stderr)
             sys.exit(1)
     
-    def _fetch_xml(self, url: str) -> Optional[bytes]:
+    def _fetch_xml(self, url: str, extra_headers: Optional[Dict[str, str]] = None) -> Optional[bytes]:
         """Fetch XML from URL with retries and backoff."""
         # Use browser-like headers to avoid 403 errors
         headers = {
@@ -55,6 +55,9 @@ class XMLCloneTool:
             'Connection': 'keep-alive',
             'Referer': url,
         }
+        # Apply any extra headers (e.g., custom Referer/Origin) if provided
+        if extra_headers:
+            headers.update(extra_headers)
         session = requests.Session()
         session.headers.update(headers)
         primed_cookies = False
@@ -248,8 +251,9 @@ class XMLCloneTool:
         print(f"\nProcessing {feed_name} ({feed_key})...")
         print(f"  URL: {url}")
         
-        # Fetch XML
-        xml_content = self._fetch_xml(url)
+        # Fetch XML with any custom headers from feed config
+        headers_override = feed_config.get('headers') if isinstance(feed_config, dict) else None
+        xml_content = self._fetch_xml(url, extra_headers=headers_override)
         if xml_content is None:
             print(f"  Failed to fetch XML", file=sys.stderr)
             return False, 0, 0

@@ -12,6 +12,9 @@ feeds:
   tkt:
     url: "http://teknotok.com/wp-content/uploads/teknotok-feeds/teknotokxml.xml"
     name: "TeknoTok"
+    headers:
+      Referer: "https://teknotok.com/"
+      Origin: "https://teknotok.com"
 
 # Default settings
 defaults:
