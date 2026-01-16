@@ -10,7 +10,7 @@ feeds:
     name: "eBijuteri"
   
   tkt:
-    url: "https://teknotok.com/wp-content/uploads/teknotok-feeds/teknotokxml.xml"
+    url: "http://teknotok.com/wp-content/uploads/teknotok-feeds/teknotokxml.xml"
     name: "TeknoTok"
 
 # Default settings
