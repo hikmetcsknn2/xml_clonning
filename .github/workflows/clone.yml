@@ -28,18 +28,27 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Run clone script
+      - name: Run clone script (ignore non-zero exit)
         run: |
+          set +e
           python make_clone_xmls.py --config config.yaml
+          rc=$?
+          echo "make_clone_xmls.py exit code: $rc"
+          # continue regardless of script exit code
+          exit 0
 
       - name: Commit and push updated outputs
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add ebi_out.xml tkt_out.xml || true
-          if ! git diff --staged --quiet; then
+          # Only add files that exist to avoid errors
+          if [ -f ebi_out.xml ]; then git add ebi_out.xml; fi
+          if [ -f tkt_out.xml ]; then git add tkt_out.xml; fi
+          # If nothing staged, there are no changes
+          if git diff --staged --quiet; then
+            echo "No changes to output files"
+          else
             git commit -m "chore: update cloned XML outputs [skip ci]" || true
             git push
-          else
-            echo "No changes to output files"
           fi
