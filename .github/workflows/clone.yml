@@ -28,6 +28,28 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
+      - name: Diagnose TeknoTok feed (curl)
+        run: |
+          set +e
+          echo "== HEAD request =="
+          curl -I -L "https://teknotok.com/wp-content/uploads/teknotok-feeds/teknotokxml.xml" \
+            -A "Mozilla/5.0" \
+            -e "https://teknotok.com/" || true
+          echo ""
+          echo "== GET request (first 200 bytes) =="
+          curl -L "https://teknotok.com/wp-content/uploads/teknotok-feeds/teknotokxml.xml" \
+            -A "Mozilla/5.0" \
+            -e "https://teknotok.com/" \
+            --max-time 60 \
+            | head -c 200 || true
+          echo ""
+          echo "== GET request (status code only) =="
+          curl -L -o /dev/null -s -w "%{http_code}\n" \
+            -A "Mozilla/5.0" \
+            -e "https://teknotok.com/" \
+            --max-time 60 \
+            "https://teknotok.com/wp-content/uploads/teknotok-feeds/teknotokxml.xml" || true
+
       - name: Run clone script (ignore non-zero exit)
         run: |
           set +e
