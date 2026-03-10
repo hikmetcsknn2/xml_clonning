@@ -1000,44 +1000,6 @@ Havalı tarzınızı Eskitme Gümüş Renk Metal Kuru Kafa Tasarım Ayarlamalı 
 Trend beyler için Kuru Kafalı Gümüş Renk Erkek Yüzük modeli şık bir tercih olacak.</aciklama>
   </Urun>
   <Urun>
-    <adi>Kırmızı Renk İpli Yeni Sezon Deri Erkek Bileklik</adi>
-    <stok_kodu>EB1873</stok_kodu>
-    <product_id>25582</product_id>
-    <id>5f50f8ed935ab760341a44c2</id>
-    <barcode>isteburada_EB1873</barcode>
-    <eklenme_tarihi>2020-09-03 16:08:45</eklenme_tarihi>
-    <siralam_tarihi>2021-10-18 10:28:49</siralam_tarihi>
-    <miktar>40</miktar>
-    <kategori>Erkek Bileklik</kategori>
-    <AnaKategori>Erkek|Erkek Bileklik|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/EB1873-1.jpg</resim1>
-      <resim2>https://app.ebijuteri.com/storage/files/uploads/pimg/EB1873-2.jpg</resim2>
-    </resim>
-    <fiyat>
-      <son_kullanici>79.9</son_kullanici>
-      <bayi_fiyati>11.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Moco</marka>
-    <filtreler>
-      <filtre>
-        <name>Tarz</name>
-        <value>Günlük Kullanım</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Deri</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Kırmızı</value>
-      </filtre>
-    </filtreler>
-    <aciklama>Kombinlerinizde Kırmızı Renk İpli Yeni Sezon Deri Erkek Bileklik modeline yer açın.</aciklama>
-  </Urun>
-  <Urun>
     <adi>C Harf Bayan Küpe</adi>
     <stok_kodu>BKP4844-KS</stok_kodu>
     <product_id>31803</product_id>
@@ -2793,7 +2755,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB3569</barcode>
     <eklenme_tarihi>2021-04-15 11:47:48</eklenme_tarihi>
     <siralam_tarihi>2025-02-12 14:32:41</siralam_tarihi>
-    <miktar>67</miktar>
+    <miktar>69</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -3813,7 +3775,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO5902</barcode>
     <eklenme_tarihi>2021-11-17 12:13:23</eklenme_tarihi>
     <siralam_tarihi>2025-12-12 15:29:31</siralam_tarihi>
-    <miktar>168</miktar>
+    <miktar>171</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -3838,7 +3800,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO5903</barcode>
     <eklenme_tarihi>2021-11-17 12:13:28</eklenme_tarihi>
     <siralam_tarihi>2025-12-12 15:29:29</siralam_tarihi>
-    <miktar>160</miktar>
+    <miktar>162</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -3932,7 +3894,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB4102</barcode>
     <eklenme_tarihi>2021-11-18 10:45:02</eklenme_tarihi>
     <siralam_tarihi>2025-12-12 15:29:36</siralam_tarihi>
-    <miktar>159</miktar>
+    <miktar>161</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -3956,7 +3918,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB4103</barcode>
     <eklenme_tarihi>2021-11-18 10:45:07</eklenme_tarihi>
     <siralam_tarihi>2025-12-12 15:29:38</siralam_tarihi>
-    <miktar>98</miktar>
+    <miktar>101</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -3980,7 +3942,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB4117</barcode>
     <eklenme_tarihi>2021-11-23 10:41:53</eklenme_tarihi>
     <siralam_tarihi>2025-10-18 11:09:02</siralam_tarihi>
-    <miktar>140</miktar>
+    <miktar>143</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -4004,7 +3966,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB4119</barcode>
     <eklenme_tarihi>2021-11-23 10:42:00</eklenme_tarihi>
     <siralam_tarihi>2025-10-18 11:09:02</siralam_tarihi>
-    <miktar>163</miktar>
+    <miktar>166</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -6527,7 +6489,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK2583</barcode>
     <eklenme_tarihi>2023-04-18 14:01:31</eklenme_tarihi>
     <siralam_tarihi>2026-02-24 09:19:56</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>13</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -7409,7 +7371,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO7291</barcode>
     <eklenme_tarihi>2023-05-31 10:32:53</eklenme_tarihi>
     <siralam_tarihi>2026-01-21 17:59:20</siralam_tarihi>
-    <miktar>20</miktar>
+    <miktar>24</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -7675,7 +7637,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK2631</barcode>
     <eklenme_tarihi>2023-06-20 13:48:05</eklenme_tarihi>
     <siralam_tarihi>2025-06-28 12:50:58</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>18</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -7898,7 +7860,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK2665</barcode>
     <eklenme_tarihi>2023-07-06 16:21:17</eklenme_tarihi>
     <siralam_tarihi>2025-11-06 12:30:47</siralam_tarihi>
-    <miktar>176</miktar>
+    <miktar>177</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -8019,7 +7981,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK2706</barcode>
     <eklenme_tarihi>2023-07-25 09:18:53</eklenme_tarihi>
     <siralam_tarihi>2025-11-06 12:30:47</siralam_tarihi>
-    <miktar>92</miktar>
+    <miktar>94</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -8173,7 +8135,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO7451</barcode>
     <eklenme_tarihi>2023-07-28 09:18:19</eklenme_tarihi>
     <siralam_tarihi>2026-01-21 17:19:39</siralam_tarihi>
-    <miktar>164</miktar>
+    <miktar>165</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -8200,7 +8162,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO7459</barcode>
     <eklenme_tarihi>2023-07-31 15:10:44</eklenme_tarihi>
     <siralam_tarihi>2024-10-25 08:38:58</siralam_tarihi>
-    <miktar>37</miktar>
+    <miktar>36</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -9072,7 +9034,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK2741</barcode>
     <eklenme_tarihi>2023-08-25 16:15:18</eklenme_tarihi>
     <siralam_tarihi>2024-05-08 16:21:26</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>3</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -9892,7 +9854,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO7676</barcode>
     <eklenme_tarihi>2023-10-03 10:24:55</eklenme_tarihi>
     <siralam_tarihi>2024-05-18 17:57:17</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>18</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -10211,7 +10173,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP7892</barcode>
     <eklenme_tarihi>2023-10-12 15:14:36</eklenme_tarihi>
     <siralam_tarihi>2025-08-02 16:24:55</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>0</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -11000,7 +10962,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP7984</barcode>
     <eklenme_tarihi>2023-11-02 13:05:35</eklenme_tarihi>
     <siralam_tarihi>2023-11-02 13:05:35</siralam_tarihi>
-    <miktar>9</miktar>
+    <miktar>10</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -12491,7 +12453,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK2846</barcode>
     <eklenme_tarihi>2023-11-29 12:51:29</eklenme_tarihi>
     <siralam_tarihi>2026-02-24 09:21:03</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>11</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -12515,7 +12477,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK2851</barcode>
     <eklenme_tarihi>2023-11-29 12:52:22</eklenme_tarihi>
     <siralam_tarihi>2025-10-04 10:14:41</siralam_tarihi>
-    <miktar>93</miktar>
+    <miktar>96</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -12826,7 +12788,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB5667</barcode>
     <eklenme_tarihi>2023-12-13 14:22:34</eklenme_tarihi>
     <siralam_tarihi>2026-02-24 09:21:49</siralam_tarihi>
-    <miktar>28</miktar>
+    <miktar>31</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -12993,7 +12955,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK2861</barcode>
     <eklenme_tarihi>2023-12-14 14:08:53</eklenme_tarihi>
     <siralam_tarihi>2024-05-17 15:13:13</siralam_tarihi>
-    <miktar>51</miktar>
+    <miktar>53</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -13060,7 +13022,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK2864</barcode>
     <eklenme_tarihi>2023-12-14 14:08:58</eklenme_tarihi>
     <siralam_tarihi>2024-10-03 10:31:00</siralam_tarihi>
-    <miktar>38</miktar>
+    <miktar>41</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -14454,7 +14416,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK2939</barcode>
     <eklenme_tarihi>2024-01-11 13:28:18</eklenme_tarihi>
     <siralam_tarihi>2024-01-11 13:28:18</siralam_tarihi>
-    <miktar>0</miktar>
+    <miktar>3</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -14631,7 +14593,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK2951</barcode>
     <eklenme_tarihi>2024-01-19 17:12:00</eklenme_tarihi>
     <siralam_tarihi>2024-02-07 11:12:43</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>12</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -14672,7 +14634,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK2952</barcode>
     <eklenme_tarihi>2024-01-19 17:12:02</eklenme_tarihi>
     <siralam_tarihi>2024-09-18 09:32:27</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>24</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -14713,7 +14675,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK2953</barcode>
     <eklenme_tarihi>2024-01-19 17:12:07</eklenme_tarihi>
     <siralam_tarihi>2024-09-18 09:32:25</siralam_tarihi>
-    <miktar>65</miktar>
+    <miktar>67</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -14836,7 +14798,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK2957</barcode>
     <eklenme_tarihi>2024-01-19 17:12:36</eklenme_tarihi>
     <siralam_tarihi>2024-02-07 11:12:34</siralam_tarihi>
-    <miktar>18</miktar>
+    <miktar>20</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -14877,7 +14839,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK2959</barcode>
     <eklenme_tarihi>2024-01-19 17:12:43</eklenme_tarihi>
     <siralam_tarihi>2024-12-03 12:19:41</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>35</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -15728,7 +15690,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK2991</barcode>
     <eklenme_tarihi>2024-02-06 13:56:10</eklenme_tarihi>
     <siralam_tarihi>2024-02-06 13:56:10</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>34</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -15769,7 +15731,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK2992</barcode>
     <eklenme_tarihi>2024-02-06 13:56:14</eklenme_tarihi>
     <siralam_tarihi>2024-02-06 13:56:14</siralam_tarihi>
-    <miktar>13</miktar>
+    <miktar>14</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -15810,7 +15772,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK2997</barcode>
     <eklenme_tarihi>2024-02-06 13:56:40</eklenme_tarihi>
     <siralam_tarihi>2024-02-06 13:56:40</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>32</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -15834,7 +15796,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK2998</barcode>
     <eklenme_tarihi>2024-02-06 13:56:44</eklenme_tarihi>
     <siralam_tarihi>2024-02-06 13:56:44</siralam_tarihi>
-    <miktar>41</miktar>
+    <miktar>42</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -16975,7 +16937,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP8416</barcode>
     <eklenme_tarihi>2024-02-20 13:05:02</eklenme_tarihi>
     <siralam_tarihi>2024-02-20 13:05:02</siralam_tarihi>
-    <miktar>0</miktar>
+    <miktar>1</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -17214,7 +17176,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP8443</barcode>
     <eklenme_tarihi>2024-02-20 13:06:56</eklenme_tarihi>
     <siralam_tarihi>2026-02-24 09:22:18</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>13</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -17304,7 +17266,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP8447</barcode>
     <eklenme_tarihi>2024-02-20 13:07:05</eklenme_tarihi>
     <siralam_tarihi>2026-02-24 09:22:20</siralam_tarihi>
-    <miktar>13</miktar>
+    <miktar>12</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -18439,7 +18401,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3040</barcode>
     <eklenme_tarihi>2024-03-01 15:09:01</eklenme_tarihi>
     <siralam_tarihi>2025-10-03 11:42:43</siralam_tarihi>
-    <miktar>77</miktar>
+    <miktar>80</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -19772,7 +19734,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3048</barcode>
     <eklenme_tarihi>2024-04-02 15:49:17</eklenme_tarihi>
     <siralam_tarihi>2024-04-02 15:49:17</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>14</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -23099,48 +23061,6 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <aciklama>- Ürün tipi 316L çeliktir kararmaz paslanmaz.- Ürün zincir uzunluğu 45cm'dir.- Sağlıklı ve mutlu günlerde kullanmanız&amp;nbsp;dileğiyle…</aciklama>
   </Urun>
   <Urun>
-    <adi>316L Çelik Silver Renk Gemici Zincir Kolye</adi>
-    <stok_kodu>BKO8524</stok_kodu>
-    <product_id/>
-    <id>66460043235d1fc5f100e975</id>
-    <barcode>isteburada_BKO8524</barcode>
-    <eklenme_tarihi>2024-05-16 14:46:59</eklenme_tarihi>
-    <siralam_tarihi>2024-05-16 14:46:59</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Kolye</kategori>
-    <AnaKategori>Kadın|Kolye|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/1716022803_BKO8525-1.jpg</resim1>
-      <resim2>https://app.ebijuteri.com/storage/files/uploads/pimg/1716022803_BKO8525-2.jpg</resim2>
-    </resim>
-    <fiyat>
-      <son_kullanici>179.9</son_kullanici>
-      <bayi_fiyati>66.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Clariss</marka>
-    <filtreler>
-      <filtre>
-        <name>Tarz</name>
-        <value>Günlük Kullanım</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Gümüş</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Çelik</value>
-      </filtre>
-      <filtre>
-        <name>Beden</name>
-        <value>Standart</value>
-      </filtre>
-    </filtreler>
-    <aciklama>- Ürün tipi 316L çeliktir kararmaz paslanmaz.- Ürün zincir uzunluğu 45cm'dir.- Sağlıklı ve mutlu günlerde kullanmanız&amp;nbsp;dileğiyle…</aciklama>
-  </Urun>
-  <Urun>
     <adi>316L Çelik Silver Renk Kolye</adi>
     <stok_kodu>BKO8528</stok_kodu>
     <product_id/>
@@ -23715,7 +23635,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3110</barcode>
     <eklenme_tarihi>2024-05-20 09:11:44</eklenme_tarihi>
     <siralam_tarihi>2024-05-20 09:11:44</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>27</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -27190,7 +27110,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP8970</barcode>
     <eklenme_tarihi>2024-05-31 19:05:21</eklenme_tarihi>
     <siralam_tarihi>2024-05-31 19:05:21</siralam_tarihi>
-    <miktar>51</miktar>
+    <miktar>53</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -27516,7 +27436,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP8978</barcode>
     <eklenme_tarihi>2024-05-31 19:06:11</eklenme_tarihi>
     <siralam_tarihi>2024-05-31 19:06:11</siralam_tarihi>
-    <miktar>41</miktar>
+    <miktar>43</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -27598,7 +27518,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP8980</barcode>
     <eklenme_tarihi>2024-05-31 19:06:23</eklenme_tarihi>
     <siralam_tarihi>2024-10-07 15:09:39</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>16</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -27680,7 +27600,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP8982</barcode>
     <eklenme_tarihi>2024-05-31 19:06:37</eklenme_tarihi>
     <siralam_tarihi>2024-05-31 19:06:37</siralam_tarihi>
-    <miktar>24</miktar>
+    <miktar>27</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -27721,7 +27641,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP8983</barcode>
     <eklenme_tarihi>2024-05-31 19:06:42</eklenme_tarihi>
     <siralam_tarihi>2024-05-31 19:06:42</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>15</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -28975,7 +28895,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB6082</barcode>
     <eklenme_tarihi>2024-06-03 15:15:06</eklenme_tarihi>
     <siralam_tarihi>2026-02-24 09:23:54</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>12</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -29244,7 +29164,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3160</barcode>
     <eklenme_tarihi>2024-06-05 10:04:46</eklenme_tarihi>
     <siralam_tarihi>2025-03-15 10:14:55</siralam_tarihi>
-    <miktar>45</miktar>
+    <miktar>48</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -30079,7 +29999,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB6085</barcode>
     <eklenme_tarihi>2024-06-07 14:31:35</eklenme_tarihi>
     <siralam_tarihi>2025-12-03 14:55:19</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>30</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -32139,7 +32059,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP9089</barcode>
     <eklenme_tarihi>2024-07-04 15:33:31</eklenme_tarihi>
     <siralam_tarihi>2026-02-24 09:24:22</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>13</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -32503,7 +32423,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3210</barcode>
     <eklenme_tarihi>2024-07-08 08:57:23</eklenme_tarihi>
     <siralam_tarihi>2024-07-08 08:57:23</siralam_tarihi>
-    <miktar>0</miktar>
+    <miktar>1</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -32984,7 +32904,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO8873</barcode>
     <eklenme_tarihi>2024-07-09 13:22:02</eklenme_tarihi>
     <siralam_tarihi>2026-03-09 19:18:47</siralam_tarihi>
-    <miktar>105</miktar>
+    <miktar>106</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -34027,7 +33947,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO8923</barcode>
     <eklenme_tarihi>2024-07-27 10:03:33</eklenme_tarihi>
     <siralam_tarihi>2024-07-27 10:03:33</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>17</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -34074,7 +33994,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO8924</barcode>
     <eklenme_tarihi>2024-07-27 10:03:36</eklenme_tarihi>
     <siralam_tarihi>2024-07-27 10:03:36</siralam_tarihi>
-    <miktar>23</miktar>
+    <miktar>25</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -35851,7 +35771,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3239</barcode>
     <eklenme_tarihi>2024-08-12 17:38:42</eklenme_tarihi>
     <siralam_tarihi>2024-08-12 17:38:42</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>18</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -35965,7 +35885,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3245</barcode>
     <eklenme_tarihi>2024-08-12 17:38:56</eklenme_tarihi>
     <siralam_tarihi>2024-08-12 17:38:56</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>9</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -37479,7 +37399,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP9250</barcode>
     <eklenme_tarihi>2024-08-15 12:05:46</eklenme_tarihi>
     <siralam_tarihi>2024-08-15 12:05:46</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>0</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -40162,7 +40082,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB6257</barcode>
     <eklenme_tarihi>2024-08-22 12:28:33</eklenme_tarihi>
     <siralam_tarihi>2025-10-15 14:07:55</siralam_tarihi>
-    <miktar>39</miktar>
+    <miktar>42</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -40318,7 +40238,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB6270</barcode>
     <eklenme_tarihi>2024-08-22 12:30:06</eklenme_tarihi>
     <siralam_tarihi>2025-09-13 11:24:55</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>28</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -40344,7 +40264,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB6271</barcode>
     <eklenme_tarihi>2024-08-22 12:30:08</eklenme_tarihi>
     <siralam_tarihi>2025-09-13 11:24:59</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>9</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -40607,7 +40527,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO9000</barcode>
     <eklenme_tarihi>2024-08-22 14:57:19</eklenme_tarihi>
     <siralam_tarihi>2025-09-13 12:03:16</siralam_tarihi>
-    <miktar>39</miktar>
+    <miktar>38</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -41491,7 +41411,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3286</barcode>
     <eklenme_tarihi>2024-08-23 18:53:57</eklenme_tarihi>
     <siralam_tarihi>2024-08-23 18:53:57</siralam_tarihi>
-    <miktar>2</miktar>
+    <miktar>3</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -42554,7 +42474,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO9064</barcode>
     <eklenme_tarihi>2024-09-05 13:34:21</eklenme_tarihi>
     <siralam_tarihi>2024-09-05 13:34:21</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>6</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -43062,7 +42982,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO9116</barcode>
     <eklenme_tarihi>2024-09-05 13:36:39</eklenme_tarihi>
     <siralam_tarihi>2025-01-10 12:20:20</siralam_tarihi>
-    <miktar>0</miktar>
+    <miktar>3</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -43482,7 +43402,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO9145</barcode>
     <eklenme_tarihi>2024-09-05 13:38:08</eklenme_tarihi>
     <siralam_tarihi>2025-05-23 16:14:57</siralam_tarihi>
-    <miktar>60</miktar>
+    <miktar>62</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -43528,7 +43448,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO9146</barcode>
     <eklenme_tarihi>2024-09-05 13:38:10</eklenme_tarihi>
     <siralam_tarihi>2025-05-23 16:14:56</siralam_tarihi>
-    <miktar>90</miktar>
+    <miktar>93</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -43827,7 +43747,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB6302</barcode>
     <eklenme_tarihi>2024-09-07 10:22:23</eklenme_tarihi>
     <siralam_tarihi>2025-11-08 11:31:35</siralam_tarihi>
-    <miktar>161</miktar>
+    <miktar>160</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -49722,7 +49642,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3307</barcode>
     <eklenme_tarihi>2024-10-11 14:54:39</eklenme_tarihi>
     <siralam_tarihi>2026-02-24 09:27:48</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>13</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -49763,7 +49683,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3308</barcode>
     <eklenme_tarihi>2024-10-11 14:54:44</eklenme_tarihi>
     <siralam_tarihi>2024-10-11 14:54:44</siralam_tarihi>
-    <miktar>2</miktar>
+    <miktar>4</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -50033,7 +49953,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3334</barcode>
     <eklenme_tarihi>2024-10-11 14:57:44</eklenme_tarihi>
     <siralam_tarihi>2024-10-11 14:57:44</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>7</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -50074,7 +49994,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3335</barcode>
     <eklenme_tarihi>2024-10-11 14:58:03</eklenme_tarihi>
     <siralam_tarihi>2024-10-11 14:58:03</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>9</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -50115,7 +50035,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3337</barcode>
     <eklenme_tarihi>2024-10-11 14:58:13</eklenme_tarihi>
     <siralam_tarihi>2024-10-11 14:58:13</siralam_tarihi>
-    <miktar>9</miktar>
+    <miktar>11</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -50238,7 +50158,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3349</barcode>
     <eklenme_tarihi>2024-10-11 14:59:40</eklenme_tarihi>
     <siralam_tarihi>2024-10-11 14:59:40</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>34</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -51829,7 +51749,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BC1009</barcode>
     <eklenme_tarihi>2024-11-07 08:28:05</eklenme_tarihi>
     <siralam_tarihi>2024-11-07 13:08:57</siralam_tarihi>
-    <miktar>38</miktar>
+    <miktar>40</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -52291,7 +52211,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB6460</barcode>
     <eklenme_tarihi>2024-11-09 07:24:03</eklenme_tarihi>
     <siralam_tarihi>2026-01-16 12:02:55</siralam_tarihi>
-    <miktar>83</miktar>
+    <miktar>82</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -52343,7 +52263,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB6463</barcode>
     <eklenme_tarihi>2024-11-09 07:26:44</eklenme_tarihi>
     <siralam_tarihi>2026-01-16 12:02:57</siralam_tarihi>
-    <miktar>67</miktar>
+    <miktar>66</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -54024,7 +53944,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3374</barcode>
     <eklenme_tarihi>2024-11-14 15:17:51</eklenme_tarihi>
     <siralam_tarihi>2024-11-14 15:17:51</siralam_tarihi>
-    <miktar>13</miktar>
+    <miktar>15</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -54065,7 +53985,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3375</barcode>
     <eklenme_tarihi>2024-11-14 15:17:55</eklenme_tarihi>
     <siralam_tarihi>2024-11-14 15:17:55</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>7</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -54762,7 +54682,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3400</barcode>
     <eklenme_tarihi>2024-11-14 15:20:26</eklenme_tarihi>
     <siralam_tarihi>2024-11-14 15:20:26</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>18</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -54803,7 +54723,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3401</barcode>
     <eklenme_tarihi>2024-11-14 15:20:29</eklenme_tarihi>
     <siralam_tarihi>2024-11-14 15:20:29</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>9</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -58148,7 +58068,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_PR1349</barcode>
     <eklenme_tarihi>2024-11-21 15:32:00</eklenme_tarihi>
     <siralam_tarihi>2024-11-21 15:32:00</siralam_tarihi>
-    <miktar>24</miktar>
+    <miktar>25</miktar>
     <kategori>Piercing</kategori>
     <AnaKategori>Diğer Ürünler|Piercing|</AnaKategori>
     <kdv>20</kdv>
@@ -60350,7 +60270,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3431</barcode>
     <eklenme_tarihi>2024-12-06 10:09:34</eklenme_tarihi>
     <siralam_tarihi>2024-12-06 10:09:34</siralam_tarihi>
-    <miktar>9</miktar>
+    <miktar>11</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -60395,7 +60315,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3437</barcode>
     <eklenme_tarihi>2024-12-06 10:09:56</eklenme_tarihi>
     <siralam_tarihi>2024-12-06 10:09:56</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>4</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -60436,7 +60356,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3438</barcode>
     <eklenme_tarihi>2024-12-06 10:10:01</eklenme_tarihi>
     <siralam_tarihi>2024-12-06 10:10:01</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>6</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -60477,7 +60397,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3439</barcode>
     <eklenme_tarihi>2024-12-06 10:10:05</eklenme_tarihi>
     <siralam_tarihi>2024-12-06 10:10:05</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>18</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -60878,7 +60798,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3453</barcode>
     <eklenme_tarihi>2024-12-06 10:11:05</eklenme_tarihi>
     <siralam_tarihi>2024-12-06 10:11:05</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>3</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -62785,7 +62705,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP9777</barcode>
     <eklenme_tarihi>2024-12-11 15:28:58</eklenme_tarihi>
     <siralam_tarihi>2024-12-11 15:28:58</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>29</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -63749,7 +63669,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO9583</barcode>
     <eklenme_tarihi>2024-12-12 13:56:50</eklenme_tarihi>
     <siralam_tarihi>2026-01-21 17:53:42</siralam_tarihi>
-    <miktar>32</miktar>
+    <miktar>35</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -63776,7 +63696,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO9584</barcode>
     <eklenme_tarihi>2024-12-12 13:56:57</eklenme_tarihi>
     <siralam_tarihi>2026-01-21 17:53:44</siralam_tarihi>
-    <miktar>96</miktar>
+    <miktar>99</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -64576,7 +64496,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3501</barcode>
     <eklenme_tarihi>2024-12-12 14:11:45</eklenme_tarihi>
     <siralam_tarihi>2026-03-07 09:27:46</siralam_tarihi>
-    <miktar>23</miktar>
+    <miktar>24</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -64894,7 +64814,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3512</barcode>
     <eklenme_tarihi>2024-12-12 14:12:44</eklenme_tarihi>
     <siralam_tarihi>2024-12-12 14:12:44</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>20</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -65029,7 +64949,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3520</barcode>
     <eklenme_tarihi>2024-12-12 14:14:24</eklenme_tarihi>
     <siralam_tarihi>2024-12-12 14:14:24</siralam_tarihi>
-    <miktar>13</miktar>
+    <miktar>15</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -66244,7 +66164,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO9615</barcode>
     <eklenme_tarihi>2024-12-19 14:43:59</eklenme_tarihi>
     <siralam_tarihi>2024-12-19 14:43:59</siralam_tarihi>
-    <miktar>0</miktar>
+    <miktar>3</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -69168,7 +69088,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP9940</barcode>
     <eklenme_tarihi>2024-12-24 13:37:48</eklenme_tarihi>
     <siralam_tarihi>2024-12-24 13:37:48</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>15</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -71339,7 +71259,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10001</barcode>
     <eklenme_tarihi>2025-01-08 12:40:53</eklenme_tarihi>
     <siralam_tarihi>2025-01-08 12:40:53</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>12</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -71560,7 +71480,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3524</barcode>
     <eklenme_tarihi>2025-01-08 12:51:15</eklenme_tarihi>
     <siralam_tarihi>2025-01-08 12:51:15</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>19</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -71601,7 +71521,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3525</barcode>
     <eklenme_tarihi>2025-01-08 12:51:19</eklenme_tarihi>
     <siralam_tarihi>2025-01-08 12:51:19</siralam_tarihi>
-    <miktar>0</miktar>
+    <miktar>2</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -71642,7 +71562,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3526</barcode>
     <eklenme_tarihi>2025-01-08 12:51:22</eklenme_tarihi>
     <siralam_tarihi>2025-01-08 12:51:22</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>17</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -71683,7 +71603,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3527</barcode>
     <eklenme_tarihi>2025-01-08 12:51:26</eklenme_tarihi>
     <siralam_tarihi>2025-01-08 12:51:26</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>12</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -71724,7 +71644,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3528</barcode>
     <eklenme_tarihi>2025-01-08 12:51:31</eklenme_tarihi>
     <siralam_tarihi>2025-01-08 12:51:31</siralam_tarihi>
-    <miktar>13</miktar>
+    <miktar>15</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -71765,7 +71685,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3530</barcode>
     <eklenme_tarihi>2025-01-08 12:51:42</eklenme_tarihi>
     <siralam_tarihi>2025-01-08 12:51:42</siralam_tarihi>
-    <miktar>41</miktar>
+    <miktar>42</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -71789,7 +71709,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3534</barcode>
     <eklenme_tarihi>2025-01-08 12:51:59</eklenme_tarihi>
     <siralam_tarihi>2025-01-08 12:51:59</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>9</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -71949,7 +71869,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3539</barcode>
     <eklenme_tarihi>2025-01-08 12:52:26</eklenme_tarihi>
     <siralam_tarihi>2026-01-29 12:29:58</siralam_tarihi>
-    <miktar>112</miktar>
+    <miktar>116</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -72099,7 +72019,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3543</barcode>
     <eklenme_tarihi>2025-01-08 12:52:46</eklenme_tarihi>
     <siralam_tarihi>2025-01-08 12:52:46</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>3</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -72140,7 +72060,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3544</barcode>
     <eklenme_tarihi>2025-01-08 12:52:49</eklenme_tarihi>
     <siralam_tarihi>2025-01-08 12:52:49</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>9</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -72246,7 +72166,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3548</barcode>
     <eklenme_tarihi>2025-01-08 12:53:06</eklenme_tarihi>
     <siralam_tarihi>2025-01-08 12:53:06</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>12</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -72914,7 +72834,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10011</barcode>
     <eklenme_tarihi>2025-01-16 11:14:26</eklenme_tarihi>
     <siralam_tarihi>2025-08-02 16:17:36</siralam_tarihi>
-    <miktar>62</miktar>
+    <miktar>63</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -73519,7 +73439,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB6640</barcode>
     <eklenme_tarihi>2025-01-16 11:30:10</eklenme_tarihi>
     <siralam_tarihi>2025-11-08 11:31:34</siralam_tarihi>
-    <miktar>76</miktar>
+    <miktar>79</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -76688,7 +76608,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3585</barcode>
     <eklenme_tarihi>2025-02-04 14:22:13</eklenme_tarihi>
     <siralam_tarihi>2025-02-04 14:22:13</siralam_tarihi>
-    <miktar>9</miktar>
+    <miktar>11</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -76753,7 +76673,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3588</barcode>
     <eklenme_tarihi>2025-02-04 14:22:31</eklenme_tarihi>
     <siralam_tarihi>2025-02-04 14:22:31</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>6</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -78182,7 +78102,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB6748</barcode>
     <eklenme_tarihi>2025-02-13 13:07:21</eklenme_tarihi>
     <siralam_tarihi>2025-02-13 13:07:21</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>5</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -80462,7 +80382,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10303</barcode>
     <eklenme_tarihi>2025-02-20 15:09:27</eklenme_tarihi>
     <siralam_tarihi>2025-10-23 12:05:20</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>17</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -83816,7 +83736,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3690</barcode>
     <eklenme_tarihi>2025-04-03 12:56:29</eklenme_tarihi>
     <siralam_tarihi>2025-04-03 12:56:29</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>6</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -83857,7 +83777,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3699</barcode>
     <eklenme_tarihi>2025-04-03 12:57:10</eklenme_tarihi>
     <siralam_tarihi>2025-04-03 12:57:10</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>9</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -86897,7 +86817,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO9969</barcode>
     <eklenme_tarihi>2025-04-12 11:48:30</eklenme_tarihi>
     <siralam_tarihi>2025-04-12 11:48:30</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>11</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -87137,7 +87057,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO9997</barcode>
     <eklenme_tarihi>2025-04-12 11:49:59</eklenme_tarihi>
     <siralam_tarihi>2025-04-12 11:49:59</siralam_tarihi>
-    <miktar>2</miktar>
+    <miktar>4</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -89308,7 +89228,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10452</barcode>
     <eklenme_tarihi>2025-04-21 14:39:57</eklenme_tarihi>
     <siralam_tarihi>2025-10-23 15:47:33</siralam_tarihi>
-    <miktar>9</miktar>
+    <miktar>10</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -91514,7 +91434,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3720</barcode>
     <eklenme_tarihi>2025-04-28 15:09:37</eklenme_tarihi>
     <siralam_tarihi>2025-04-28 15:09:37</siralam_tarihi>
-    <miktar>27</miktar>
+    <miktar>29</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -91588,7 +91508,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3726</barcode>
     <eklenme_tarihi>2025-04-28 15:10:26</eklenme_tarihi>
     <siralam_tarihi>2025-04-28 15:10:26</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>19</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -91670,7 +91590,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3728</barcode>
     <eklenme_tarihi>2025-04-28 15:10:54</eklenme_tarihi>
     <siralam_tarihi>2025-04-28 15:10:54</siralam_tarihi>
-    <miktar>29</miktar>
+    <miktar>30</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -91715,7 +91635,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3729</barcode>
     <eklenme_tarihi>2025-04-28 15:10:59</eklenme_tarihi>
     <siralam_tarihi>2025-04-28 15:10:59</siralam_tarihi>
-    <miktar>23</miktar>
+    <miktar>25</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -91780,7 +91700,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3732</barcode>
     <eklenme_tarihi>2025-04-28 15:11:06</eklenme_tarihi>
     <siralam_tarihi>2025-04-28 15:11:06</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>13</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -91821,7 +91741,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3733</barcode>
     <eklenme_tarihi>2025-04-28 15:11:08</eklenme_tarihi>
     <siralam_tarihi>2025-04-28 15:11:08</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>7</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -91862,7 +91782,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3734</barcode>
     <eklenme_tarihi>2025-04-28 15:11:10</eklenme_tarihi>
     <siralam_tarihi>2025-04-28 15:11:10</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>21</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -92042,7 +91962,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3740</barcode>
     <eklenme_tarihi>2025-04-28 15:11:39</eklenme_tarihi>
     <siralam_tarihi>2025-04-28 15:11:39</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>18</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -92083,7 +92003,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3744</barcode>
     <eklenme_tarihi>2025-04-28 15:11:46</eklenme_tarihi>
     <siralam_tarihi>2025-04-28 15:11:46</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>9</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -92165,7 +92085,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3750</barcode>
     <eklenme_tarihi>2025-04-28 15:12:16</eklenme_tarihi>
     <siralam_tarihi>2025-04-28 15:12:16</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>16</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -93006,7 +92926,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB6954</barcode>
     <eklenme_tarihi>2025-05-07 19:27:21</eklenme_tarihi>
     <siralam_tarihi>2025-05-07 19:27:21</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>12</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -93281,7 +93201,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10148</barcode>
     <eklenme_tarihi>2025-05-12 11:35:39</eklenme_tarihi>
     <siralam_tarihi>2025-05-12 11:35:39</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>18</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -93649,7 +93569,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10165</barcode>
     <eklenme_tarihi>2025-05-12 11:35:50</eklenme_tarihi>
     <siralam_tarihi>2025-05-12 11:35:50</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>13</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -95058,7 +94978,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10517</barcode>
     <eklenme_tarihi>2025-05-19 14:08:59</eklenme_tarihi>
     <siralam_tarihi>2025-09-10 09:18:18</siralam_tarihi>
-    <miktar>42</miktar>
+    <miktar>44</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -95099,7 +95019,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10518</barcode>
     <eklenme_tarihi>2025-05-19 14:09:13</eklenme_tarihi>
     <siralam_tarihi>2025-09-10 09:16:23</siralam_tarihi>
-    <miktar>72</miktar>
+    <miktar>74</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -97614,7 +97534,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10565</barcode>
     <eklenme_tarihi>2025-05-21 11:22:47</eklenme_tarihi>
     <siralam_tarihi>2025-05-21 11:22:47</siralam_tarihi>
-    <miktar>32</miktar>
+    <miktar>33</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -97752,7 +97672,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10572</barcode>
     <eklenme_tarihi>2025-05-21 11:24:17</eklenme_tarihi>
     <siralam_tarihi>2025-05-21 11:24:17</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>3</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -98028,7 +97948,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10580</barcode>
     <eklenme_tarihi>2025-05-21 11:24:54</eklenme_tarihi>
     <siralam_tarihi>2025-05-21 11:24:54</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>24</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -98436,7 +98356,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10598</barcode>
     <eklenme_tarihi>2025-05-21 11:27:37</eklenme_tarihi>
     <siralam_tarihi>2025-05-21 11:27:37</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>5</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -98481,7 +98401,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10599</barcode>
     <eklenme_tarihi>2025-05-21 11:27:42</eklenme_tarihi>
     <siralam_tarihi>2025-05-21 11:27:42</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>10</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -98526,7 +98446,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10602</barcode>
     <eklenme_tarihi>2025-05-21 11:27:55</eklenme_tarihi>
     <siralam_tarihi>2025-05-21 11:27:55</siralam_tarihi>
-    <miktar>2</miktar>
+    <miktar>4</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -98661,7 +98581,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10605</barcode>
     <eklenme_tarihi>2025-05-21 11:28:02</eklenme_tarihi>
     <siralam_tarihi>2025-05-21 11:28:02</siralam_tarihi>
-    <miktar>13</miktar>
+    <miktar>15</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -98931,7 +98851,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10617</barcode>
     <eklenme_tarihi>2025-05-21 11:28:50</eklenme_tarihi>
     <siralam_tarihi>2025-05-21 11:28:50</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>8</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -98976,7 +98896,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10623</barcode>
     <eklenme_tarihi>2025-05-21 11:29:13</eklenme_tarihi>
     <siralam_tarihi>2025-05-21 11:29:13</siralam_tarihi>
-    <miktar>2</miktar>
+    <miktar>4</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -99920,7 +99840,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3756</barcode>
     <eklenme_tarihi>2025-05-27 15:05:56</eklenme_tarihi>
     <siralam_tarihi>2025-11-06 12:30:59</siralam_tarihi>
-    <miktar>68</miktar>
+    <miktar>69</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -99944,7 +99864,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3757</barcode>
     <eklenme_tarihi>2025-05-27 15:05:58</eklenme_tarihi>
     <siralam_tarihi>2025-10-03 11:42:38</siralam_tarihi>
-    <miktar>97</miktar>
+    <miktar>100</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -101284,7 +101204,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10630</barcode>
     <eklenme_tarihi>2025-05-29 17:27:53</eklenme_tarihi>
     <siralam_tarihi>2025-12-24 12:20:28</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>34</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -101442,7 +101362,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10644</barcode>
     <eklenme_tarihi>2025-05-29 17:32:09</eklenme_tarihi>
     <siralam_tarihi>2025-05-29 17:32:09</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>6</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -101494,7 +101414,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10646</barcode>
     <eklenme_tarihi>2025-05-29 17:32:19</eklenme_tarihi>
     <siralam_tarihi>2025-05-29 17:32:19</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>6</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -101561,7 +101481,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10650</barcode>
     <eklenme_tarihi>2025-05-29 17:32:37</eklenme_tarihi>
     <siralam_tarihi>2025-05-29 17:32:37</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>14</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -101602,7 +101522,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10652</barcode>
     <eklenme_tarihi>2025-05-29 17:32:52</eklenme_tarihi>
     <siralam_tarihi>2025-05-29 17:32:52</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>8</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -101684,7 +101604,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10659</barcode>
     <eklenme_tarihi>2025-05-29 17:34:39</eklenme_tarihi>
     <siralam_tarihi>2025-05-29 17:34:39</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>4</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -102230,7 +102150,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7040</barcode>
     <eklenme_tarihi>2025-06-03 15:48:15</eklenme_tarihi>
     <siralam_tarihi>2025-06-03 15:48:15</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>17</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -102533,7 +102453,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7057</barcode>
     <eklenme_tarihi>2025-06-03 15:48:56</eklenme_tarihi>
     <siralam_tarihi>2025-06-03 15:48:56</siralam_tarihi>
-    <miktar>18</miktar>
+    <miktar>20</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -105829,7 +105749,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10301</barcode>
     <eklenme_tarihi>2025-06-13 12:12:20</eklenme_tarihi>
     <siralam_tarihi>2026-01-29 12:37:18</siralam_tarihi>
-    <miktar>135</miktar>
+    <miktar>137</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -107794,7 +107714,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_EB3734</barcode>
     <eklenme_tarihi>2025-06-16 16:25:39</eklenme_tarihi>
     <siralam_tarihi>2025-06-16 16:25:39</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>21</miktar>
     <kategori>Erkek Bileklik</kategori>
     <AnaKategori>Erkek|Erkek Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -108602,7 +108522,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10309</barcode>
     <eklenme_tarihi>2025-06-23 15:52:22</eklenme_tarihi>
     <siralam_tarihi>2025-06-23 15:52:22</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>17</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -111315,7 +111235,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7343</barcode>
     <eklenme_tarihi>2025-07-02 11:38:56</eklenme_tarihi>
     <siralam_tarihi>2026-02-07 10:08:51</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>11</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -111765,7 +111685,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7364</barcode>
     <eklenme_tarihi>2025-07-02 11:42:11</eklenme_tarihi>
     <siralam_tarihi>2025-10-15 14:07:51</siralam_tarihi>
-    <miktar>36</miktar>
+    <miktar>38</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -112752,7 +112672,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_ERK1389</barcode>
     <eklenme_tarihi>2025-07-04 10:18:39</eklenme_tarihi>
     <siralam_tarihi>2025-07-04 10:18:39</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>18</miktar>
     <kategori>Erkek Kolye</kategori>
     <AnaKategori>Erkek|Erkek Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -113053,7 +112973,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_EB3747</barcode>
     <eklenme_tarihi>2025-07-04 10:23:57</eklenme_tarihi>
     <siralam_tarihi>2025-07-04 10:23:57</siralam_tarihi>
-    <miktar>88</miktar>
+    <miktar>91</miktar>
     <kategori>Erkek Bileklik</kategori>
     <AnaKategori>Erkek|Erkek Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -114080,7 +114000,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10902</barcode>
     <eklenme_tarihi>2025-07-08 10:17:21</eklenme_tarihi>
     <siralam_tarihi>2025-07-08 10:17:21</siralam_tarihi>
-    <miktar>2</miktar>
+    <miktar>1</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -114376,7 +114296,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_SN682</barcode>
     <eklenme_tarihi>2025-07-11 16:00:34</eklenme_tarihi>
     <siralam_tarihi>2025-07-11 16:00:34</siralam_tarihi>
-    <miktar>18</miktar>
+    <miktar>17</miktar>
     <kategori>Şahmeran</kategori>
     <AnaKategori>Kadın|Şahmeran|</AnaKategori>
     <kdv>20</kdv>
@@ -114724,7 +114644,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7466</barcode>
     <eklenme_tarihi>2025-07-11 16:07:09</eklenme_tarihi>
     <siralam_tarihi>2025-07-11 16:07:09</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>3</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -114976,7 +114896,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3797</barcode>
     <eklenme_tarihi>2025-07-11 16:14:54</eklenme_tarihi>
     <siralam_tarihi>2025-07-11 16:14:54</siralam_tarihi>
-    <miktar>40</miktar>
+    <miktar>41</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -115021,7 +114941,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3798</barcode>
     <eklenme_tarihi>2025-07-11 16:14:59</eklenme_tarihi>
     <siralam_tarihi>2025-07-11 16:14:59</siralam_tarihi>
-    <miktar>27</miktar>
+    <miktar>28</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -115062,7 +114982,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3800</barcode>
     <eklenme_tarihi>2025-07-11 16:15:11</eklenme_tarihi>
     <siralam_tarihi>2025-07-11 16:15:11</siralam_tarihi>
-    <miktar>35</miktar>
+    <miktar>37</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -115103,7 +115023,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3801</barcode>
     <eklenme_tarihi>2025-07-11 16:15:16</eklenme_tarihi>
     <siralam_tarihi>2025-07-11 16:15:16</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>3</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -115952,7 +115872,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7494</barcode>
     <eklenme_tarihi>2025-07-12 15:47:23</eklenme_tarihi>
     <siralam_tarihi>2026-01-20 12:02:44</siralam_tarihi>
-    <miktar>20</miktar>
+    <miktar>19</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -116046,7 +115966,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7498</barcode>
     <eklenme_tarihi>2025-07-12 15:47:36</eklenme_tarihi>
     <siralam_tarihi>2026-01-20 12:02:41</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>7</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -120188,7 +120108,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11017</barcode>
     <eklenme_tarihi>2025-07-30 15:12:24</eklenme_tarihi>
     <siralam_tarihi>2025-07-30 15:12:24</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>0</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -120500,7 +120420,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11037</barcode>
     <eklenme_tarihi>2025-07-30 15:16:03</eklenme_tarihi>
     <siralam_tarihi>2025-07-30 15:16:03</siralam_tarihi>
-    <miktar>77</miktar>
+    <miktar>79</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -120537,7 +120457,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11038</barcode>
     <eklenme_tarihi>2025-07-30 15:16:48</eklenme_tarihi>
     <siralam_tarihi>2025-07-30 15:16:48</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>11</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -120574,7 +120494,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11039</barcode>
     <eklenme_tarihi>2025-07-30 15:16:53</eklenme_tarihi>
     <siralam_tarihi>2025-07-30 15:16:53</siralam_tarihi>
-    <miktar>31</miktar>
+    <miktar>33</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -120611,7 +120531,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11041</barcode>
     <eklenme_tarihi>2025-07-30 15:17:03</eklenme_tarihi>
     <siralam_tarihi>2025-07-30 15:17:03</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>27</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -120685,7 +120605,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11043</barcode>
     <eklenme_tarihi>2025-07-30 15:17:10</eklenme_tarihi>
     <siralam_tarihi>2025-07-30 15:17:10</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>16</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -120944,7 +120864,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11051</barcode>
     <eklenme_tarihi>2025-07-30 15:17:42</eklenme_tarihi>
     <siralam_tarihi>2025-07-30 15:17:42</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>6</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -121018,7 +120938,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11053</barcode>
     <eklenme_tarihi>2025-07-30 15:17:51</eklenme_tarihi>
     <siralam_tarihi>2025-07-30 15:17:51</siralam_tarihi>
-    <miktar>20</miktar>
+    <miktar>21</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -121055,7 +120975,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11055</barcode>
     <eklenme_tarihi>2025-07-30 15:18:05</eklenme_tarihi>
     <siralam_tarihi>2025-07-30 15:18:05</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>24</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -121129,7 +121049,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11057</barcode>
     <eklenme_tarihi>2025-07-30 15:18:15</eklenme_tarihi>
     <siralam_tarihi>2025-07-30 15:18:15</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>23</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -122094,7 +122014,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7661</barcode>
     <eklenme_tarihi>2025-07-30 15:33:01</eklenme_tarihi>
     <siralam_tarihi>2025-07-30 15:33:01</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>5</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -122439,7 +122359,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11066</barcode>
     <eklenme_tarihi>2025-08-07 15:23:43</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:23:43</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>7</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -123376,7 +123296,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7688</barcode>
     <eklenme_tarihi>2025-08-07 15:39:44</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:39:44</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>9</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -123422,7 +123342,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7689</barcode>
     <eklenme_tarihi>2025-08-07 15:39:50</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:39:50</siralam_tarihi>
-    <miktar>9</miktar>
+    <miktar>11</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -123464,7 +123384,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7690</barcode>
     <eklenme_tarihi>2025-08-07 15:40:09</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:40:09</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>12</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -123506,7 +123426,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7691</barcode>
     <eklenme_tarihi>2025-08-07 15:40:11</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:40:11</siralam_tarihi>
-    <miktar>21</miktar>
+    <miktar>23</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -123548,7 +123468,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7692</barcode>
     <eklenme_tarihi>2025-08-07 15:40:20</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:40:20</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>18</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -123590,7 +123510,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7693</barcode>
     <eklenme_tarihi>2025-08-07 15:40:22</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:40:22</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>14</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -123842,7 +123762,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7704</barcode>
     <eklenme_tarihi>2025-08-07 15:42:12</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:42:12</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>13</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -124026,7 +123946,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10448</barcode>
     <eklenme_tarihi>2025-08-07 15:49:48</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:49:48</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>18</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -124068,7 +123988,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10449</barcode>
     <eklenme_tarihi>2025-08-07 15:49:54</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:49:54</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>31</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -124194,7 +124114,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10452</barcode>
     <eklenme_tarihi>2025-08-07 15:50:08</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:50:08</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>20</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -124236,7 +124156,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10453</barcode>
     <eklenme_tarihi>2025-08-07 15:50:14</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:50:14</siralam_tarihi>
-    <miktar>41</miktar>
+    <miktar>42</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -124278,7 +124198,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10455</barcode>
     <eklenme_tarihi>2025-08-07 15:50:20</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:50:20</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>21</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -124305,7 +124225,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10454</barcode>
     <eklenme_tarihi>2025-08-07 15:50:25</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 15:50:25</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>14</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -125690,7 +125610,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11157</barcode>
     <eklenme_tarihi>2025-08-09 11:11:05</eklenme_tarihi>
     <siralam_tarihi>2025-08-09 11:11:05</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>9</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -125731,7 +125651,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11158</barcode>
     <eklenme_tarihi>2025-08-09 11:11:06</eklenme_tarihi>
     <siralam_tarihi>2025-08-09 11:11:06</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>2</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -126305,7 +126225,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11182</barcode>
     <eklenme_tarihi>2025-08-09 11:11:25</eklenme_tarihi>
     <siralam_tarihi>2025-08-09 11:11:25</siralam_tarihi>
-    <miktar>2</miktar>
+    <miktar>3</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -126764,7 +126684,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7717</barcode>
     <eklenme_tarihi>2025-08-09 11:31:25</eklenme_tarihi>
     <siralam_tarihi>2025-08-09 11:31:25</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>9</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -126929,7 +126849,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7722</barcode>
     <eklenme_tarihi>2025-08-09 11:31:39</eklenme_tarihi>
     <siralam_tarihi>2025-08-09 11:31:39</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>13</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -126983,7 +126903,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7724</barcode>
     <eklenme_tarihi>2025-08-09 11:31:43</eklenme_tarihi>
     <siralam_tarihi>2025-08-09 11:31:43</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>6</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -127160,7 +127080,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7730</barcode>
     <eklenme_tarihi>2025-08-09 11:31:58</eklenme_tarihi>
     <siralam_tarihi>2025-08-09 11:31:58</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>12</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -127187,7 +127107,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7731</barcode>
     <eklenme_tarihi>2025-08-09 11:32:00</eklenme_tarihi>
     <siralam_tarihi>2025-08-09 11:32:00</siralam_tarihi>
-    <miktar>13</miktar>
+    <miktar>15</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -127322,7 +127242,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7737</barcode>
     <eklenme_tarihi>2025-08-09 11:32:21</eklenme_tarihi>
     <siralam_tarihi>2025-08-09 11:32:21</siralam_tarihi>
-    <miktar>13</miktar>
+    <miktar>15</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -127349,7 +127269,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7738</barcode>
     <eklenme_tarihi>2025-08-09 11:32:27</eklenme_tarihi>
     <siralam_tarihi>2025-08-09 11:32:27</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>13</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -127376,7 +127296,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7739</barcode>
     <eklenme_tarihi>2025-08-09 11:32:30</eklenme_tarihi>
     <siralam_tarihi>2025-08-09 11:32:30</siralam_tarihi>
-    <miktar>13</miktar>
+    <miktar>15</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -127403,7 +127323,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7742</barcode>
     <eklenme_tarihi>2025-08-09 11:32:45</eklenme_tarihi>
     <siralam_tarihi>2025-08-09 11:32:45</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>24</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -127430,7 +127350,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7743</barcode>
     <eklenme_tarihi>2025-08-09 11:32:49</eklenme_tarihi>
     <siralam_tarihi>2025-08-09 11:32:49</siralam_tarihi>
-    <miktar>24</miktar>
+    <miktar>25</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -127541,7 +127461,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7746</barcode>
     <eklenme_tarihi>2025-08-09 11:33:03</eklenme_tarihi>
     <siralam_tarihi>2025-08-09 11:33:03</siralam_tarihi>
-    <miktar>20</miktar>
+    <miktar>21</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -127583,7 +127503,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7747</barcode>
     <eklenme_tarihi>2025-08-09 11:33:07</eklenme_tarihi>
     <siralam_tarihi>2025-08-09 11:33:07</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>24</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -127990,7 +127910,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7764</barcode>
     <eklenme_tarihi>2025-08-14 14:12:27</eklenme_tarihi>
     <siralam_tarihi>2025-08-14 14:12:27</siralam_tarihi>
-    <miktar>0</miktar>
+    <miktar>1</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -128158,7 +128078,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7768</barcode>
     <eklenme_tarihi>2025-08-14 14:14:25</eklenme_tarihi>
     <siralam_tarihi>2026-01-31 10:55:12</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>9</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -128356,7 +128276,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7783</barcode>
     <eklenme_tarihi>2025-08-14 14:19:11</eklenme_tarihi>
     <siralam_tarihi>2025-11-08 07:26:03</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>7</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -129601,7 +129521,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7803</barcode>
     <eklenme_tarihi>2025-08-22 13:44:17</eklenme_tarihi>
     <siralam_tarihi>2026-01-16 12:03:17</siralam_tarihi>
-    <miktar>36</miktar>
+    <miktar>37</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -133705,7 +133625,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11225</barcode>
     <eklenme_tarihi>2025-09-10 17:08:55</eklenme_tarihi>
     <siralam_tarihi>2025-09-10 17:08:55</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>8</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -133750,7 +133670,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7911</barcode>
     <eklenme_tarihi>2025-09-12 15:43:03</eklenme_tarihi>
     <siralam_tarihi>2025-09-12 15:43:03</siralam_tarihi>
-    <miktar>102</miktar>
+    <miktar>104</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -133775,7 +133695,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7912</barcode>
     <eklenme_tarihi>2025-09-12 15:43:18</eklenme_tarihi>
     <siralam_tarihi>2025-09-12 15:43:18</siralam_tarihi>
-    <miktar>91</miktar>
+    <miktar>93</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -133825,7 +133745,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7914</barcode>
     <eklenme_tarihi>2025-09-12 15:43:33</eklenme_tarihi>
     <siralam_tarihi>2025-09-12 15:43:33</siralam_tarihi>
-    <miktar>88</miktar>
+    <miktar>90</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -133879,7 +133799,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7915</barcode>
     <eklenme_tarihi>2025-09-12 15:43:38</eklenme_tarihi>
     <siralam_tarihi>2025-09-12 15:43:38</siralam_tarihi>
-    <miktar>78</miktar>
+    <miktar>79</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -136278,7 +136198,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7944</barcode>
     <eklenme_tarihi>2025-09-16 13:21:20</eklenme_tarihi>
     <siralam_tarihi>2025-09-16 13:21:20</siralam_tarihi>
-    <miktar>13</miktar>
+    <miktar>12</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -136514,7 +136434,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7951</barcode>
     <eklenme_tarihi>2025-09-16 13:22:12</eklenme_tarihi>
     <siralam_tarihi>2025-11-08 11:34:55</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>4</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -136567,7 +136487,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7953</barcode>
     <eklenme_tarihi>2025-09-16 13:22:27</eklenme_tarihi>
     <siralam_tarihi>2025-09-16 13:22:27</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>18</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -136648,7 +136568,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7955</barcode>
     <eklenme_tarihi>2025-09-16 13:22:32</eklenme_tarihi>
     <siralam_tarihi>2025-09-16 13:22:32</siralam_tarihi>
-    <miktar>41</miktar>
+    <miktar>46</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -136916,7 +136836,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3832</barcode>
     <eklenme_tarihi>2025-09-22 14:09:01</eklenme_tarihi>
     <siralam_tarihi>2025-09-22 14:09:01</siralam_tarihi>
-    <miktar>28</miktar>
+    <miktar>29</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -137414,7 +137334,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3844</barcode>
     <eklenme_tarihi>2025-09-22 14:11:32</eklenme_tarihi>
     <siralam_tarihi>2025-09-22 14:11:32</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>21</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -137438,7 +137358,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3845</barcode>
     <eklenme_tarihi>2025-09-22 14:11:34</eklenme_tarihi>
     <siralam_tarihi>2025-09-22 14:11:34</siralam_tarihi>
-    <miktar>28</miktar>
+    <miktar>30</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -137695,7 +137615,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3851</barcode>
     <eklenme_tarihi>2025-09-22 14:11:56</eklenme_tarihi>
     <siralam_tarihi>2025-09-22 14:11:56</siralam_tarihi>
-    <miktar>41</miktar>
+    <miktar>43</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -137801,7 +137721,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3853</barcode>
     <eklenme_tarihi>2025-09-22 14:12:01</eklenme_tarihi>
     <siralam_tarihi>2025-09-22 14:12:01</siralam_tarihi>
-    <miktar>51</miktar>
+    <miktar>53</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -137854,7 +137774,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3855</barcode>
     <eklenme_tarihi>2025-09-22 14:12:05</eklenme_tarihi>
     <siralam_tarihi>2025-09-22 14:12:05</siralam_tarihi>
-    <miktar>47</miktar>
+    <miktar>49</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -138437,7 +138357,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3866</barcode>
     <eklenme_tarihi>2025-09-22 14:13:27</eklenme_tarihi>
     <siralam_tarihi>2025-09-22 14:13:27</siralam_tarihi>
-    <miktar>39</miktar>
+    <miktar>41</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -138734,7 +138654,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3872</barcode>
     <eklenme_tarihi>2025-09-22 14:13:45</eklenme_tarihi>
     <siralam_tarihi>2025-09-22 14:13:45</siralam_tarihi>
-    <miktar>49</miktar>
+    <miktar>51</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -138787,7 +138707,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3873</barcode>
     <eklenme_tarihi>2025-09-22 14:13:47</eklenme_tarihi>
     <siralam_tarihi>2025-09-22 14:13:47</siralam_tarihi>
-    <miktar>54</miktar>
+    <miktar>56</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -138938,7 +138858,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3876</barcode>
     <eklenme_tarihi>2025-09-22 14:13:54</eklenme_tarihi>
     <siralam_tarihi>2025-09-22 14:13:54</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>10</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -138991,7 +138911,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3877</barcode>
     <eklenme_tarihi>2025-09-22 14:14:00</eklenme_tarihi>
     <siralam_tarihi>2025-09-22 14:14:00</siralam_tarihi>
-    <miktar>48</miktar>
+    <miktar>49</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -139017,7 +138937,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3879</barcode>
     <eklenme_tarihi>2025-09-22 14:14:04</eklenme_tarihi>
     <siralam_tarihi>2025-09-22 14:14:04</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>34</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -139584,7 +139504,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3890</barcode>
     <eklenme_tarihi>2025-09-22 14:15:11</eklenme_tarihi>
     <siralam_tarihi>2025-09-22 14:15:11</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>16</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -139637,7 +139557,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3891</barcode>
     <eklenme_tarihi>2025-09-22 14:15:13</eklenme_tarihi>
     <siralam_tarihi>2025-09-22 14:15:13</siralam_tarihi>
-    <miktar>18</miktar>
+    <miktar>20</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -139690,7 +139610,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3892</barcode>
     <eklenme_tarihi>2025-09-22 14:15:16</eklenme_tarihi>
     <siralam_tarihi>2025-09-22 14:15:16</siralam_tarihi>
-    <miktar>21</miktar>
+    <miktar>23</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -139796,7 +139716,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3894</barcode>
     <eklenme_tarihi>2025-09-22 14:15:21</eklenme_tarihi>
     <siralam_tarihi>2026-02-06 12:28:09</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>24</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -139849,7 +139769,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3895</barcode>
     <eklenme_tarihi>2025-09-22 14:15:25</eklenme_tarihi>
     <siralam_tarihi>2026-02-06 12:28:08</siralam_tarihi>
-    <miktar>42</miktar>
+    <miktar>44</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -140008,7 +139928,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3898</barcode>
     <eklenme_tarihi>2025-09-22 14:15:53</eklenme_tarihi>
     <siralam_tarihi>2026-02-02 11:13:54</siralam_tarihi>
-    <miktar>54</miktar>
+    <miktar>56</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -140032,7 +139952,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3899</barcode>
     <eklenme_tarihi>2025-09-22 14:15:56</eklenme_tarihi>
     <siralam_tarihi>2026-02-02 11:13:54</siralam_tarihi>
-    <miktar>74</miktar>
+    <miktar>76</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -140639,7 +140559,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10595</barcode>
     <eklenme_tarihi>2025-09-24 12:52:11</eklenme_tarihi>
     <siralam_tarihi>2025-09-24 12:52:11</siralam_tarihi>
-    <miktar>58</miktar>
+    <miktar>59</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -141045,7 +140965,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7977</barcode>
     <eklenme_tarihi>2025-09-24 13:04:42</eklenme_tarihi>
     <siralam_tarihi>2025-09-24 13:04:42</siralam_tarihi>
-    <miktar>37</miktar>
+    <miktar>42</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -141099,7 +141019,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7978</barcode>
     <eklenme_tarihi>2025-09-24 13:04:48</eklenme_tarihi>
     <siralam_tarihi>2025-09-24 13:04:48</siralam_tarihi>
-    <miktar>46</miktar>
+    <miktar>51</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -141123,7 +141043,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7979</barcode>
     <eklenme_tarihi>2025-09-24 13:05:29</eklenme_tarihi>
     <siralam_tarihi>2025-09-24 13:05:29</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>7</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -141281,7 +141201,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7983</barcode>
     <eklenme_tarihi>2025-09-24 13:06:10</eklenme_tarihi>
     <siralam_tarihi>2025-09-24 13:06:10</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>2</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -141335,7 +141255,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7984</barcode>
     <eklenme_tarihi>2025-09-24 13:06:14</eklenme_tarihi>
     <siralam_tarihi>2025-09-24 13:06:14</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>7</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -141414,7 +141334,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7986</barcode>
     <eklenme_tarihi>2025-09-24 13:06:18</eklenme_tarihi>
     <siralam_tarihi>2025-09-24 13:06:18</siralam_tarihi>
-    <miktar>9</miktar>
+    <miktar>10</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -141813,7 +141733,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11252</barcode>
     <eklenme_tarihi>2025-10-06 15:16:19</eklenme_tarihi>
     <siralam_tarihi>2025-10-06 15:16:19</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>27</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -141919,7 +141839,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11256</barcode>
     <eklenme_tarihi>2025-10-06 15:16:37</eklenme_tarihi>
     <siralam_tarihi>2025-10-06 15:16:37</siralam_tarihi>
-    <miktar>36</miktar>
+    <miktar>38</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -142965,7 +142885,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11288</barcode>
     <eklenme_tarihi>2025-10-06 15:18:36</eklenme_tarihi>
     <siralam_tarihi>2025-10-06 15:18:36</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>11</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -143209,7 +143129,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11295</barcode>
     <eklenme_tarihi>2025-10-06 15:19:02</eklenme_tarihi>
     <siralam_tarihi>2025-10-06 15:19:02</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>14</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -143445,7 +143365,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11301</barcode>
     <eklenme_tarihi>2025-10-06 15:19:16</eklenme_tarihi>
     <siralam_tarihi>2025-10-06 15:19:16</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>24</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -143930,7 +143850,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8012</barcode>
     <eklenme_tarihi>2025-10-06 15:25:01</eklenme_tarihi>
     <siralam_tarihi>2025-10-06 15:25:01</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>12</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -144145,7 +144065,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3901</barcode>
     <eklenme_tarihi>2025-10-06 15:26:06</eklenme_tarihi>
     <siralam_tarihi>2025-10-06 15:26:06</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>18</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -144255,7 +144175,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3903</barcode>
     <eklenme_tarihi>2025-10-06 15:26:33</eklenme_tarihi>
     <siralam_tarihi>2025-10-06 15:26:33</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>27</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -144385,7 +144305,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3906</barcode>
     <eklenme_tarihi>2025-10-06 15:30:23</eklenme_tarihi>
     <siralam_tarihi>2025-10-06 15:30:23</siralam_tarihi>
-    <miktar>62</miktar>
+    <miktar>64</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -145645,7 +145565,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11318</barcode>
     <eklenme_tarihi>2025-10-22 12:18:31</eklenme_tarihi>
     <siralam_tarihi>2025-10-22 12:18:31</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>17</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -145950,7 +145870,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11325</barcode>
     <eklenme_tarihi>2025-10-22 12:19:03</eklenme_tarihi>
     <siralam_tarihi>2025-10-22 12:19:03</siralam_tarihi>
-    <miktar>49</miktar>
+    <miktar>50</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -146377,7 +146297,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11334</barcode>
     <eklenme_tarihi>2025-10-22 12:19:44</eklenme_tarihi>
     <siralam_tarihi>2025-10-22 12:19:44</siralam_tarihi>
-    <miktar>23</miktar>
+    <miktar>24</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -148563,7 +148483,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10625</barcode>
     <eklenme_tarihi>2025-10-24 12:43:08</eklenme_tarihi>
     <siralam_tarihi>2025-10-24 12:43:08</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>7</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -149399,7 +149319,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10632</barcode>
     <eklenme_tarihi>2025-11-03 12:32:54</eklenme_tarihi>
     <siralam_tarihi>2025-11-03 12:32:54</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>20</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -152178,7 +152098,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10689</barcode>
     <eklenme_tarihi>2025-11-11 09:27:46</eklenme_tarihi>
     <siralam_tarihi>2025-11-11 09:27:46</siralam_tarihi>
-    <miktar>2</miktar>
+    <miktar>3</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -152488,7 +152408,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10694</barcode>
     <eklenme_tarihi>2025-11-11 09:27:57</eklenme_tarihi>
     <siralam_tarihi>2025-11-11 09:27:57</siralam_tarihi>
-    <miktar>9</miktar>
+    <miktar>8</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -152798,7 +152718,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10699</barcode>
     <eklenme_tarihi>2025-11-11 09:28:09</eklenme_tarihi>
     <siralam_tarihi>2025-11-11 09:28:09</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>5</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -154766,7 +154686,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11377</barcode>
     <eklenme_tarihi>2025-11-22 11:56:34</eklenme_tarihi>
     <siralam_tarihi>2025-11-22 11:56:34</siralam_tarihi>
-    <miktar>21</miktar>
+    <miktar>25</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -154823,7 +154743,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11378</barcode>
     <eklenme_tarihi>2025-11-22 11:56:48</eklenme_tarihi>
     <siralam_tarihi>2025-11-22 11:56:48</siralam_tarihi>
-    <miktar>35</miktar>
+    <miktar>37</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -154880,7 +154800,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11379</barcode>
     <eklenme_tarihi>2025-11-22 11:57:00</eklenme_tarihi>
     <siralam_tarihi>2025-11-22 11:57:00</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>20</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -156597,7 +156517,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8086</barcode>
     <eklenme_tarihi>2025-11-22 12:36:39</eklenme_tarihi>
     <siralam_tarihi>2025-11-22 12:36:39</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>16</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -157942,7 +157862,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8096</barcode>
     <eklenme_tarihi>2025-11-29 11:32:02</eklenme_tarihi>
     <siralam_tarihi>2025-11-29 11:32:02</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>16</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -158000,7 +157920,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8097</barcode>
     <eklenme_tarihi>2025-11-29 11:32:05</eklenme_tarihi>
     <siralam_tarihi>2025-11-29 11:32:05</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>9</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -158174,7 +158094,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8100</barcode>
     <eklenme_tarihi>2025-11-29 11:32:17</eklenme_tarihi>
     <siralam_tarihi>2025-11-29 11:32:17</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>7</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -158232,7 +158152,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8101</barcode>
     <eklenme_tarihi>2025-11-29 11:32:19</eklenme_tarihi>
     <siralam_tarihi>2025-11-29 11:32:19</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>9</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -158348,7 +158268,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8103</barcode>
     <eklenme_tarihi>2025-11-29 11:32:24</eklenme_tarihi>
     <siralam_tarihi>2025-11-29 11:32:24</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>12</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -158522,7 +158442,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8106</barcode>
     <eklenme_tarihi>2025-11-29 11:32:30</eklenme_tarihi>
     <siralam_tarihi>2025-11-29 11:32:30</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>10</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -158580,7 +158500,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8107</barcode>
     <eklenme_tarihi>2025-11-29 11:32:35</eklenme_tarihi>
     <siralam_tarihi>2025-11-29 11:32:35</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>7</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -159177,7 +159097,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8119</barcode>
     <eklenme_tarihi>2025-11-29 11:33:44</eklenme_tarihi>
     <siralam_tarihi>2025-11-29 11:33:44</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>16</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -161717,7 +161637,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11433</barcode>
     <eklenme_tarihi>2025-11-29 11:38:51</eklenme_tarihi>
     <siralam_tarihi>2025-11-29 11:38:51</siralam_tarihi>
-    <miktar>8</miktar>
+    <miktar>9</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -162482,7 +162402,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10735</barcode>
     <eklenme_tarihi>2025-11-29 11:41:05</eklenme_tarihi>
     <siralam_tarihi>2026-01-30 15:13:42</siralam_tarihi>
-    <miktar>46</miktar>
+    <miktar>47</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -162540,7 +162460,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10736</barcode>
     <eklenme_tarihi>2025-11-29 11:41:07</eklenme_tarihi>
     <siralam_tarihi>2025-11-29 11:41:07</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>13</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -162656,7 +162576,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10738</barcode>
     <eklenme_tarihi>2025-11-29 11:41:12</eklenme_tarihi>
     <siralam_tarihi>2025-11-29 11:41:12</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>16</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -162772,7 +162692,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10740</barcode>
     <eklenme_tarihi>2025-11-29 11:41:20</eklenme_tarihi>
     <siralam_tarihi>2025-11-29 11:41:20</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>14</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -163420,7 +163340,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11444</barcode>
     <eklenme_tarihi>2025-12-04 11:09:06</eklenme_tarihi>
     <siralam_tarihi>2025-12-04 11:09:06</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>15</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -164091,7 +164011,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11456</barcode>
     <eklenme_tarihi>2025-12-04 11:10:34</eklenme_tarihi>
     <siralam_tarihi>2025-12-04 11:10:34</siralam_tarihi>
-    <miktar>48</miktar>
+    <miktar>50</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -164152,7 +164072,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11457</barcode>
     <eklenme_tarihi>2025-12-04 11:10:38</eklenme_tarihi>
     <siralam_tarihi>2025-12-04 11:10:38</siralam_tarihi>
-    <miktar>46</miktar>
+    <miktar>48</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -164213,7 +164133,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11458</barcode>
     <eklenme_tarihi>2025-12-04 11:10:40</eklenme_tarihi>
     <siralam_tarihi>2025-12-04 11:10:40</siralam_tarihi>
-    <miktar>43</miktar>
+    <miktar>45</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -164274,7 +164194,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11459</barcode>
     <eklenme_tarihi>2025-12-04 11:10:45</eklenme_tarihi>
     <siralam_tarihi>2025-12-04 11:10:45</siralam_tarihi>
-    <miktar>42</miktar>
+    <miktar>44</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -164518,7 +164438,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11463</barcode>
     <eklenme_tarihi>2025-12-04 11:10:56</eklenme_tarihi>
     <siralam_tarihi>2025-12-04 11:10:56</siralam_tarihi>
-    <miktar>35</miktar>
+    <miktar>37</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -165647,7 +165567,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8143</barcode>
     <eklenme_tarihi>2025-12-04 11:14:53</eklenme_tarihi>
     <siralam_tarihi>2025-12-04 11:14:53</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>26</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -165963,7 +165883,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3911</barcode>
     <eklenme_tarihi>2025-12-04 11:17:39</eklenme_tarihi>
     <siralam_tarihi>2025-12-04 11:17:39</siralam_tarihi>
-    <miktar>0</miktar>
+    <miktar>1</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -166020,7 +165940,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3913</barcode>
     <eklenme_tarihi>2025-12-04 11:17:49</eklenme_tarihi>
     <siralam_tarihi>2025-12-04 11:17:49</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>14</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -166077,7 +165997,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3914</barcode>
     <eklenme_tarihi>2025-12-04 11:17:52</eklenme_tarihi>
     <siralam_tarihi>2025-12-04 11:17:52</siralam_tarihi>
-    <miktar>13</miktar>
+    <miktar>15</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -166134,7 +166054,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3916</barcode>
     <eklenme_tarihi>2025-12-04 11:17:56</eklenme_tarihi>
     <siralam_tarihi>2025-12-04 11:17:56</siralam_tarihi>
-    <miktar>28</miktar>
+    <miktar>30</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -166191,7 +166111,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3917</barcode>
     <eklenme_tarihi>2025-12-04 11:17:58</eklenme_tarihi>
     <siralam_tarihi>2025-12-04 11:17:58</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>18</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -166248,7 +166168,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3920</barcode>
     <eklenme_tarihi>2025-12-04 11:18:09</eklenme_tarihi>
     <siralam_tarihi>2025-12-04 11:18:09</siralam_tarihi>
-    <miktar>24</miktar>
+    <miktar>26</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -166301,7 +166221,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3921</barcode>
     <eklenme_tarihi>2025-12-04 11:18:13</eklenme_tarihi>
     <siralam_tarihi>2025-12-04 11:18:13</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>27</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -166325,7 +166245,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10761</barcode>
     <eklenme_tarihi>2025-12-15 17:29:54</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:29:54</siralam_tarihi>
-    <miktar>43</miktar>
+    <miktar>45</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -166519,7 +166439,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10766</barcode>
     <eklenme_tarihi>2025-12-15 17:30:16</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:30:16</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>11</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -166581,7 +166501,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10767</barcode>
     <eklenme_tarihi>2025-12-15 17:30:33</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:30:33</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>32</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -166643,7 +166563,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10768</barcode>
     <eklenme_tarihi>2025-12-15 17:30:38</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:30:38</siralam_tarihi>
-    <miktar>28</miktar>
+    <miktar>30</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -166705,7 +166625,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10769</barcode>
     <eklenme_tarihi>2025-12-15 17:30:44</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:30:44</siralam_tarihi>
-    <miktar>28</miktar>
+    <miktar>30</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -166767,7 +166687,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10770</barcode>
     <eklenme_tarihi>2025-12-15 17:30:52</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:30:52</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>28</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -166829,7 +166749,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10771</barcode>
     <eklenme_tarihi>2025-12-15 17:30:55</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:30:55</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>12</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -166891,7 +166811,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10772</barcode>
     <eklenme_tarihi>2025-12-15 17:30:58</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:30:58</siralam_tarihi>
-    <miktar>23</miktar>
+    <miktar>25</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -166953,7 +166873,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10774</barcode>
     <eklenme_tarihi>2025-12-15 17:31:25</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:31:25</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>9</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -167136,7 +167056,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10780</barcode>
     <eklenme_tarihi>2025-12-15 17:35:11</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:35:11</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>6</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -167194,7 +167114,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10781</barcode>
     <eklenme_tarihi>2025-12-15 17:35:14</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:35:14</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>18</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -167310,7 +167230,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10786</barcode>
     <eklenme_tarihi>2025-12-15 17:36:18</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:36:18</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>13</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -167488,7 +167408,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10791</barcode>
     <eklenme_tarihi>2025-12-15 17:38:17</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:38:17</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>10</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -168562,7 +168482,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8151</barcode>
     <eklenme_tarihi>2025-12-15 17:43:43</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:43:43</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>17</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -168616,7 +168536,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8152</barcode>
     <eklenme_tarihi>2025-12-15 17:44:19</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:44:19</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>21</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -168640,7 +168560,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8153</barcode>
     <eklenme_tarihi>2025-12-15 17:44:23</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:44:23</siralam_tarihi>
-    <miktar>28</miktar>
+    <miktar>30</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -168664,7 +168584,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8154</barcode>
     <eklenme_tarihi>2025-12-15 17:44:27</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:44:27</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>14</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -168778,7 +168698,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8156</barcode>
     <eklenme_tarihi>2025-12-15 17:44:31</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:44:31</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>28</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -168839,7 +168759,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8157</barcode>
     <eklenme_tarihi>2025-12-15 17:44:35</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:44:35</siralam_tarihi>
-    <miktar>20</miktar>
+    <miktar>22</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -168900,7 +168820,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8158</barcode>
     <eklenme_tarihi>2025-12-15 17:44:37</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:44:37</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>6</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -171061,7 +170981,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11509</barcode>
     <eklenme_tarihi>2025-12-15 18:01:34</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 18:01:34</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>16</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -171087,7 +171007,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11510</barcode>
     <eklenme_tarihi>2025-12-15 18:01:40</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 18:01:40</siralam_tarihi>
-    <miktar>32</miktar>
+    <miktar>34</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -171479,7 +171399,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10810</barcode>
     <eklenme_tarihi>2025-12-27 08:47:43</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 08:47:43</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>18</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -171637,7 +171557,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKO10814</barcode>
     <eklenme_tarihi>2025-12-27 08:48:36</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 08:48:36</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>31</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -171715,7 +171635,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11518</barcode>
     <eklenme_tarihi>2025-12-27 08:52:42</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 08:52:42</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>12</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -171837,7 +171757,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11523</barcode>
     <eklenme_tarihi>2025-12-27 08:52:56</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 08:52:56</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>24</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -171898,7 +171818,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11527</barcode>
     <eklenme_tarihi>2025-12-27 08:53:04</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 08:53:04</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>14</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -172020,7 +171940,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11530</barcode>
     <eklenme_tarihi>2025-12-27 08:53:19</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 08:53:19</siralam_tarihi>
-    <miktar>31</miktar>
+    <miktar>34</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -174906,7 +174826,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11587</barcode>
     <eklenme_tarihi>2025-12-27 09:03:37</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 09:03:37</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>21</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -175047,7 +174967,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8164</barcode>
     <eklenme_tarihi>2025-12-27 09:05:34</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 09:05:34</siralam_tarihi>
-    <miktar>32</miktar>
+    <miktar>35</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -176044,7 +175964,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8188</barcode>
     <eklenme_tarihi>2025-12-27 09:10:17</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 09:10:17</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>35</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -176500,7 +176420,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8196</barcode>
     <eklenme_tarihi>2025-12-27 09:10:36</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 09:10:36</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>16</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -176557,7 +176477,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8197</barcode>
     <eklenme_tarihi>2025-12-27 09:10:39</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 09:10:39</siralam_tarihi>
-    <miktar>13</miktar>
+    <miktar>14</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -176614,7 +176534,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8198</barcode>
     <eklenme_tarihi>2025-12-27 09:10:41</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 09:10:41</siralam_tarihi>
-    <miktar>31</miktar>
+    <miktar>32</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -177355,7 +177275,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8212</barcode>
     <eklenme_tarihi>2025-12-27 09:11:29</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 09:11:29</siralam_tarihi>
-    <miktar>20</miktar>
+    <miktar>21</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -179170,7 +179090,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11615</barcode>
     <eklenme_tarihi>2026-01-14 12:17:58</eklenme_tarihi>
     <siralam_tarihi>2026-01-14 12:17:58</siralam_tarihi>
-    <miktar>9</miktar>
+    <miktar>10</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -179231,7 +179151,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11616</barcode>
     <eklenme_tarihi>2026-01-14 12:18:01</eklenme_tarihi>
     <siralam_tarihi>2026-01-14 12:18:01</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>14</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -179292,7 +179212,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11617</barcode>
     <eklenme_tarihi>2026-01-14 12:18:04</eklenme_tarihi>
     <siralam_tarihi>2026-01-14 12:18:04</siralam_tarihi>
-    <miktar>20</miktar>
+    <miktar>22</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -179353,7 +179273,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11618</barcode>
     <eklenme_tarihi>2026-01-14 12:18:07</eklenme_tarihi>
     <siralam_tarihi>2026-01-14 12:18:07</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>23</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -179658,7 +179578,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11623</barcode>
     <eklenme_tarihi>2026-01-14 12:18:19</eklenme_tarihi>
     <siralam_tarihi>2026-01-14 12:18:19</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>21</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -179719,7 +179639,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11624</barcode>
     <eklenme_tarihi>2026-01-14 12:18:22</eklenme_tarihi>
     <siralam_tarihi>2026-01-14 12:18:22</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>19</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -179957,7 +179877,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BB8225</barcode>
     <eklenme_tarihi>2026-01-14 12:36:14</eklenme_tarihi>
     <siralam_tarihi>2026-01-14 12:36:14</siralam_tarihi>
-    <miktar>13</miktar>
+    <miktar>14</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -180307,7 +180227,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BB8232</barcode>
     <eklenme_tarihi>2026-01-14 12:38:22</eklenme_tarihi>
     <siralam_tarihi>2026-01-14 12:38:22</siralam_tarihi>
-    <miktar>32</miktar>
+    <miktar>34</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -183089,7 +183009,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10830</barcode>
     <eklenme_tarihi>2026-01-23 14:24:44</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:24:44</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>7</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -183274,7 +183194,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10833</barcode>
     <eklenme_tarihi>2026-01-23 14:24:46</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:24:46</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>4</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -183336,7 +183256,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10834</barcode>
     <eklenme_tarihi>2026-01-23 14:24:46</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:24:46</siralam_tarihi>
-    <miktar>2</miktar>
+    <miktar>3</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -183460,7 +183380,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10836</barcode>
     <eklenme_tarihi>2026-01-23 14:24:47</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:24:47</siralam_tarihi>
-    <miktar>20</miktar>
+    <miktar>22</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -183584,7 +183504,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10838</barcode>
     <eklenme_tarihi>2026-01-23 14:24:49</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:24:49</siralam_tarihi>
-    <miktar>28</miktar>
+    <miktar>30</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -183646,7 +183566,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10839</barcode>
     <eklenme_tarihi>2026-01-23 14:24:49</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:24:49</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>27</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -183708,7 +183628,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10840</barcode>
     <eklenme_tarihi>2026-01-23 14:24:50</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:24:50</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>27</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -183770,7 +183690,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10841</barcode>
     <eklenme_tarihi>2026-01-23 14:24:51</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:24:51</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>21</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -183952,7 +183872,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10844</barcode>
     <eklenme_tarihi>2026-01-23 14:24:53</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:24:53</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>17</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -184014,7 +183934,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10845</barcode>
     <eklenme_tarihi>2026-01-23 14:24:53</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:24:53</siralam_tarihi>
-    <miktar>21</miktar>
+    <miktar>23</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -184076,7 +183996,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10846</barcode>
     <eklenme_tarihi>2026-01-23 14:24:54</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:24:54</siralam_tarihi>
-    <miktar>24</miktar>
+    <miktar>23</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -184324,7 +184244,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10850</barcode>
     <eklenme_tarihi>2026-01-23 14:24:57</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:24:57</siralam_tarihi>
-    <miktar>13</miktar>
+    <miktar>14</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -184386,7 +184306,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10851</barcode>
     <eklenme_tarihi>2026-01-23 14:24:57</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:24:57</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>26</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -184572,7 +184492,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10854</barcode>
     <eklenme_tarihi>2026-01-23 14:24:59</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:24:59</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>19</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -184634,7 +184554,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10855</barcode>
     <eklenme_tarihi>2026-01-23 14:25:00</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:25:00</siralam_tarihi>
-    <miktar>20</miktar>
+    <miktar>22</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -184894,7 +184814,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10859</barcode>
     <eklenme_tarihi>2026-01-23 14:25:02</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:25:02</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>17</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -185018,7 +184938,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10861</barcode>
     <eklenme_tarihi>2026-01-23 14:25:04</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:25:04</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>26</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -185266,7 +185186,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10865</barcode>
     <eklenme_tarihi>2026-01-23 14:25:07</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:25:07</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>15</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -185328,7 +185248,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10866</barcode>
     <eklenme_tarihi>2026-01-23 14:25:07</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:25:07</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>11</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -185394,7 +185314,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10867</barcode>
     <eklenme_tarihi>2026-01-23 14:25:08</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:25:08</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>17</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -185700,7 +185620,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10872</barcode>
     <eklenme_tarihi>2026-01-23 14:26:30</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:26:30</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>6</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -185762,7 +185682,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10873</barcode>
     <eklenme_tarihi>2026-01-23 14:26:35</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:26:35</siralam_tarihi>
-    <miktar>34</miktar>
+    <miktar>35</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -185824,7 +185744,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10874</barcode>
     <eklenme_tarihi>2026-01-23 14:26:42</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:26:42</siralam_tarihi>
-    <miktar>28</miktar>
+    <miktar>29</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -185886,7 +185806,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10875</barcode>
     <eklenme_tarihi>2026-01-23 14:26:47</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:26:47</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>16</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -185948,7 +185868,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10876</barcode>
     <eklenme_tarihi>2026-01-23 14:26:51</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:26:51</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>23</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -186010,7 +185930,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10877</barcode>
     <eklenme_tarihi>2026-01-23 14:26:54</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:26:54</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>13</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -186316,7 +186236,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10882</barcode>
     <eklenme_tarihi>2026-01-23 14:27:54</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:27:54</siralam_tarihi>
-    <miktar>42</miktar>
+    <miktar>45</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -186502,7 +186422,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10885</barcode>
     <eklenme_tarihi>2026-01-23 14:27:56</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:27:56</siralam_tarihi>
-    <miktar>43</miktar>
+    <miktar>44</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -186626,7 +186546,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10887</barcode>
     <eklenme_tarihi>2026-01-23 14:27:57</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:27:57</siralam_tarihi>
-    <miktar>0</miktar>
+    <miktar>1</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -186944,7 +186864,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10892</barcode>
     <eklenme_tarihi>2026-01-23 14:28:00</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:28:00</siralam_tarihi>
-    <miktar>46</miktar>
+    <miktar>47</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -187006,7 +186926,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10893</barcode>
     <eklenme_tarihi>2026-01-23 14:28:01</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:28:01</siralam_tarihi>
-    <miktar>42</miktar>
+    <miktar>43</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -187032,7 +186952,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10894</barcode>
     <eklenme_tarihi>2026-01-23 14:28:02</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:28:02</siralam_tarihi>
-    <miktar>29</miktar>
+    <miktar>30</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -187094,7 +187014,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10895</barcode>
     <eklenme_tarihi>2026-01-23 14:28:02</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:28:02</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>27</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -187979,7 +187899,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10910</barcode>
     <eklenme_tarihi>2026-01-23 14:29:10</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:29:10</siralam_tarihi>
-    <miktar>76</miktar>
+    <miktar>80</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -188041,7 +187961,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10911</barcode>
     <eklenme_tarihi>2026-01-23 14:29:12</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:29:12</siralam_tarihi>
-    <miktar>52</miktar>
+    <miktar>56</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -188103,7 +188023,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKO10912</barcode>
     <eklenme_tarihi>2026-01-23 14:29:17</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:29:17</siralam_tarihi>
-    <miktar>148</miktar>
+    <miktar>150</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -188329,7 +188249,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BB8273</barcode>
     <eklenme_tarihi>2026-01-23 14:40:27</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:40:27</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>24</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -194841,7 +194761,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BB8290</barcode>
     <eklenme_tarihi>2026-02-04 11:00:24</eklenme_tarihi>
     <siralam_tarihi>2026-02-04 11:00:24</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>16</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -195430,7 +195350,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BB8301</barcode>
     <eklenme_tarihi>2026-02-04 11:01:18</eklenme_tarihi>
     <siralam_tarihi>2026-02-04 11:01:18</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>3</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -198039,7 +197959,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BYK3965</barcode>
     <eklenme_tarihi>2026-02-12 11:33:08</eklenme_tarihi>
     <siralam_tarihi>2026-02-12 11:33:08</siralam_tarihi>
-    <miktar>46</miktar>
+    <miktar>47</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -198100,7 +198020,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BYK3966</barcode>
     <eklenme_tarihi>2026-02-12 11:33:14</eklenme_tarihi>
     <siralam_tarihi>2026-02-12 11:33:14</siralam_tarihi>
-    <miktar>18</miktar>
+    <miktar>19</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -199575,63 +199495,6 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <aciklama>-&amp;nbsp;Beden:&amp;nbsp;Yüzük ölçüsü ayarlanabilir modeldir. Bu nedenle her ölçüye uygun ayarlanabilir.-Materyal: Ürün materyali pirinçtir.-Dayanıklılık: Doğru ve özenli kullanımda kararma ve renk solmasına karşı dirençlidir.-Kullanım Önerisi: Ürününüzün ışıltısını ve kaplama kalitesini uzun yıllar koruyabilmesi için parfüm, su, deterjan ve kimyasal maddelerle doğrudan temasından kaçınmanızı öneririz.-Cilt Uyarısı: Her cilt yapısının metal ve kaplamalara vereceği tepki (pH değerine bağlı olarak) farklılık gösterebilir.-Sağlıklı ve mutlu günlerde kullanmanız dileğiyle.</aciklama>
   </Urun>
   <Urun>
-    <adi>Tek Taş Model Zirkon Taşlı Gold Renk Kadın Yüzük</adi>
-    <stok_kodu>BYK3993</stok_kodu>
-    <product_id/>
-    <id>698dad24150f73002309c8b2</id>
-    <barcode>isteburada_BYK3993</barcode>
-    <eklenme_tarihi>2026-02-12 11:36:20</eklenme_tarihi>
-    <siralam_tarihi>2026-02-12 11:36:20</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Bayan Yüzük ve Kombinler</kategori>
-    <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/1770904692_BYK3993.jpg</resim1>
-    </resim>
-    <fiyat>
-      <son_kullanici>229.9</son_kullanici>
-      <bayi_fiyati>89.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Clariss</marka>
-    <filtreler>
-      <filtre>
-        <name>Taş Cinsi</name>
-        <value>Zirkon Taş</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Altın Kaplama</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Pirinç</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Günlük Kullanım</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Spor</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Abiye</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Klasik</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Altın</value>
-      </filtre>
-    </filtreler>
-    <aciklama>-&amp;nbsp;Beden:&amp;nbsp;Yüzük ölçüsü ayarlanabilir modeldir. Bu nedenle her ölçüye uygun ayarlanabilir.-Materyal: Ürün materyali pirinçtir.-Dayanıklılık: Doğru ve özenli kullanımda kararma ve renk solmasına karşı dirençlidir.-Kullanım Önerisi: Ürününüzün ışıltısını ve kaplama kalitesini uzun yıllar koruyabilmesi için parfüm, su, deterjan ve kimyasal maddelerle doğrudan temasından kaçınmanızı öneririz.-Cilt Uyarısı: Her cilt yapısının metal ve kaplamalara vereceği tepki (pH değerine bağlı olarak) farklılık gösterebilir.-Sağlıklı ve mutlu günlerde kullanmanız dileğiyle.</aciklama>
-  </Urun>
-  <Urun>
     <adi>Tek Taş Model Zirkon Taşlı Gümüş Renk Kadın Yüzük</adi>
     <stok_kodu>BYK3994</stok_kodu>
     <product_id/>
@@ -201004,7 +200867,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BYK4019</barcode>
     <eklenme_tarihi>2026-02-12 11:39:26</eklenme_tarihi>
     <siralam_tarihi>2026-02-12 11:39:26</siralam_tarihi>
-    <miktar>42</miktar>
+    <miktar>43</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -203505,63 +203368,6 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <aciklama>-&amp;nbsp;Beden:&amp;nbsp;Yüzük ölçüsü ayarlanabilir modeldir. Bu nedenle her ölçüye uygun ayarlanabilir.-Materyal: Ürün materyali pirinçtir.-Dayanıklılık: Doğru ve özenli kullanımda kararma ve renk solmasına karşı dirençlidir.-Kullanım Önerisi: Ürününüzün ışıltısını ve kaplama kalitesini uzun yıllar koruyabilmesi için parfüm, su, deterjan ve kimyasal maddelerle doğrudan temasından kaçınmanızı öneririz.-Cilt Uyarısı: Her cilt yapısının metal ve kaplamalara vereceği tepki (pH değerine bağlı olarak) farklılık gösterebilir.-Sağlıklı ve mutlu günlerde kullanmanız dileğiyle.</aciklama>
   </Urun>
   <Urun>
-    <adi>Gold Renk Gül Model Zirkon Taşlı Kadın Yüzük</adi>
-    <stok_kodu>BYK4064</stok_kodu>
-    <product_id/>
-    <id>698daff045b19629bf043e14</id>
-    <barcode>isteburada_BYK4064</barcode>
-    <eklenme_tarihi>2026-02-12 11:48:16</eklenme_tarihi>
-    <siralam_tarihi>2026-02-12 11:48:16</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Bayan Yüzük ve Kombinler</kategori>
-    <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/1770905535_BYK4064.jpg</resim1>
-    </resim>
-    <fiyat>
-      <son_kullanici>199.9</son_kullanici>
-      <bayi_fiyati>79.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Clariss</marka>
-    <filtreler>
-      <filtre>
-        <name>Taş Cinsi</name>
-        <value>Zirkon Taş</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Altın Kaplama</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Pirinç</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Günlük Kullanım</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Spor</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Abiye</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Klasik</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Altın</value>
-      </filtre>
-    </filtreler>
-    <aciklama>-&amp;nbsp;Beden:&amp;nbsp;Yüzük ölçüsü ayarlanabilir modeldir. Bu nedenle her ölçüye uygun ayarlanabilir.-Materyal: Ürün materyali pirinçtir.-Dayanıklılık: Doğru ve özenli kullanımda kararma ve renk solmasına karşı dirençlidir.-Kullanım Önerisi: Ürününüzün ışıltısını ve kaplama kalitesini uzun yıllar koruyabilmesi için parfüm, su, deterjan ve kimyasal maddelerle doğrudan temasından kaçınmanızı öneririz.-Cilt Uyarısı: Her cilt yapısının metal ve kaplamalara vereceği tepki (pH değerine bağlı olarak) farklılık gösterebilir.-Sağlıklı ve mutlu günlerde kullanmanız dileğiyle.</aciklama>
-  </Urun>
-  <Urun>
     <adi>Gümüş Renk Pirinç Kuyruklu Kalp Model Kadın Yüzük</adi>
     <stok_kodu>BYK4065</stok_kodu>
     <product_id/>
@@ -204025,7 +203831,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BYK4074</barcode>
     <eklenme_tarihi>2026-02-12 11:49:17</eklenme_tarihi>
     <siralam_tarihi>2026-02-12 11:49:17</siralam_tarihi>
-    <miktar>41</miktar>
+    <miktar>42</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -205894,7 +205700,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BYK4109</barcode>
     <eklenme_tarihi>2026-02-12 11:59:26</eklenme_tarihi>
     <siralam_tarihi>2026-02-12 11:59:26</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>15</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -206452,63 +206258,6 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
       <filtre>
         <name>Renk</name>
         <value>Gümüş</value>
-      </filtre>
-    </filtreler>
-    <aciklama>-&amp;nbsp;Beden:&amp;nbsp;Yüzük ölçüsü ayarlanabilir modeldir. Bu nedenle her ölçüye uygun ayarlanabilir.-Materyal: Ürün materyali pirinçtir.-Dayanıklılık: Doğru ve özenli kullanımda kararma ve renk solmasına karşı dirençlidir.-Kullanım Önerisi: Ürününüzün ışıltısını ve kaplama kalitesini uzun yıllar koruyabilmesi için parfüm, su, deterjan ve kimyasal maddelerle doğrudan temasından kaçınmanızı öneririz.-Cilt Uyarısı: Her cilt yapısının metal ve kaplamalara vereceği tepki (pH değerine bağlı olarak) farklılık gösterebilir.-Sağlıklı ve mutlu günlerde kullanmanız dileğiyle.</aciklama>
-  </Urun>
-  <Urun>
-    <adi>Sarmal Kalp Model Zirkon Taşlı Gold Renk Kadın Yüzük</adi>
-    <stok_kodu>BYK4119</stok_kodu>
-    <product_id/>
-    <id>698db2bfbb99072fcd081386</id>
-    <barcode>isteburada_BYK4119</barcode>
-    <eklenme_tarihi>2026-02-12 12:00:15</eklenme_tarihi>
-    <siralam_tarihi>2026-02-12 12:00:15</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Bayan Yüzük ve Kombinler</kategori>
-    <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/1770906101_BYK4119.jpg</resim1>
-    </resim>
-    <fiyat>
-      <son_kullanici>189.9</son_kullanici>
-      <bayi_fiyati>69.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Clariss</marka>
-    <filtreler>
-      <filtre>
-        <name>Taş Cinsi</name>
-        <value>Zirkon Taş</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Altın Kaplama</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Pirinç</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Günlük Kullanım</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Spor</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Abiye</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Klasik</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Altın</value>
       </filtre>
     </filtreler>
     <aciklama>-&amp;nbsp;Beden:&amp;nbsp;Yüzük ölçüsü ayarlanabilir modeldir. Bu nedenle her ölçüye uygun ayarlanabilir.-Materyal: Ürün materyali pirinçtir.-Dayanıklılık: Doğru ve özenli kullanımda kararma ve renk solmasına karşı dirençlidir.-Kullanım Önerisi: Ürününüzün ışıltısını ve kaplama kalitesini uzun yıllar koruyabilmesi için parfüm, su, deterjan ve kimyasal maddelerle doğrudan temasından kaçınmanızı öneririz.-Cilt Uyarısı: Her cilt yapısının metal ve kaplamalara vereceği tepki (pH değerine bağlı olarak) farklılık gösterebilir.-Sağlıklı ve mutlu günlerde kullanmanız dileğiyle.</aciklama>
@@ -210952,7 +210701,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKP11643</barcode>
     <eklenme_tarihi>2026-02-17 13:14:57</eklenme_tarihi>
     <siralam_tarihi>2026-02-17 13:14:57</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>14</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -211366,7 +211115,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKP11652</barcode>
     <eklenme_tarihi>2026-02-17 13:17:11</eklenme_tarihi>
     <siralam_tarihi>2026-02-17 13:17:11</siralam_tarihi>
-    <miktar>28</miktar>
+    <miktar>27</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -211423,7 +211172,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKP11653</barcode>
     <eklenme_tarihi>2026-02-17 13:17:13</eklenme_tarihi>
     <siralam_tarihi>2026-02-17 13:17:13</siralam_tarihi>
-    <miktar>34</miktar>
+    <miktar>33</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -212168,7 +211917,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKP11668</barcode>
     <eklenme_tarihi>2026-02-17 13:19:56</eklenme_tarihi>
     <siralam_tarihi>2026-02-17 13:19:56</siralam_tarihi>
-    <miktar>20</miktar>
+    <miktar>19</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -212351,7 +212100,7 @@ Keyifle ve sağlıkla kullanmanız dileğiyle ✨</aciklama>
     <barcode>isteburada_BKP11671</barcode>
     <eklenme_tarihi>2026-02-17 13:20:05</eklenme_tarihi>
     <siralam_tarihi>2026-02-17 13:20:05</siralam_tarihi>
-    <miktar>20</miktar>
+    <miktar>21</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
