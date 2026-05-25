@@ -2989,7 +2989,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO6242</barcode>
     <eklenme_tarihi>2022-03-03 12:37:15</eklenme_tarihi>
     <siralam_tarihi>2025-03-16 02:31:10</siralam_tarihi>
-    <miktar>48</miktar>
+    <miktar>47</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -5298,7 +5298,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO7290</barcode>
     <eklenme_tarihi>2023-05-31 10:32:49</eklenme_tarihi>
     <siralam_tarihi>2026-03-25 12:54:24</siralam_tarihi>
-    <miktar>102</miktar>
+    <miktar>103</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -5750,7 +5750,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO7411</barcode>
     <eklenme_tarihi>2023-07-10 17:07:11</eklenme_tarihi>
     <siralam_tarihi>2026-03-25 12:54:14</siralam_tarihi>
-    <miktar>84</miktar>
+    <miktar>83</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -6230,6 +6230,55 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <marka>Clariss</marka>
     <filtreler/>
     <aciklama>- Ürün tipi 316L çeliktir kararmaz paslanmaz .- Sağlıklı ve mutlu günlerde kullanmanız&amp;nbsp;dileğiyle…</aciklama>
+  </Urun>
+  <Urun>
+    <adi>VIP Seri Gümüş Renk Yarım Halka Model Zirkon Taşlı Pirinç Kadın Küpe</adi>
+    <stok_kodu>BKP7556</stok_kodu>
+    <product_id/>
+    <id>64cb917fb1a3b9eb4007f3f5</id>
+    <barcode>isteburada_BKP7556</barcode>
+    <eklenme_tarihi>2023-08-03 13:37:35</eklenme_tarihi>
+    <siralam_tarihi>2023-08-03 13:37:35</siralam_tarihi>
+    <miktar>1</miktar>
+    <kategori>Küpe</kategori>
+    <AnaKategori>Kadın|Küpe|</AnaKategori>
+    <kdv>20</kdv>
+    <resim>
+      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/1691067556_BKP7556.jpg</resim1>
+    </resim>
+    <fiyat>
+      <son_kullanici>339.9</son_kullanici>
+      <bayi_fiyati>139.9</bayi_fiyati>
+      <para_birimi>TL</para_birimi>
+    </fiyat>
+    <marka>Clariss</marka>
+    <filtreler>
+      <filtre>
+        <name>Taş Cinsi</name>
+        <value>Zirkon Taş</value>
+      </filtre>
+      <filtre>
+        <name>Tarz</name>
+        <value>Günlük Kullanım</value>
+      </filtre>
+      <filtre>
+        <name>Materyal</name>
+        <value>Pirinç</value>
+      </filtre>
+      <filtre>
+        <name>Renk</name>
+        <value>Gümüş</value>
+      </filtre>
+      <filtre>
+        <name>Renk</name>
+        <value>Pembe</value>
+      </filtre>
+      <filtre>
+        <name>Beden</name>
+        <value>Standart</value>
+      </filtre>
+    </filtreler>
+    <aciklama>- Ürün metaryali pirinçtir.&amp;nbsp;- Kararma, renk atma olmaz.&amp;nbsp;- Ayrıca teninizin bijuteri , kaplama ürünleri kullanmaya uygun olması gerekmektedir. (Bazı tenlerin karartma yaptığı unutulmamalıdır.)- Sağlıklı ve mutlu günlerde kullanmanız dileğiyle ..</aciklama>
   </Urun>
   <Urun>
     <adi>316L Çelik Mix Renk Kalın Zincir Model Erkek Kolye</adi>
@@ -8306,7 +8355,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO7793</barcode>
     <eklenme_tarihi>2023-11-08 13:20:47</eklenme_tarihi>
     <siralam_tarihi>2026-04-13 14:36:10</siralam_tarihi>
-    <miktar>35</miktar>
+    <miktar>31</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -14640,7 +14689,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO8288</barcode>
     <eklenme_tarihi>2024-03-09 08:22:35</eklenme_tarihi>
     <siralam_tarihi>2026-04-13 10:39:20</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>31</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -20720,7 +20769,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO8657</barcode>
     <eklenme_tarihi>2024-05-29 10:43:44</eklenme_tarihi>
     <siralam_tarihi>2024-05-29 10:43:44</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>2</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -28388,7 +28437,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB6188</barcode>
     <eklenme_tarihi>2024-08-02 13:08:34</eklenme_tarihi>
     <siralam_tarihi>2025-02-14 16:09:33</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>1</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -28539,7 +28588,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB6203</barcode>
     <eklenme_tarihi>2024-08-02 13:11:51</eklenme_tarihi>
     <siralam_tarihi>2025-02-14 16:01:16</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>3</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -30520,7 +30569,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO8958</barcode>
     <eklenme_tarihi>2024-08-15 14:47:06</eklenme_tarihi>
     <siralam_tarihi>2024-10-17 13:23:03</siralam_tarihi>
-    <miktar>47</miktar>
+    <miktar>46</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -30715,7 +30764,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP9276</barcode>
     <eklenme_tarihi>2024-08-16 15:28:46</eklenme_tarihi>
     <siralam_tarihi>2024-08-16 15:28:46</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>5</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -34594,7 +34643,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO9062</barcode>
     <eklenme_tarihi>2024-09-05 13:34:16</eklenme_tarihi>
     <siralam_tarihi>2024-09-05 13:34:16</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>0</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -36073,7 +36122,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP9443</barcode>
     <eklenme_tarihi>2024-09-12 09:18:58</eklenme_tarihi>
     <siralam_tarihi>2024-09-12 09:18:58</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>5</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -38528,7 +38577,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP9497</barcode>
     <eklenme_tarihi>2024-09-24 07:54:27</eklenme_tarihi>
     <siralam_tarihi>2026-02-24 09:27:24</siralam_tarihi>
-    <miktar>21</miktar>
+    <miktar>22</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -42698,7 +42747,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB6461</barcode>
     <eklenme_tarihi>2024-11-09 07:24:13</eklenme_tarihi>
     <siralam_tarihi>2026-01-16 12:02:58</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>0</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -48342,7 +48391,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO9524</barcode>
     <eklenme_tarihi>2024-11-22 12:29:24</eklenme_tarihi>
     <siralam_tarihi>2025-03-11 08:44:57</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>11</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -48614,7 +48663,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP9737</barcode>
     <eklenme_tarihi>2024-11-26 14:02:55</eklenme_tarihi>
     <siralam_tarihi>2024-11-26 14:02:55</siralam_tarihi>
-    <miktar>51</miktar>
+    <miktar>52</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -50982,7 +51031,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO9573</barcode>
     <eklenme_tarihi>2024-12-06 10:31:23</eklenme_tarihi>
     <siralam_tarihi>2024-12-06 10:31:23</siralam_tarihi>
-    <miktar>2</miktar>
+    <miktar>1</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -53335,7 +53384,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO9606</barcode>
     <eklenme_tarihi>2024-12-12 14:01:25</eklenme_tarihi>
     <siralam_tarihi>2024-12-12 14:01:25</siralam_tarihi>
-    <miktar>23</miktar>
+    <miktar>22</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -64005,7 +64054,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB6725</barcode>
     <eklenme_tarihi>2025-02-04 14:30:08</eklenme_tarihi>
     <siralam_tarihi>2025-10-02 14:11:24</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>18</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -65688,7 +65737,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10200</barcode>
     <eklenme_tarihi>2025-02-20 14:58:05</eklenme_tarihi>
     <siralam_tarihi>2025-02-20 14:58:05</siralam_tarihi>
-    <miktar>23</miktar>
+    <miktar>19</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -69122,7 +69171,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10340</barcode>
     <eklenme_tarihi>2025-03-11 12:46:32</eklenme_tarihi>
     <siralam_tarihi>2025-03-16 14:04:21</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>0</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -69648,7 +69697,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP10365</barcode>
     <eklenme_tarihi>2025-04-03 13:14:26</eklenme_tarihi>
     <siralam_tarihi>2025-04-03 13:14:26</siralam_tarihi>
-    <miktar>69</miktar>
+    <miktar>68</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -70310,7 +70359,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_EB3717</barcode>
     <eklenme_tarihi>2025-04-03 13:49:05</eklenme_tarihi>
     <siralam_tarihi>2025-04-03 13:49:05</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>2</miktar>
     <kategori>Erkek Bileklik</kategori>
     <AnaKategori>Erkek|Erkek Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -70352,7 +70401,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_EB3719</barcode>
     <eklenme_tarihi>2025-04-03 13:49:11</eklenme_tarihi>
     <siralam_tarihi>2025-04-03 13:49:11</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>21</miktar>
     <kategori>Erkek Bileklik</kategori>
     <AnaKategori>Erkek|Erkek Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -70453,7 +70502,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO9928</barcode>
     <eklenme_tarihi>2025-04-08 14:50:29</eklenme_tarihi>
     <siralam_tarihi>2025-10-03 13:18:14</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>2</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -71047,7 +71096,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO9940</barcode>
     <eklenme_tarihi>2025-04-12 11:47:12</eklenme_tarihi>
     <siralam_tarihi>2025-04-12 11:47:12</siralam_tarihi>
-    <miktar>9</miktar>
+    <miktar>5</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -71074,7 +71123,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO9941</barcode>
     <eklenme_tarihi>2025-04-12 11:47:15</eklenme_tarihi>
     <siralam_tarihi>2025-04-12 11:47:15</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>15</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -72113,7 +72162,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3706</barcode>
     <eklenme_tarihi>2025-04-12 12:02:42</eklenme_tarihi>
     <siralam_tarihi>2025-08-07 16:19:12</siralam_tarihi>
-    <miktar>66</miktar>
+    <miktar>67</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -75156,7 +75205,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10061</barcode>
     <eklenme_tarihi>2025-04-28 15:05:55</eklenme_tarihi>
     <siralam_tarihi>2025-04-28 15:05:55</siralam_tarihi>
-    <miktar>28</miktar>
+    <miktar>27</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -82991,7 +83040,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_SN660</barcode>
     <eklenme_tarihi>2025-05-28 11:44:31</eklenme_tarihi>
     <siralam_tarihi>2025-05-28 11:44:31</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>15</miktar>
     <kategori>Şahmeran</kategori>
     <AnaKategori>Kadın|Şahmeran|</AnaKategori>
     <kdv>20</kdv>
@@ -91344,7 +91393,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7330</barcode>
     <eklenme_tarihi>2025-07-02 11:36:11</eklenme_tarihi>
     <siralam_tarihi>2025-07-02 11:36:11</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>0</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -91443,7 +91492,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7339</barcode>
     <eklenme_tarihi>2025-07-02 11:38:44</eklenme_tarihi>
     <siralam_tarihi>2025-07-02 11:38:44</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>5</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -92833,7 +92882,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_ERK1403</barcode>
     <eklenme_tarihi>2025-07-04 10:19:51</eklenme_tarihi>
     <siralam_tarihi>2025-07-04 10:19:51</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>10</miktar>
     <kategori>Erkek Kolye</kategori>
     <AnaKategori>Erkek|Erkek Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -93282,7 +93331,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10348</barcode>
     <eklenme_tarihi>2025-07-08 10:07:44</eklenme_tarihi>
     <siralam_tarihi>2025-07-08 10:07:44</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>24</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -96593,7 +96642,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7593</barcode>
     <eklenme_tarihi>2025-07-23 14:15:13</eklenme_tarihi>
     <siralam_tarihi>2025-07-23 14:15:13</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>18</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -98980,7 +99029,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7666</barcode>
     <eklenme_tarihi>2025-07-30 15:34:20</eklenme_tarihi>
     <siralam_tarihi>2025-11-28 13:11:29</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>8</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -100236,7 +100285,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10443</barcode>
     <eklenme_tarihi>2025-08-07 15:48:52</eklenme_tarihi>
     <siralam_tarihi>2026-01-21 16:46:35</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>10</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -102604,7 +102653,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7738</barcode>
     <eklenme_tarihi>2025-08-09 11:32:27</eklenme_tarihi>
     <siralam_tarihi>2025-08-09 11:32:27</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>12</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -103508,7 +103557,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10493</barcode>
     <eklenme_tarihi>2025-08-22 13:40:29</eklenme_tarihi>
     <siralam_tarihi>2025-12-20 10:46:09</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>4</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -104949,7 +104998,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10544</barcode>
     <eklenme_tarihi>2025-08-28 16:47:12</eklenme_tarihi>
     <siralam_tarihi>2025-08-28 16:47:12</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>12</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -105984,7 +106033,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7882</barcode>
     <eklenme_tarihi>2025-08-30 08:50:49</eklenme_tarihi>
     <siralam_tarihi>2025-08-30 08:50:49</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>5</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -109520,7 +109569,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB7923</barcode>
     <eklenme_tarihi>2025-09-16 13:17:08</eklenme_tarihi>
     <siralam_tarihi>2025-09-16 13:17:08</siralam_tarihi>
-    <miktar>2</miktar>
+    <miktar>1</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -116188,7 +116237,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BYK3906</barcode>
     <eklenme_tarihi>2025-10-06 15:30:23</eklenme_tarihi>
     <siralam_tarihi>2025-10-06 15:30:23</siralam_tarihi>
-    <miktar>59</miktar>
+    <miktar>58</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -117737,7 +117786,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11331</barcode>
     <eklenme_tarihi>2025-10-22 12:19:30</eklenme_tarihi>
     <siralam_tarihi>2025-10-22 12:19:30</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>31</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -120100,7 +120149,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11345</barcode>
     <eklenme_tarihi>2025-11-03 12:04:07</eklenme_tarihi>
     <siralam_tarihi>2025-11-03 12:04:07</siralam_tarihi>
-    <miktar>29</miktar>
+    <miktar>27</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -120126,7 +120175,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11346</barcode>
     <eklenme_tarihi>2025-11-03 12:04:10</eklenme_tarihi>
     <siralam_tarihi>2025-11-03 12:04:10</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>9</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -122975,7 +123024,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8084</barcode>
     <eklenme_tarihi>2025-11-11 09:31:53</eklenme_tarihi>
     <siralam_tarihi>2026-04-25 13:02:55</siralam_tarihi>
-    <miktar>112</miktar>
+    <miktar>107</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -124296,7 +124345,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11373</barcode>
     <eklenme_tarihi>2025-11-22 11:54:10</eklenme_tarihi>
     <siralam_tarihi>2025-11-22 11:54:10</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>9</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -131315,7 +131364,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11439</barcode>
     <eklenme_tarihi>2025-12-04 11:08:24</eklenme_tarihi>
     <siralam_tarihi>2025-12-04 11:08:24</siralam_tarihi>
-    <miktar>27</miktar>
+    <miktar>25</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -131437,7 +131486,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11442</barcode>
     <eklenme_tarihi>2025-12-04 11:08:34</eklenme_tarihi>
     <siralam_tarihi>2025-12-04 11:08:34</siralam_tarihi>
-    <miktar>9</miktar>
+    <miktar>7</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -131803,7 +131852,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11453</barcode>
     <eklenme_tarihi>2025-12-04 11:09:30</eklenme_tarihi>
     <siralam_tarihi>2026-03-11 06:08:23</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>0</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -135505,7 +135554,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKO10809</barcode>
     <eklenme_tarihi>2025-12-15 17:41:07</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:41:07</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>5</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -135848,7 +135897,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8158</barcode>
     <eklenme_tarihi>2025-12-15 17:44:37</eklenme_tarihi>
     <siralam_tarihi>2025-12-15 17:44:37</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>27</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -135901,7 +135950,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8162</barcode>
     <eklenme_tarihi>2025-12-15 17:47:01</eklenme_tarihi>
     <siralam_tarihi>2026-04-18 11:44:36</siralam_tarihi>
-    <miktar>447</miktar>
+    <miktar>437</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -135929,7 +135978,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BB8163</barcode>
     <eklenme_tarihi>2025-12-15 17:47:04</eklenme_tarihi>
     <siralam_tarihi>2026-04-18 11:44:35</siralam_tarihi>
-    <miktar>454</miktar>
+    <miktar>444</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -136492,7 +136541,7 @@ Bugünün dolu dolu aşk mı kokuyor? LOVE (Aşık) Siyah Deri İpli Unisex Mood
     <barcode>isteburada_BKP11477</barcode>
     <eklenme_tarihi>2025-12-15 17:54:55</eklenme_tarihi>
     <siralam_tarihi>2026-05-07 14:12:40</siralam_tarihi>
-    <miktar>44</miktar>
+    <miktar>42</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -137960,7 +138009,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11544</barcode>
     <eklenme_tarihi>2025-12-27 08:54:44</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 08:54:44</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>23</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -138204,7 +138253,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11548</barcode>
     <eklenme_tarihi>2025-12-27 08:54:52</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 08:54:52</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>23</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -138509,7 +138558,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11556</barcode>
     <eklenme_tarihi>2025-12-27 08:57:55</eklenme_tarihi>
     <siralam_tarihi>2026-03-26 07:29:04</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>11</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -138777,7 +138826,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11562</barcode>
     <eklenme_tarihi>2025-12-27 08:58:39</eklenme_tarihi>
     <siralam_tarihi>2026-03-26 07:28:56</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>12</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -138838,7 +138887,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11563</barcode>
     <eklenme_tarihi>2025-12-27 08:58:42</eklenme_tarihi>
     <siralam_tarihi>2026-03-26 07:28:54</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>10</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -138925,7 +138974,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11568</barcode>
     <eklenme_tarihi>2025-12-27 08:59:01</eklenme_tarihi>
     <siralam_tarihi>2026-03-26 07:28:49</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>10</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -138986,7 +139035,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11569</barcode>
     <eklenme_tarihi>2025-12-27 08:59:07</eklenme_tarihi>
     <siralam_tarihi>2026-03-26 07:28:48</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>14</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -139047,7 +139096,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11570</barcode>
     <eklenme_tarihi>2025-12-27 08:59:20</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 08:59:20</siralam_tarihi>
-    <miktar>37</miktar>
+    <miktar>34</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -139071,7 +139120,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11571</barcode>
     <eklenme_tarihi>2025-12-27 08:59:24</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 08:59:24</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>22</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -139156,7 +139205,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11574</barcode>
     <eklenme_tarihi>2025-12-27 08:59:36</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 08:59:36</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>9</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -139217,7 +139266,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11579</barcode>
     <eklenme_tarihi>2025-12-27 09:01:45</eklenme_tarihi>
     <siralam_tarihi>2025-12-27 09:01:45</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>14</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -139335,7 +139384,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11588</barcode>
     <eklenme_tarihi>2025-12-27 09:04:08</eklenme_tarihi>
     <siralam_tarihi>2026-03-26 07:28:34</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>16</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -141178,7 +141227,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11596</barcode>
     <eklenme_tarihi>2026-01-14 12:11:20</eklenme_tarihi>
     <siralam_tarihi>2026-01-14 12:11:20</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>14</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -141585,7 +141634,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11608</barcode>
     <eklenme_tarihi>2026-01-14 12:16:25</eklenme_tarihi>
     <siralam_tarihi>2026-01-14 12:16:25</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>13</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -144439,7 +144488,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKO10833</barcode>
     <eklenme_tarihi>2026-01-23 14:24:46</eklenme_tarihi>
     <siralam_tarihi>2026-04-04 12:28:43</siralam_tarihi>
-    <miktar>42</miktar>
+    <miktar>41</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -146168,7 +146217,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKO10887</barcode>
     <eklenme_tarihi>2026-01-23 14:27:57</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:27:57</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>0</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -146668,7 +146717,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKO10899</barcode>
     <eklenme_tarihi>2026-01-23 14:28:05</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:28:05</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>9</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -146946,7 +146995,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKO10907</barcode>
     <eklenme_tarihi>2026-01-23 14:29:01</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:29:01</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>14</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -147008,7 +147057,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKO10910</barcode>
     <eklenme_tarihi>2026-01-23 14:29:10</eklenme_tarihi>
     <siralam_tarihi>2026-01-23 14:29:10</siralam_tarihi>
-    <miktar>21</miktar>
+    <miktar>20</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -147158,7 +147207,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKO10913</barcode>
     <eklenme_tarihi>2026-01-23 14:29:20</eklenme_tarihi>
     <siralam_tarihi>2026-05-09 14:54:28</siralam_tarihi>
-    <miktar>83</miktar>
+    <miktar>82</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -152898,7 +152947,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8281</barcode>
     <eklenme_tarihi>2026-02-04 10:59:21</eklenme_tarihi>
     <siralam_tarihi>2026-02-04 10:59:21</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>18</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -152954,7 +153003,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8282</barcode>
     <eklenme_tarihi>2026-02-04 10:59:23</eklenme_tarihi>
     <siralam_tarihi>2026-02-04 10:59:23</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>8</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -153122,7 +153171,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8285</barcode>
     <eklenme_tarihi>2026-02-04 11:00:12</eklenme_tarihi>
     <siralam_tarihi>2026-02-04 11:00:12</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>29</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -153458,7 +153507,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8292</barcode>
     <eklenme_tarihi>2026-02-04 11:00:30</eklenme_tarihi>
     <siralam_tarihi>2026-02-04 11:00:30</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>18</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -168277,7 +168326,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11661</barcode>
     <eklenme_tarihi>2026-02-17 13:18:42</eklenme_tarihi>
     <siralam_tarihi>2026-05-15 12:01:52</siralam_tarihi>
-    <miktar>36</miktar>
+    <miktar>33</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -168899,7 +168948,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11680</barcode>
     <eklenme_tarihi>2026-02-17 13:20:28</eklenme_tarihi>
     <siralam_tarihi>2026-05-15 12:01:32</siralam_tarihi>
-    <miktar>50</miktar>
+    <miktar>46</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -170617,7 +170666,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11713</barcode>
     <eklenme_tarihi>2026-04-01 13:15:15</eklenme_tarihi>
     <siralam_tarihi>2026-04-01 13:15:15</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>15</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -171093,7 +171142,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11721</barcode>
     <eklenme_tarihi>2026-04-01 13:16:57</eklenme_tarihi>
     <siralam_tarihi>2026-04-01 13:16:57</siralam_tarihi>
-    <miktar>46</miktar>
+    <miktar>45</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -171272,7 +171321,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11724</barcode>
     <eklenme_tarihi>2026-04-01 13:21:49</eklenme_tarihi>
     <siralam_tarihi>2026-04-01 13:21:49</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>2</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -171443,7 +171492,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11731</barcode>
     <eklenme_tarihi>2026-04-01 13:24:54</eklenme_tarihi>
     <siralam_tarihi>2026-04-01 13:24:54</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>5</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -171618,7 +171667,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11735</barcode>
     <eklenme_tarihi>2026-04-01 13:25:02</eklenme_tarihi>
     <siralam_tarihi>2026-04-01 13:25:02</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>25</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -172046,7 +172095,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_SN746</barcode>
     <eklenme_tarihi>2026-04-01 13:28:26</eklenme_tarihi>
     <siralam_tarihi>2026-04-01 13:28:26</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>8</miktar>
     <kategori>Şahmeran</kategori>
     <AnaKategori>Kadın|Şahmeran|</AnaKategori>
     <kdv>20</kdv>
@@ -173960,6 +174009,67 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <aciklama>Ürünümüz 316L kalite paslanmaz çelikten üretilmiştir.-Kararmaya ve paslanmaya karşı yüksek dayanıklılık sunar, günlük kullanıma uygundur.-Uzun süre ilk günkü görünümünü koruyabilmesi için su, parfüm ve kimyasal maddelerle temasından kaçınılması önerilir.-Alerji riskini minimize eden yapısıyla konforlu bir kullanım sağlar.Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
   </Urun>
   <Urun>
+    <adi>316L Çelik Gümüş Renk 6'lı Set Charmlı Kadın Küpe</adi>
+    <stok_kodu>BKP11750</stok_kodu>
+    <product_id/>
+    <id>69d6160d746a6c2b6e0afef5</id>
+    <barcode>isteburada_BKP11750</barcode>
+    <eklenme_tarihi>2026-04-08 10:47:09</eklenme_tarihi>
+    <siralam_tarihi>2026-04-08 10:47:09</siralam_tarihi>
+    <miktar>1</miktar>
+    <kategori>Küpe</kategori>
+    <AnaKategori>Kadın|Küpe|</AnaKategori>
+    <kdv>20</kdv>
+    <resim>
+      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/1775642542_BKP11750.jpg</resim1>
+    </resim>
+    <fiyat>
+      <son_kullanici>439.9</son_kullanici>
+      <bayi_fiyati>159.9</bayi_fiyati>
+      <para_birimi>TL</para_birimi>
+    </fiyat>
+    <marka>Clariss</marka>
+    <filtreler>
+      <filtre>
+        <name>Taş Cinsi</name>
+        <value>Zirkon Taş</value>
+      </filtre>
+      <filtre>
+        <name>Tarz</name>
+        <value>Günlük Kullanım</value>
+      </filtre>
+      <filtre>
+        <name>Tarz</name>
+        <value>Spor</value>
+      </filtre>
+      <filtre>
+        <name>Tarz</name>
+        <value>Abiye</value>
+      </filtre>
+      <filtre>
+        <name>Tarz</name>
+        <value>Klasik</value>
+      </filtre>
+      <filtre>
+        <name>Materyal</name>
+        <value>Gümüş Kaplama</value>
+      </filtre>
+      <filtre>
+        <name>Materyal</name>
+        <value>Çelik</value>
+      </filtre>
+      <filtre>
+        <name>Renk</name>
+        <value>Gümüş</value>
+      </filtre>
+      <filtre>
+        <name>Beden</name>
+        <value>Standart</value>
+      </filtre>
+    </filtreler>
+    <aciklama>Ürünümüz 316L kalite paslanmaz çelikten üretilmiştir.-Kararmaya ve paslanmaya karşı yüksek dayanıklılık sunar, günlük kullanıma uygundur.-Uzun süre ilk günkü görünümünü koruyabilmesi için su, parfüm ve kimyasal maddelerle temasından kaçınılması önerilir.-Alerji riskini minimize eden yapısıyla konforlu bir kullanım sağlar.Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
+  </Urun>
+  <Urun>
     <adi>Pirinç Gold Renk Üçlü Görünüm Kadın Küpe</adi>
     <stok_kodu>BKP11755</stok_kodu>
     <product_id/>
@@ -174088,33 +174198,6 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <resim>
       <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/1775642894_BKO11018.jpg</resim1>
       <resim2>https://app.ebijuteri.com/storage/files/uploads/pimg/1775642894_BKO11018-2.jpg</resim2>
-    </resim>
-    <fiyat>
-      <son_kullanici>199.9</son_kullanici>
-      <bayi_fiyati>59.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Clariss</marka>
-    <filtreler>
-      <filtre/>
-    </filtreler>
-    <aciklama>Ürün zinciri 316L kalite paslanmaz çelikten üretilmiştir.-Kararmaya ve paslanmaya karşı yüksek dayanıklılık sunar, günlük kullanıma uygundur.-Uzun süre ilk günkü görünümünü koruyabilmesi için su, parfüm ve kimyasal maddelerle temasından kaçınılması önerilir.-Alerji riskini minimize eden yapısıyla konforlu bir kullanım sağlar.Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
-  </Urun>
-  <Urun>
-    <adi>316L Çelik Zincir Gümüş Renk Zirkon Taşlı Yıldız Model Kadın Kolye</adi>
-    <stok_kodu>BKO11019</stok_kodu>
-    <product_id/>
-    <id>69d616a17238d53d420db6c5</id>
-    <barcode>isteburada_BKO11019</barcode>
-    <eklenme_tarihi>2026-04-08 10:49:37</eklenme_tarihi>
-    <siralam_tarihi>2026-04-24 08:04:46</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Kolye</kategori>
-    <AnaKategori>Kadın|Kolye|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/1775642904_BKO11019.jpg</resim1>
-      <resim2>https://app.ebijuteri.com/storage/files/uploads/pimg/1775642904_BKO11019-2.jpg</resim2>
     </resim>
     <fiyat>
       <son_kullanici>199.9</son_kullanici>
@@ -175182,7 +175265,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKO11037</barcode>
     <eklenme_tarihi>2026-04-08 10:49:49</eklenme_tarihi>
     <siralam_tarihi>2026-04-08 10:49:49</siralam_tarihi>
-    <miktar>52</miktar>
+    <miktar>48</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -176237,7 +176320,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8396</barcode>
     <eklenme_tarihi>2026-04-14 12:32:20</eklenme_tarihi>
     <siralam_tarihi>2026-04-14 12:32:20</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>6</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -176642,7 +176725,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8403</barcode>
     <eklenme_tarihi>2026-04-14 12:32:41</eklenme_tarihi>
     <siralam_tarihi>2026-04-14 12:32:41</siralam_tarihi>
-    <miktar>18</miktar>
+    <miktar>19</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -177106,7 +177189,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8411</barcode>
     <eklenme_tarihi>2026-04-14 12:33:26</eklenme_tarihi>
     <siralam_tarihi>2026-04-14 12:33:26</siralam_tarihi>
-    <miktar>23</miktar>
+    <miktar>24</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -178513,7 +178596,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8439</barcode>
     <eklenme_tarihi>2026-04-14 12:36:24</eklenme_tarihi>
     <siralam_tarihi>2026-04-14 12:36:24</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>16</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -178923,7 +179006,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKO11047</barcode>
     <eklenme_tarihi>2026-04-14 12:40:34</eklenme_tarihi>
     <siralam_tarihi>2026-04-14 12:40:34</siralam_tarihi>
-    <miktar>31</miktar>
+    <miktar>30</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -180402,7 +180485,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BYK4173</barcode>
     <eklenme_tarihi>2026-04-14 12:47:07</eklenme_tarihi>
     <siralam_tarihi>2026-04-14 12:47:07</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>32</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -180989,7 +181072,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1660</barcode>
     <eklenme_tarihi>2026-04-21 12:06:12</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:06:12</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>17</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -181042,7 +181125,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1661</barcode>
     <eklenme_tarihi>2026-04-21 12:06:18</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:06:18</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>17</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -181066,7 +181149,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1662</barcode>
     <eklenme_tarihi>2026-04-21 12:13:22</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:13:22</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>2</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -181090,7 +181173,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1664</barcode>
     <eklenme_tarihi>2026-04-21 12:13:38</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:13:38</siralam_tarihi>
-    <miktar>18</miktar>
+    <miktar>16</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -181143,7 +181226,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1665</barcode>
     <eklenme_tarihi>2026-04-21 12:13:44</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:13:44</siralam_tarihi>
-    <miktar>23</miktar>
+    <miktar>21</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -181196,7 +181279,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1666</barcode>
     <eklenme_tarihi>2026-04-21 12:14:56</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:14:56</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>17</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -181249,7 +181332,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1667</barcode>
     <eklenme_tarihi>2026-04-21 12:15:05</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:15:05</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>17</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -181302,7 +181385,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1668</barcode>
     <eklenme_tarihi>2026-04-21 12:15:10</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:15:10</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>15</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -181355,7 +181438,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1669</barcode>
     <eklenme_tarihi>2026-04-21 12:15:15</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:15:15</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>1</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -181408,7 +181491,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1670</barcode>
     <eklenme_tarihi>2026-04-21 12:15:22</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:15:22</siralam_tarihi>
-    <miktar>28</miktar>
+    <miktar>24</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -181461,7 +181544,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1672</barcode>
     <eklenme_tarihi>2026-04-21 12:15:36</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:15:36</siralam_tarihi>
-    <miktar>46</miktar>
+    <miktar>44</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -181514,7 +181597,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1673</barcode>
     <eklenme_tarihi>2026-04-21 12:15:45</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:15:45</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>23</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -181567,7 +181650,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1674</barcode>
     <eklenme_tarihi>2026-04-21 12:15:49</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:15:49</siralam_tarihi>
-    <miktar>31</miktar>
+    <miktar>29</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -181620,7 +181703,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1675</barcode>
     <eklenme_tarihi>2026-04-21 12:15:54</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:15:54</siralam_tarihi>
-    <miktar>21</miktar>
+    <miktar>19</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -181644,7 +181727,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1676</barcode>
     <eklenme_tarihi>2026-04-21 12:15:58</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:15:58</siralam_tarihi>
-    <miktar>32</miktar>
+    <miktar>30</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -181697,7 +181780,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1677</barcode>
     <eklenme_tarihi>2026-04-21 12:16:03</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:16:03</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>13</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -181750,7 +181833,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1678</barcode>
     <eklenme_tarihi>2026-04-21 12:16:14</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:16:14</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>31</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -181803,7 +181886,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1679</barcode>
     <eklenme_tarihi>2026-04-21 12:16:20</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:16:20</siralam_tarihi>
-    <miktar>32</miktar>
+    <miktar>30</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -181909,7 +181992,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1681</barcode>
     <eklenme_tarihi>2026-04-21 12:16:34</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:16:34</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>24</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -181962,7 +182045,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1682</barcode>
     <eklenme_tarihi>2026-04-21 12:16:38</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:16:38</siralam_tarihi>
-    <miktar>20</miktar>
+    <miktar>18</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -182015,7 +182098,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1683</barcode>
     <eklenme_tarihi>2026-04-21 12:16:44</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:16:44</siralam_tarihi>
-    <miktar>32</miktar>
+    <miktar>30</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -182068,7 +182151,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1684</barcode>
     <eklenme_tarihi>2026-04-21 12:16:51</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:16:51</siralam_tarihi>
-    <miktar>21</miktar>
+    <miktar>19</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -182121,7 +182204,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1685</barcode>
     <eklenme_tarihi>2026-04-21 12:16:55</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:16:55</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>28</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -182174,7 +182257,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1686</barcode>
     <eklenme_tarihi>2026-04-21 12:16:59</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:16:59</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>17</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -182231,7 +182314,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1687</barcode>
     <eklenme_tarihi>2026-04-21 12:17:04</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:17:04</siralam_tarihi>
-    <miktar>20</miktar>
+    <miktar>18</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -182308,7 +182391,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1689</barcode>
     <eklenme_tarihi>2026-04-21 12:17:12</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:17:12</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>0</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -182333,7 +182416,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1690</barcode>
     <eklenme_tarihi>2026-04-21 12:17:21</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:17:21</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>8</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -182394,7 +182477,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1691</barcode>
     <eklenme_tarihi>2026-04-21 12:17:25</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:17:25</siralam_tarihi>
-    <miktar>29</miktar>
+    <miktar>27</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -182451,7 +182534,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_HH1692</barcode>
     <eklenme_tarihi>2026-04-21 12:17:53</eklenme_tarihi>
     <siralam_tarihi>2026-04-21 12:17:53</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>31</miktar>
     <kategori>Hal Hal</kategori>
     <AnaKategori>Kadın|Hal Hal|</AnaKategori>
     <kdv>20</kdv>
@@ -183845,7 +183928,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKO11061</barcode>
     <eklenme_tarihi>2026-04-27 11:07:34</eklenme_tarihi>
     <siralam_tarihi>2026-04-27 11:07:34</siralam_tarihi>
-    <miktar>63</miktar>
+    <miktar>61</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -183871,7 +183954,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKO11062</barcode>
     <eklenme_tarihi>2026-04-27 11:07:36</eklenme_tarihi>
     <siralam_tarihi>2026-04-27 11:07:36</siralam_tarihi>
-    <miktar>59</miktar>
+    <miktar>57</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -184125,7 +184208,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8446</barcode>
     <eklenme_tarihi>2026-04-30 17:35:32</eklenme_tarihi>
     <siralam_tarihi>2026-04-30 17:35:32</siralam_tarihi>
-    <miktar>32</miktar>
+    <miktar>30</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -184239,7 +184322,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8448</barcode>
     <eklenme_tarihi>2026-04-30 17:35:36</eklenme_tarihi>
     <siralam_tarihi>2026-04-30 17:35:36</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>23</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -184296,7 +184379,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8449</barcode>
     <eklenme_tarihi>2026-04-30 17:35:40</eklenme_tarihi>
     <siralam_tarihi>2026-04-30 17:35:40</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>22</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -186927,7 +187010,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_ERK1406</barcode>
     <eklenme_tarihi>2026-04-30 17:45:42</eklenme_tarihi>
     <siralam_tarihi>2026-04-30 17:45:42</siralam_tarihi>
-    <miktar>231</miktar>
+    <miktar>227</miktar>
     <kategori>Erkek Kolye</kategori>
     <AnaKategori>Erkek|Erkek Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -186981,7 +187064,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_ERK1407</barcode>
     <eklenme_tarihi>2026-04-30 17:46:01</eklenme_tarihi>
     <siralam_tarihi>2026-04-30 17:46:01</siralam_tarihi>
-    <miktar>111</miktar>
+    <miktar>107</miktar>
     <kategori>Erkek Kolye</kategori>
     <AnaKategori>Erkek|Erkek Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -187089,7 +187172,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_ERK1409</barcode>
     <eklenme_tarihi>2026-04-30 17:46:12</eklenme_tarihi>
     <siralam_tarihi>2026-04-30 17:46:12</siralam_tarihi>
-    <miktar>106</miktar>
+    <miktar>102</miktar>
     <kategori>Erkek Kolye</kategori>
     <AnaKategori>Erkek|Erkek Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -187143,7 +187226,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_ERK1410</barcode>
     <eklenme_tarihi>2026-04-30 17:46:42</eklenme_tarihi>
     <siralam_tarihi>2026-04-30 17:46:42</siralam_tarihi>
-    <miktar>230</miktar>
+    <miktar>226</miktar>
     <kategori>Erkek Kolye</kategori>
     <AnaKategori>Erkek|Erkek Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -187305,7 +187388,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_ERK1413</barcode>
     <eklenme_tarihi>2026-04-30 17:47:34</eklenme_tarihi>
     <siralam_tarihi>2026-04-30 17:47:34</siralam_tarihi>
-    <miktar>109</miktar>
+    <miktar>107</miktar>
     <kategori>Erkek Kolye</kategori>
     <AnaKategori>Erkek|Erkek Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -188331,7 +188414,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8495</barcode>
     <eklenme_tarihi>2026-05-08 11:20:54</eklenme_tarihi>
     <siralam_tarihi>2026-05-08 11:20:54</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>8</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -188502,7 +188585,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8498</barcode>
     <eklenme_tarihi>2026-05-08 11:21:33</eklenme_tarihi>
     <siralam_tarihi>2026-05-08 11:21:33</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>14</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -188559,7 +188642,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8499</barcode>
     <eklenme_tarihi>2026-05-08 11:21:36</eklenme_tarihi>
     <siralam_tarihi>2026-05-08 11:21:36</siralam_tarihi>
-    <miktar>15</miktar>
+    <miktar>16</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -190762,7 +190845,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11810</barcode>
     <eklenme_tarihi>2026-05-13 16:40:51</eklenme_tarihi>
     <siralam_tarihi>2026-05-13 16:40:51</siralam_tarihi>
-    <miktar>20</miktar>
+    <miktar>19</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -191047,7 +191130,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11815</barcode>
     <eklenme_tarihi>2026-05-13 16:41:02</eklenme_tarihi>
     <siralam_tarihi>2026-05-13 16:41:02</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>27</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -191218,7 +191301,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11818</barcode>
     <eklenme_tarihi>2026-05-13 16:41:09</eklenme_tarihi>
     <siralam_tarihi>2026-05-13 16:41:09</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>32</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -191959,7 +192042,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11831</barcode>
     <eklenme_tarihi>2026-05-13 16:42:02</eklenme_tarihi>
     <siralam_tarihi>2026-05-13 16:42:02</siralam_tarihi>
-    <miktar>40</miktar>
+    <miktar>35</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -192016,7 +192099,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11832</barcode>
     <eklenme_tarihi>2026-05-13 16:42:08</eklenme_tarihi>
     <siralam_tarihi>2026-05-13 16:42:08</siralam_tarihi>
-    <miktar>43</miktar>
+    <miktar>44</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -192073,7 +192156,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11833</barcode>
     <eklenme_tarihi>2026-05-13 16:42:13</eklenme_tarihi>
     <siralam_tarihi>2026-05-13 16:42:13</siralam_tarihi>
-    <miktar>42</miktar>
+    <miktar>35</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -192358,7 +192441,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11838</barcode>
     <eklenme_tarihi>2026-05-13 16:42:31</eklenme_tarihi>
     <siralam_tarihi>2026-05-13 16:42:31</siralam_tarihi>
-    <miktar>49</miktar>
+    <miktar>50</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -192773,7 +192856,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BKP11845</barcode>
     <eklenme_tarihi>2026-05-13 16:44:38</eklenme_tarihi>
     <siralam_tarihi>2026-05-13 16:44:38</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>31</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -194381,7 +194464,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_BB8527</barcode>
     <eklenme_tarihi>2026-05-13 16:48:54</eklenme_tarihi>
     <siralam_tarihi>2026-05-13 16:48:54</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>18</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -195189,7 +195272,7 @@ Sağlıkla ve keyifle kullanmanız dileğiyle.</aciklama>
     <barcode>isteburada_PR1379</barcode>
     <eklenme_tarihi>2026-05-13 16:50:40</eklenme_tarihi>
     <siralam_tarihi>2026-05-13 16:50:40</siralam_tarihi>
-    <miktar>35</miktar>
+    <miktar>36</miktar>
     <kategori>Piercing</kategori>
     <AnaKategori>Diğer Ürünler|Piercing|</AnaKategori>
     <kdv>20</kdv>
