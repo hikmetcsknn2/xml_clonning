@@ -339,32 +339,32 @@
     <Title>QC 3.0 Tek USB-A Hızlı Şarj Başlığı Siyah</Title>
     <açıklama>&lt;div class="teknotok-product-description"&gt;
 &lt;h2&gt;Ürün Hakkında&lt;/h2&gt;
-&lt;p&gt;QC 3.0 destekli tek USB-A çıkışlı siyah hızlı şarj başlığı, uyumlu USB şarj kablolarıyla duvar prizinde kullanım için sunulur. Avrupa tipi iki yuvarlak uçlu fiş yapısına sahiptir.&lt;/p&gt;
+QC 3.0 destekli tek USB-A çıkışlı siyah hızlı şarj başlığı, uyumlu USB şarj kablolarıyla duvar prizinde kullanım için sunulur. Avrupa tipi iki yuvarlak uçlu fiş yapısına sahiptir.
 &lt;h2&gt;Öne Çıkan Özellikler&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;QC 3.0 hızlı şarj desteği&lt;/li&gt;
-&lt;li&gt;Tek USB-A çıkışı&lt;/li&gt;
-&lt;li&gt;Siyah renk&lt;/li&gt;
-&lt;li&gt;Avrupa tipi iki uçlu duvar prizi bağlantısı&lt;/li&gt;
-&lt;li&gt;Adet bazında satış&lt;/li&gt;
+ 	&lt;li&gt;QC 3.0 hızlı şarj desteği&lt;/li&gt;
+ 	&lt;li&gt;Tek USB-A çıkışı&lt;/li&gt;
+ 	&lt;li&gt;Siyah renk&lt;/li&gt;
+ 	&lt;li&gt;Avrupa tipi iki uçlu duvar prizi bağlantısı&lt;/li&gt;
+ 	&lt;li&gt;Adet bazında satış&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Kullanım Alanı&lt;/h2&gt;
-&lt;p&gt;USB-A bağlantılı uyumlu şarj kablolarıyla telefon ve diğer uyumlu cihazların şarj edilmesinde kullanılabilir.&lt;/p&gt;
+USB-A bağlantılı uyumlu şarj kablolarıyla telefon ve diğer uyumlu cihazların şarj edilmesinde kullanılabilir.
 &lt;h2&gt;Toptan Satış Avantajı&lt;/h2&gt;
-&lt;p&gt;Telefoncular, aksesuar mağazaları, teknik servisler, e-ticaret satıcıları ve toptan alıcılar için adet bazında stoklanmaya uygundur.&lt;/p&gt;
+Telefoncular, aksesuar mağazaları, teknik servisler, e-ticaret satıcıları ve toptan alıcılar için adet bazında stoklanmaya uygundur.
 &lt;h2&gt;Sipariş ve Teslimat&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Kutu veya paket alma zorunluluğu yoktur.&lt;/li&gt;
-&lt;li&gt;Ürünler adet bazında sepete eklenebilir.&lt;/li&gt;
-&lt;li&gt;Minimum sipariş tutarı 1.500 TL'dir.&lt;/li&gt;
-&lt;li&gt;EFT ve havale ödemelerinde %5 indirim uygulanır.&lt;/li&gt;
-&lt;li&gt;Stoktan hızlı gönderim yapılır.&lt;/li&gt;
-&lt;li&gt;Ortalama teslimat süresi 1–3 iş günüdür.&lt;/li&gt;
+ 	&lt;li&gt;Kutu veya paket alma zorunluluğu yoktur.&lt;/li&gt;
+ 	&lt;li&gt;Ürünler adet bazında sepete eklenebilir.&lt;/li&gt;
+ 	&lt;li&gt;Minimum sipariş tutarı 1.500 TL'dir.&lt;/li&gt;
+ 	&lt;li&gt;EFT ve havale ödemelerinde %5 indirim uygulanır.&lt;/li&gt;
+ 	&lt;li&gt;Stoktan hızlı gönderim yapılır.&lt;/li&gt;
+ 	&lt;li&gt;Ortalama teslimat süresi 1–3 iş günüdür.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</açıklama>
     <Sku>isteburada_2000003225125</Sku>
-    <Price>73.96</Price>
-    <Stock>181</Stock>
+    <Price>75</Price>
+    <Stock>31</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2026/09/qc-3-0-usb-a-hizli-sarj-basligi-siyah.webp</Image1>
     <Image2/>
     <Image3/>
@@ -1176,7 +1176,7 @@ Telefon aksesuarı mağazaları, teknik servisler ve e-ticaret satıcıları iç
 &lt;/div&gt;</açıklama>
     <Sku>isteburada_4260657310908</Sku>
     <Price>550.00</Price>
-    <Stock>17</Stock>
+    <Stock>15</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2026/08/t3-3-in-1-kablosuz-sarj-standi-ana.webp</Image1>
     <Image2>https://teknotok.com/wp-content/uploads/2026/08/t3-3-in-1-kablosuz-sarj-standi-kullanim.webp</Image2>
     <Image3/>
@@ -2916,46 +2916,6 @@ Aksesuar mağazaları, hediyelik ürün satıcıları, e-ticaret satıcıları v
     <urun_kargo_desi>0.9</urun_kargo_desi>
   </post>
   <post>
-    <ID>321843</ID>
-    <Date>2026-08-14 19:09:30</Date>
-    <Title>POCO X7 PRO – Poco Hayalet Antistatik ESD Cam Tam Kaplayan Arbaks</Title>
-    <açıklama>&lt;div class="teknotok-product-description"&gt;
-&lt;h2&gt;Ürün Hakkında&lt;/h2&gt;
-Arbaks hayalet antistatik ESD cam ekran koruyucu, POCO X7 Pro modeliyle uyumlu ve ekran yüzeyini tam kaplayan ürün grubundadır.
-&lt;h2&gt;Öne Çıkan Özellikler&lt;/h2&gt;
-&lt;ul&gt;
- 	&lt;li&gt;POCO X7 Pro uyumluluğu&lt;/li&gt;
- 	&lt;li&gt;Hayalet antistatik ESD cam yapı&lt;/li&gt;
- 	&lt;li&gt;Tam kaplayan ekran koruyucu tasarımı&lt;/li&gt;
- 	&lt;li&gt;Arbaks ürün ailesi&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Kullanım Alanı&lt;/h2&gt;
-POCO X7 Pro ekranının günlük kullanımda korunması için kullanılır.
-&lt;h2&gt;Toptan Satış Avantajı&lt;/h2&gt;
-Telefoncular, teknik servisler, aksesuar mağazaları ve e-ticaret satıcıları için adet bazında toptan alıma uygundur.
-&lt;h2&gt;Sipariş ve Teslimat&lt;/h2&gt;
-&lt;ul&gt;
- 	&lt;li&gt;Kutu veya paket alma zorunluluğu yoktur.&lt;/li&gt;
- 	&lt;li&gt;Ürünler adet bazında sepete eklenebilir.&lt;/li&gt;
- 	&lt;li&gt;Minimum sipariş tutarı 1.500 TL'dir.&lt;/li&gt;
- 	&lt;li&gt;EFT ve havale ödemelerinde %5 indirim uygulanır.&lt;/li&gt;
- 	&lt;li&gt;Stoktan hızlı gönderim yapılır.&lt;/li&gt;
- 	&lt;li&gt;Ortalama teslimat süresi 1–3 iş günüdür.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</açıklama>
-    <Sku>isteburada_2000003218431</Sku>
-    <Price>62.13</Price>
-    <Stock>35</Stock>
-    <Image1>https://teknotok.com/wp-content/uploads/2025/04/toptan-Iphone-Hayalet-Antistatik-ESD-Cam-Tam-Kaplayan-Arbaks.webp</Image1>
-    <Image2>https://teknotok.com/wp-content/uploads/2025/04/toptan-Samsung-Iphone-Hayalet-Antistatik-ESD-Cam-Tam-Kaplayan-Arbaks.webp</Image2>
-    <Image3/>
-    <Image4/>
-    <Image5/>
-    <Ürünkategorileri>Ekran Koruyucu | Ekran Koruyucu &gt; Hayalet</Ürünkategorileri>
-    <Markalar>TeknoTok</Markalar>
-    <urun_kargo_desi>0.9</urun_kargo_desi>
-  </post>
-  <post>
     <ID>321842</ID>
     <Date>2026-08-14 19:09:30</Date>
     <Title>Xiaomi 15 – Xiaomi Antistatik Cam Tam Kaplayan Ekran Koruyucu (Parmak İzi)</Title>
@@ -2992,6 +2952,46 @@ Telefoncular, teknik servisler, aksesuar mağazaları ve e-ticaret satıcıları
     <Image4/>
     <Image5/>
     <Ürünkategorileri>Ekran Koruyucu &gt; 5D | Ekran Koruyucu &gt; AntiStatic | Ekran Koruyucu</Ürünkategorileri>
+    <Markalar>TeknoTok</Markalar>
+    <urun_kargo_desi>0.9</urun_kargo_desi>
+  </post>
+  <post>
+    <ID>321843</ID>
+    <Date>2026-08-14 19:09:30</Date>
+    <Title>POCO X7 PRO – Poco Hayalet Antistatik ESD Cam Tam Kaplayan Arbaks</Title>
+    <açıklama>&lt;div class="teknotok-product-description"&gt;
+&lt;h2&gt;Ürün Hakkında&lt;/h2&gt;
+Arbaks hayalet antistatik ESD cam ekran koruyucu, POCO X7 Pro modeliyle uyumlu ve ekran yüzeyini tam kaplayan ürün grubundadır.
+&lt;h2&gt;Öne Çıkan Özellikler&lt;/h2&gt;
+&lt;ul&gt;
+ 	&lt;li&gt;POCO X7 Pro uyumluluğu&lt;/li&gt;
+ 	&lt;li&gt;Hayalet antistatik ESD cam yapı&lt;/li&gt;
+ 	&lt;li&gt;Tam kaplayan ekran koruyucu tasarımı&lt;/li&gt;
+ 	&lt;li&gt;Arbaks ürün ailesi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Kullanım Alanı&lt;/h2&gt;
+POCO X7 Pro ekranının günlük kullanımda korunması için kullanılır.
+&lt;h2&gt;Toptan Satış Avantajı&lt;/h2&gt;
+Telefoncular, teknik servisler, aksesuar mağazaları ve e-ticaret satıcıları için adet bazında toptan alıma uygundur.
+&lt;h2&gt;Sipariş ve Teslimat&lt;/h2&gt;
+&lt;ul&gt;
+ 	&lt;li&gt;Kutu veya paket alma zorunluluğu yoktur.&lt;/li&gt;
+ 	&lt;li&gt;Ürünler adet bazında sepete eklenebilir.&lt;/li&gt;
+ 	&lt;li&gt;Minimum sipariş tutarı 1.500 TL'dir.&lt;/li&gt;
+ 	&lt;li&gt;EFT ve havale ödemelerinde %5 indirim uygulanır.&lt;/li&gt;
+ 	&lt;li&gt;Stoktan hızlı gönderim yapılır.&lt;/li&gt;
+ 	&lt;li&gt;Ortalama teslimat süresi 1–3 iş günüdür.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</açıklama>
+    <Sku>isteburada_2000003218431</Sku>
+    <Price>62.13</Price>
+    <Stock>35</Stock>
+    <Image1>https://teknotok.com/wp-content/uploads/2025/04/toptan-Iphone-Hayalet-Antistatik-ESD-Cam-Tam-Kaplayan-Arbaks.webp</Image1>
+    <Image2>https://teknotok.com/wp-content/uploads/2025/04/toptan-Samsung-Iphone-Hayalet-Antistatik-ESD-Cam-Tam-Kaplayan-Arbaks.webp</Image2>
+    <Image3/>
+    <Image4/>
+    <Image5/>
+    <Ürünkategorileri>Ekran Koruyucu | Ekran Koruyucu &gt; Hayalet</Ürünkategorileri>
     <Markalar>TeknoTok</Markalar>
     <urun_kargo_desi>0.9</urun_kargo_desi>
   </post>
@@ -3446,7 +3446,7 @@ Telefoncular, aksesuar mağazaları, teknik servisler, e-ticaret satıcıları v
 &lt;p&gt;Telefon aksesuar mağazaları, teknik servisler ve e-ticaret satıcıları için stoklanabilir. Fiyat, stok, görsel ve teknik detaylar ürün sayfasındaki güncel bilgiler üzerinden kontrol edilmelidir.&lt;/p&gt;</açıklama>
     <Sku>isteburada_7959437763692</Sku>
     <Price>35.00</Price>
-    <Stock>1694</Stock>
+    <Stock>1682</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2024/04/Premium-Gravity-Air-Vent-Car-Holder-H01-4-6-Black-7426825353504-12092018-12-p.webp</Image1>
     <Image2>https://teknotok.com/wp-content/uploads/2024/04/Premium-Gravity-Air-Vent-Car-Holder-H01-4-6-Black-7426825353504-12092018-05-p.webp</Image2>
     <Image3>https://teknotok.com/wp-content/uploads/2023/11/toptan-Tum-Telefonlara-Havalandirma-Oto-Arac-Ici-Telefon-Tutucu-Car-Holder.webp</Image3>
@@ -7356,7 +7356,7 @@ Telefonunuzu her türlü dış etkenden koruyarak uzun ömürlü kullanım sağl
 &lt;p class="p1"&gt;Ekranınızı en iyi şekilde koruyun ve cihazınızı uzun ömürlü hale getirin. Bu ekran koruyucu, günlük kullanımdan kaynaklanan hasarlara karşı cihazınızı güvence altına alır. Şimdi sipariş verin ve ekranınızı koruma altına alın!&lt;/p&gt;</açıklama>
     <Sku>isteburada_9225336967434</Sku>
     <Price>41.42</Price>
-    <Stock>9</Stock>
+    <Stock>8</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2023/12/toptan-Antistatik-Cam-Tam-Kaplayan-Ekran-Koruyucu.webp</Image1>
     <Image2>https://teknotok.com/wp-content/uploads/2023/12/toptan-Iphone-samsung-Antistatik-Cam-Tam-Kaplayan-Ekran-Koruyucu.png</Image2>
     <Image3/>
@@ -16086,7 +16086,7 @@ Ekipmanınızın güvenliği için şimdi Kamera Lens Koruyucu alın, çekimleri
 &lt;p class="p1"&gt;Ekranınızın her zaman yeni gibi görünmesini sağlayan Hayalt cam ekran koruyucu ile hem şıklığı hem de dayanıklılığı bir arada deneyimleyin. Şimdi sipariş verin ve ekranınızı mükemmel koruma ile tanıştırın!&lt;/p&gt;</açıklama>
     <Sku>isteburada_7611753302650</Sku>
     <Price>66.27</Price>
-    <Stock>41</Stock>
+    <Stock>40</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2025/04/toptan-Iphone-Hayalet-Antistatik-ESD-Cam-Tam-Kaplayan-Arbaks.webp</Image1>
     <Image2>https://teknotok.com/wp-content/uploads/2025/04/toptan-Samsung-Iphone-Hayalet-Antistatik-ESD-Cam-Tam-Kaplayan-Arbaks.webp</Image2>
     <Image3/>
@@ -18041,7 +18041,7 @@ Ekipmanınızın güvenliği için şimdi Kamera Lens Koruyucu alın, çekimleri
 &lt;p class="p1"&gt;Ekranınızın her zaman yeni gibi görünmesini sağlayan Hayalt cam ekran koruyucu ile hem şıklığı hem de dayanıklılığı bir arada deneyimleyin. Şimdi sipariş verin ve ekranınızı mükemmel koruma ile tanıştırın!&lt;/p&gt;</açıklama>
     <Sku>isteburada_7611783322663</Sku>
     <Price>80.08</Price>
-    <Stock>30</Stock>
+    <Stock>27</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2025/04/toptan-Iphone-Hayalet-Antistatik-ESD-Cam-Tam-Kaplayan-Arbaks.webp</Image1>
     <Image2>https://teknotok.com/wp-content/uploads/2025/04/toptan-Samsung-Iphone-Hayalet-Antistatik-ESD-Cam-Tam-Kaplayan-Arbaks.webp</Image2>
     <Image3/>
@@ -18110,7 +18110,7 @@ Ekipmanınızın güvenliği için şimdi Kamera Lens Koruyucu alın, çekimleri
 &lt;p class="p1"&gt;Ekranınızın her zaman yeni gibi görünmesini sağlayan Hayalt cam ekran koruyucu ile hem şıklığı hem de dayanıklılığı bir arada deneyimleyin. Şimdi sipariş verin ve ekranınızı mükemmel koruma ile tanıştırın!&lt;/p&gt;</açıklama>
     <Sku>isteburada_7611773312662</Sku>
     <Price>66.27</Price>
-    <Stock>19</Stock>
+    <Stock>18</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2025/04/toptan-Iphone-Hayalet-Antistatik-ESD-Cam-Tam-Kaplayan-Arbaks.webp</Image1>
     <Image2>https://teknotok.com/wp-content/uploads/2025/04/toptan-Samsung-Iphone-Hayalet-Antistatik-ESD-Cam-Tam-Kaplayan-Arbaks.webp</Image2>
     <Image3/>
@@ -18178,7 +18178,7 @@ Ekipmanınızın güvenliği için şimdi Kamera Lens Koruyucu alın, çekimleri
 </açıklama>
     <Sku>isteburada_7622753312747</Sku>
     <Price>79.39</Price>
-    <Stock>29</Stock>
+    <Stock>26</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2025/04/toptan-Iphone-Hayalet-Antistatik-ESD-Cam-Tam-Kaplayan-Arbaks.webp</Image1>
     <Image2>https://teknotok.com/wp-content/uploads/2025/04/toptan-Samsung-Iphone-Hayalet-Antistatik-ESD-Cam-Tam-Kaplayan-Arbaks.webp</Image2>
     <Image3/>
@@ -18774,7 +18774,7 @@ Ayarlanabilir tutucu kolları sayesinde birçok akıllı telefon modeliyle uyuml
 &lt;strong&gt;JBK Tech H-03 360° araç telefon tutucu&lt;/strong&gt;, uygun fiyatı, kullanışlı yapısı ve geniş müşteri kitlesi sayesinde toptan telefon aksesuarı satışı için tercih edilebilecek ürünlerden biridir.</açıklama>
     <Sku>isteburada_6456794863199</Sku>
     <Price>108.48</Price>
-    <Stock>56</Stock>
+    <Stock>16</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2026/05/TOPTAN-JBK-Tech-H-03-360°-Arac-Telefon-Tutucu-–-Vakumlu-Ayarlanabilir-Car-Holder.webp</Image1>
     <Image2/>
     <Image3/>
@@ -23669,7 +23669,7 @@ Teknotok, teknolojiye dair her şeyi bir arada bulabileceğiniz bir platformdur.
 &lt;h3 data-start="825" data-end="845"&gt;&lt;/h3&gt;</açıklama>
     <Sku>isteburada_8684246001063</Sku>
     <Price>75.93</Price>
-    <Stock>39</Stock>
+    <Stock>99</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2025/11/toptan-Arbaks-ARB-125-3u-1-Arada-100W-Hizli-Sarj-Kablosu-–-Type-C-Lightning-Micro-USB-LED-Ekranli-Orgulu-Dayanikli-Tasarim-teknotok.jpg</Image1>
     <Image2/>
     <Image3/>
@@ -25057,7 +25057,7 @@ Teknolojinin sunduğu en iyi ses deneyimini yaşamak ve her anınızı müziğin
     <açıklama>&lt;p data-start="248" data-end="722"&gt;Arbaks ARB-616 bisiklet telefon tutucu, &lt;strong data-start="288" data-end="309"&gt;360° döner başlık&lt;/strong&gt; özelliğiyle navigasyonunuzu dilediğiniz açıdan kullanmanızı sağlar. &lt;strong data-start="378" data-end="409"&gt;Tek tuşla kilitleme sistemi&lt;/strong&gt; sayesinde telefonunuzu saniyeler içinde güvenli şekilde sabitleyebilirsiniz.&lt;br data-start="486" data-end="489" /&gt;Kaymaz ve &lt;strong data-start="499" data-end="537"&gt;sarsıntı önleyici dayanıklı yapısı&lt;/strong&gt; ile en zorlu yollarda bile telefonunuzu sıkıca tutar. Tüm akıllı telefon modelleriyle uyumludur.&lt;br data-start="634" data-end="637" /&gt;Toptan alımlar için &lt;strong data-start="657" data-end="682"&gt;TeknoTok güvencesiyle&lt;/strong&gt; avantajlı fiyat fırsatını kaçırmayın!&lt;/p&gt;</açıklama>
     <Sku>isteburada_8684246001001</Sku>
     <Price>586.77</Price>
-    <Stock>2</Stock>
+    <Stock>12</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2025/10/arb-616.jpg</Image1>
     <Image2/>
     <Image3/>
@@ -25242,7 +25242,7 @@ Teknolojinin sunduğu en iyi ses deneyimini yaşamak ve her anınızı müziğin
 &lt;a href="https://teknotok.com/wp-content/uploads/2020/10/guvenli-kargo-yeni_1.jpeg"&gt;&lt;img class="alignnone size-medium wp-image-145147" src="https://teknotok.com/wp-content/uploads/2020/10/guvenli-kargo-yeni_1-800x193.jpeg" alt="" width="800" height="193" /&gt;&lt;/a&gt;</açıklama>
     <Sku>isteburada_8719273240236</Sku>
     <Price>193.29</Price>
-    <Stock>23</Stock>
+    <Stock>163</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2025/10/arb-015-siyah-type-c-sarj-aleti.jpg</Image1>
     <Image2/>
     <Image3/>
@@ -25472,7 +25472,7 @@ Arbaks 3.5mm Mikrofonlu Kulaklık, kaliteli ses deneyimi ve kullanıcı dostu ta
     <açıklama/>
     <Sku>isteburada_8002556201157</Sku>
     <Price>34.52</Price>
-    <Stock>22</Stock>
+    <Stock>82</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2025/08/toptan-ARBAKS-Arb-H01-1.5-Metre-HDMI-Kablo-Ask-ChatGPT-.webp</Image1>
     <Image2/>
     <Image3/>
@@ -25557,7 +25557,7 @@ https://youtube.com/shorts/pbzdaevDovI?si=uQLqcdQDTwPe02Qg</açıklama>
 &lt;strong&gt;&lt;a href="https://teknotok.com/wp-content/uploads/2020/10/guvenli-kargo-yeni_1.jpeg"&gt;&lt;img class="size-medium wp-image-145147 aligncenter" src="https://teknotok.com/wp-content/uploads/2020/10/guvenli-kargo-yeni_1-800x193.jpeg" alt="" width="800" height="193" /&gt;&lt;/a&gt;&lt;/strong&gt;</açıklama>
     <Sku>isteburada_8667019414017</Sku>
     <Price>44.87</Price>
-    <Stock>0</Stock>
+    <Stock>60</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2020/10/toptan-Micro-2400mAh-Hizli-Sarj-Veri-Aktarimi-Arbaks-ARB401.png</Image1>
     <Image2/>
     <Image3/>
@@ -25740,7 +25740,7 @@ https://youtube.com/shorts/tIgoGhcxp20?si=i3fh-NoygvWwI0mL</açıklama>
 &lt;p&gt;Telefon aksesuar mağazaları, teknik servisler ve e-ticaret satıcıları için stoklanabilir. Fiyat, stok, görsel ve teknik detaylar ürün sayfasındaki güncel bilgiler üzerinden kontrol edilmelidir.&lt;/p&gt;</açıklama>
     <Sku>isteburada_6980034601227</Sku>
     <Price>124.26</Price>
-    <Stock>6</Stock>
+    <Stock>26</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2024/11/arb-513.webp</Image1>
     <Image2/>
     <Image3/>
@@ -25978,7 +25978,7 @@ https://youtube.com/shorts/4pC9A_qtJ70?si=ZnEoBrnuw9P6CXjW</açıklama>
 &lt;a href="https://teknotok.com/wp-content/uploads/2020/10/guvenli-kargo-yeni_1.jpeg"&gt;&lt;img class="alignnone size-medium wp-image-145147" src="https://teknotok.com/wp-content/uploads/2020/10/guvenli-kargo-yeni_1-800x193.jpeg" alt="" width="800" height="193" /&gt;&lt;/a&gt;</açıklama>
     <Sku>isteburada_8684246001919</Sku>
     <Price>51.77</Price>
-    <Stock>16</Stock>
+    <Stock>76</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2024/11/arb-52-scaled.jpg</Image1>
     <Image2/>
     <Image3/>
@@ -26031,8 +26031,8 @@ https://youtube.com/shorts/4pC9A_qtJ70?si=ZnEoBrnuw9P6CXjW</açıklama>
 &lt;h3&gt;Toptan Satış İçin Uygun&lt;/h3&gt;
 &lt;p&gt;Telefon aksesuar mağazaları, teknik servisler ve e-ticaret satıcıları için stoklanabilir. Fiyat, stok, görsel ve teknik detaylar ürün sayfasındaki güncel bilgiler üzerinden kontrol edilmelidir.&lt;/p&gt;</açıklama>
     <Sku>isteburada_6980034687245</Sku>
-    <Price>45.00</Price>
-    <Stock>0</Stock>
+    <Price>60</Price>
+    <Stock>60</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2022/09/vtx-509.jpg</Image1>
     <Image2/>
     <Image3/>
@@ -33808,7 +33808,7 @@ Telefonunuzun hem şıklığını artırmak hem de kullanım kolaylığı sağla
 Telefonunuzu hem estetik hem de fonksiyonel olarak korumak ve kablosuz şarjın keyfini çıkarmak için bu Premium MagSafe Kılıf’ı hemen satın alın!</açıklama>
     <Sku>isteburada_3406812050633</Sku>
     <Price>173.96</Price>
-    <Stock>45</Stock>
+    <Stock>44</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2024/09/47661d1b507edcb16102199a8b3894fa.webp</Image1>
     <Image2>https://teknotok.com/wp-content/uploads/2024/09/0644431a1afbeba42b285a4e09820102.webp</Image2>
     <Image3>https://teknotok.com/wp-content/uploads/2024/09/e381d61f844087ec69cafebadc5ca79c.webp</Image3>
@@ -35814,11 +35814,11 @@ https://youtube.com/shorts/vrR0Z68-Mu0?si=u7tqQxRvkSGvvdqK</açıklama>
     <urun_kargo_desi>0.9</urun_kargo_desi>
   </post>
   <post>
-    <ID>306808</ID>
+    <ID>306794</ID>
     <Date>2024-06-28 10:00:43</Date>
-    <Title>iPhone 14 – Nikelaj Kılıf Renkli</Title>
-    <açıklama>https://youtube.com/shorts/vrR0Z68-Mu0?si=QKRp-DhgbJ9gGdDR</açıklama>
-    <Sku>isteburada_3406812056329</Sku>
+    <Title>iPhone 12 Pro max – Nikelaj Kılıf Renkli</Title>
+    <açıklama/>
+    <Sku>isteburada_3406812046324</Sku>
     <Price>49.70</Price>
     <Stock>0</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2023/08/toptan-Nikelaj-Cover-Kilif-5-Siyah-5-Renkli-teknotok-scaled.webp</Image1>
@@ -35831,11 +35831,11 @@ https://youtube.com/shorts/vrR0Z68-Mu0?si=u7tqQxRvkSGvvdqK</açıklama>
     <urun_kargo_desi>0.9</urun_kargo_desi>
   </post>
   <post>
-    <ID>306794</ID>
+    <ID>306808</ID>
     <Date>2024-06-28 10:00:43</Date>
-    <Title>iPhone 12 Pro max – Nikelaj Kılıf Renkli</Title>
-    <açıklama/>
-    <Sku>isteburada_3406812046324</Sku>
+    <Title>iPhone 14 – Nikelaj Kılıf Renkli</Title>
+    <açıklama>https://youtube.com/shorts/vrR0Z68-Mu0?si=QKRp-DhgbJ9gGdDR</açıklama>
+    <Sku>isteburada_3406812056329</Sku>
     <Price>49.70</Price>
     <Stock>0</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2023/08/toptan-Nikelaj-Cover-Kilif-5-Siyah-5-Renkli-teknotok-scaled.webp</Image1>
@@ -37983,14 +37983,14 @@ Cep telefonu yedek parça toplu satış modellerimizle, işinizi büyütme fırs
     <urun_kargo_desi>0.9</urun_kargo_desi>
   </post>
   <post>
-    <ID>311236</ID>
+    <ID>311238</ID>
     <Date>2024-04-22 10:00:50</Date>
-    <Title>M27 ENC Kablosuz Kulaklık Dokunmatik Bluetooth Kulaklık</Title>
-    <açıklama>https://youtube.com/shorts/tOzY0jvXcYI?si=a0EgcYMdtTBXnP9g</açıklama>
-    <Sku>isteburada_8699931325523</Sku>
+    <Title>M28 Kablosuz Kulaklık Dokunmatik Bluetooth Kulaklık</Title>
+    <açıklama/>
+    <Sku>isteburada_8699931325534</Sku>
     <Price>310.64</Price>
     <Stock>0</Stock>
-    <Image1>https://teknotok.com/wp-content/uploads/2024/04/totan-M27-ENC-Kablosuz-Kulaklik-Dokunmatik-Bluetooth-Kulaklik.webp</Image1>
+    <Image1>https://teknotok.com/wp-content/uploads/2024/04/toptan-M28-Kablosuz-Kulaklik-Dokunmatik-Bluetooth-Kulaklik-teknotok.webp</Image1>
     <Image2/>
     <Image3/>
     <Image4/>
@@ -38000,14 +38000,14 @@ Cep telefonu yedek parça toplu satış modellerimizle, işinizi büyütme fırs
     <urun_kargo_desi>0.9</urun_kargo_desi>
   </post>
   <post>
-    <ID>311238</ID>
+    <ID>311236</ID>
     <Date>2024-04-22 10:00:50</Date>
-    <Title>M28 Kablosuz Kulaklık Dokunmatik Bluetooth Kulaklık</Title>
-    <açıklama/>
-    <Sku>isteburada_8699931325534</Sku>
+    <Title>M27 ENC Kablosuz Kulaklık Dokunmatik Bluetooth Kulaklık</Title>
+    <açıklama>https://youtube.com/shorts/tOzY0jvXcYI?si=a0EgcYMdtTBXnP9g</açıklama>
+    <Sku>isteburada_8699931325523</Sku>
     <Price>310.64</Price>
     <Stock>0</Stock>
-    <Image1>https://teknotok.com/wp-content/uploads/2024/04/toptan-M28-Kablosuz-Kulaklik-Dokunmatik-Bluetooth-Kulaklik-teknotok.webp</Image1>
+    <Image1>https://teknotok.com/wp-content/uploads/2024/04/totan-M27-ENC-Kablosuz-Kulaklik-Dokunmatik-Bluetooth-Kulaklik.webp</Image1>
     <Image2/>
     <Image3/>
     <Image4/>
@@ -42842,14 +42842,14 @@ Cep telefonu yedek parça toplu satış modellerimizle, işinizi büyütme fırs
     <urun_kargo_desi>0.9</urun_kargo_desi>
   </post>
   <post>
-    <ID>118644</ID>
+    <ID>3418</ID>
     <Date>2023-09-05 22:00:55</Date>
-    <Title>Samsung ( Core 2 / G355 ) Batarya Concord C-1002</Title>
+    <Title>J1 Ace Samsung Batarya Syrox Syx-B178</Title>
     <açıklama/>
-    <Sku>isteburada_8691415421002</Sku>
-    <Price>39.00</Price>
+    <Sku>isteburada_8680542370575</Sku>
+    <Price>29.00</Price>
     <Stock>0</Stock>
-    <Image1>https://teknotok.com/wp-content/uploads/2020/07/toptan-Concord-Batarya.png</Image1>
+    <Image1>https://teknotok.com/wp-content/uploads/2018/09/Syrox-Syx-B178-Samsung-J1-Ace-Batarya.jpg</Image1>
     <Image2/>
     <Image3/>
     <Image4/>
@@ -42859,14 +42859,14 @@ Cep telefonu yedek parça toplu satış modellerimizle, işinizi büyütme fırs
     <urun_kargo_desi>0.9</urun_kargo_desi>
   </post>
   <post>
-    <ID>3418</ID>
+    <ID>118644</ID>
     <Date>2023-09-05 22:00:55</Date>
-    <Title>J1 Ace Samsung Batarya Syrox Syx-B178</Title>
+    <Title>Samsung ( Core 2 / G355 ) Batarya Concord C-1002</Title>
     <açıklama/>
-    <Sku>isteburada_8680542370575</Sku>
-    <Price>29.00</Price>
+    <Sku>isteburada_8691415421002</Sku>
+    <Price>39.00</Price>
     <Stock>0</Stock>
-    <Image1>https://teknotok.com/wp-content/uploads/2018/09/Syrox-Syx-B178-Samsung-J1-Ace-Batarya.jpg</Image1>
+    <Image1>https://teknotok.com/wp-content/uploads/2020/07/toptan-Concord-Batarya.png</Image1>
     <Image2/>
     <Image3/>
     <Image4/>
@@ -48034,7 +48034,7 @@ Bluetooth arama desteği: Sık kullanılan kişiler cep telefonu senkronizasyonu
 &lt;p&gt;Telefon aksesuar mağazaları, teknik servisler ve e-ticaret satıcıları için stoklanabilir. Fiyat, stok, görsel ve teknik detaylar ürün sayfasındaki güncel bilgiler üzerinden kontrol edilmelidir.&lt;/p&gt;</açıklama>
     <Sku>isteburada_7959437763661</Sku>
     <Price>55.23</Price>
-    <Stock>485</Stock>
+    <Stock>483</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2022/07/toptan-Havalandirma-Oto-Araç-İçi-Telefon-Tutucu-Gold-Rose-Gold-V-MMS.jpg</Image1>
     <Image2>https://teknotok.com/wp-content/uploads/2022/07/toptan-Araç-Telefon-Tutucu-Havalandirmaya-Takilan-Araba-Telefon-Tutucu-teknotok.jpeg</Image2>
     <Image3>https://teknotok.com/wp-content/uploads/2022/07/Araç-Telefon-Tutucu-Havalandirmaya-Takilan-Araba-Telefon-Tutucu-toptan-teknotok-scaled.jpg</Image3>
@@ -50931,7 +50931,7 @@ mıknatısı güçlüdür.360 derece dönebilir.</açıklama>
 &lt;p&gt;Telefon aksesuar mağazaları, teknik servisler ve e-ticaret satıcıları için stoklanabilir. Fiyat, stok, görsel ve teknik detaylar ürün sayfasındaki güncel bilgiler üzerinden kontrol edilmelidir.&lt;/p&gt;</açıklama>
     <Sku>isteburada_8699931325011</Sku>
     <Price>122.85</Price>
-    <Stock>12</Stock>
+    <Stock>9</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2021/04/Toptan-Miknatisli-Araç-İçi-Telefon-Tutacaği-Powerway-TT23.jpg</Image1>
     <Image2>https://teknotok.com/wp-content/uploads/2021/04/toptan-teknotok-Miknatisli-Araç-İçi-Telefon-Tutacaği-Powerway-TT23.jpg</Image2>
     <Image3/>
@@ -56144,23 +56144,6 @@ Navigasyon Yayma
     <urun_kargo_desi>0.9</urun_kargo_desi>
   </post>
   <post>
-    <ID>118780</ID>
-    <Date>2022-09-26 12:00:54</Date>
-    <Title>Huawei ( Y7 2018 ) Batarya Concord C-1039</Title>
-    <açıklama/>
-    <Sku>isteburada_8691415421039</Sku>
-    <Price>60.00</Price>
-    <Stock>0</Stock>
-    <Image1>https://teknotok.com/wp-content/uploads/2022/06/10483379273778.jpeg</Image1>
-    <Image2/>
-    <Image3/>
-    <Image4/>
-    <Image5/>
-    <Ürünkategorileri>Batarya | Batarya &gt; Huawei</Ürünkategorileri>
-    <Markalar>TeknoTok</Markalar>
-    <urun_kargo_desi>0.9</urun_kargo_desi>
-  </post>
-  <post>
     <ID>118753</ID>
     <Date>2022-09-26 12:00:54</Date>
     <Title>İphone ( X ) Batarya Concord C-1046</Title>
@@ -56174,6 +56157,23 @@ Navigasyon Yayma
     <Image4>https://teknotok.com/wp-content/uploads/2020/07/toptan-Concord-Batarya.png</Image4>
     <Image5/>
     <Ürünkategorileri>Batarya | Batarya &gt; İphone</Ürünkategorileri>
+    <Markalar>TeknoTok</Markalar>
+    <urun_kargo_desi>0.9</urun_kargo_desi>
+  </post>
+  <post>
+    <ID>118780</ID>
+    <Date>2022-09-26 12:00:54</Date>
+    <Title>Huawei ( Y7 2018 ) Batarya Concord C-1039</Title>
+    <açıklama/>
+    <Sku>isteburada_8691415421039</Sku>
+    <Price>60.00</Price>
+    <Stock>0</Stock>
+    <Image1>https://teknotok.com/wp-content/uploads/2022/06/10483379273778.jpeg</Image1>
+    <Image2/>
+    <Image3/>
+    <Image4/>
+    <Image5/>
+    <Ürünkategorileri>Batarya | Batarya &gt; Huawei</Ürünkategorileri>
     <Markalar>TeknoTok</Markalar>
     <urun_kargo_desi>0.9</urun_kargo_desi>
   </post>
@@ -56297,23 +56297,6 @@ Navigasyon Yayma
     <urun_kargo_desi>0.9</urun_kargo_desi>
   </post>
   <post>
-    <ID>118739</ID>
-    <Date>2022-09-26 12:00:43</Date>
-    <Title>Samsung ( J7 2016 ) Batarya Concord C-1035</Title>
-    <açıklama/>
-    <Sku>isteburada_8691415421035</Sku>
-    <Price>49.00</Price>
-    <Stock>0</Stock>
-    <Image1>https://teknotok.com/wp-content/uploads/2020/07/toptan-Concord-Batarya.png</Image1>
-    <Image2/>
-    <Image3/>
-    <Image4/>
-    <Image5/>
-    <Ürünkategorileri>Batarya | Batarya &gt; Samsung</Ürünkategorileri>
-    <Markalar>TeknoTok</Markalar>
-    <urun_kargo_desi>0.9</urun_kargo_desi>
-  </post>
-  <post>
     <ID>118749</ID>
     <Date>2022-09-26 12:00:43</Date>
     <Title>İphone ( 7G Plus ) Batarya Concord C-10287G</Title>
@@ -56331,19 +56314,19 @@ Navigasyon Yayma
     <urun_kargo_desi>0.9</urun_kargo_desi>
   </post>
   <post>
-    <ID>118744</ID>
-    <Date>2022-09-26 12:00:42</Date>
-    <Title>İphone ( 6 Plus ) Batarya Concord C-1024</Title>
+    <ID>118739</ID>
+    <Date>2022-09-26 12:00:43</Date>
+    <Title>Samsung ( J7 2016 ) Batarya Concord C-1035</Title>
     <açıklama/>
-    <Sku>isteburada_8691415421024</Sku>
-    <Price>85.00</Price>
+    <Sku>isteburada_8691415421035</Sku>
+    <Price>49.00</Price>
     <Stock>0</Stock>
     <Image1>https://teknotok.com/wp-content/uploads/2020/07/toptan-Concord-Batarya.png</Image1>
     <Image2/>
     <Image3/>
     <Image4/>
     <Image5/>
-    <Ürünkategorileri>Batarya | Batarya &gt; İphone</Ürünkategorileri>
+    <Ürünkategorileri>Batarya | Batarya &gt; Samsung</Ürünkategorileri>
     <Markalar>TeknoTok</Markalar>
     <urun_kargo_desi>0.9</urun_kargo_desi>
   </post>
@@ -56361,6 +56344,23 @@ Navigasyon Yayma
     <Image4/>
     <Image5/>
     <Ürünkategorileri>Batarya | Batarya &gt; Samsung</Ürünkategorileri>
+    <Markalar>TeknoTok</Markalar>
+    <urun_kargo_desi>0.9</urun_kargo_desi>
+  </post>
+  <post>
+    <ID>118744</ID>
+    <Date>2022-09-26 12:00:42</Date>
+    <Title>İphone ( 6 Plus ) Batarya Concord C-1024</Title>
+    <açıklama/>
+    <Sku>isteburada_8691415421024</Sku>
+    <Price>85.00</Price>
+    <Stock>0</Stock>
+    <Image1>https://teknotok.com/wp-content/uploads/2020/07/toptan-Concord-Batarya.png</Image1>
+    <Image2/>
+    <Image3/>
+    <Image4/>
+    <Image5/>
+    <Ürünkategorileri>Batarya | Batarya &gt; İphone</Ürünkategorileri>
     <Markalar>TeknoTok</Markalar>
     <urun_kargo_desi>0.9</urun_kargo_desi>
   </post>
@@ -67467,23 +67467,6 @@ Güvenli şarj için akım korumalı
     <urun_kargo_desi>0.9</urun_kargo_desi>
   </post>
   <post>
-    <ID>114574</ID>
-    <Date>2021-07-16 00:10:08</Date>
-    <Title>(Gold) Makaralı Bluetooth Kulaklık Titreşiml Concord I C-982</Title>
-    <açıklama/>
-    <Sku>isteburada_8699415421982</Sku>
-    <Price>690.78</Price>
-    <Stock>0</Stock>
-    <Image1>https://teknotok.com/wp-content/uploads/2020/06/Gold-Makaralı-Bluetooth-Kulaklık-Titreşiml-Concord-I-C-982.jpg</Image1>
-    <Image2/>
-    <Image3/>
-    <Image4/>
-    <Image5/>
-    <Ürünkategorileri>Bluetooth Kulaklık</Ürünkategorileri>
-    <Markalar>TeknoTok</Markalar>
-    <urun_kargo_desi>0.9</urun_kargo_desi>
-  </post>
-  <post>
     <ID>74600</ID>
     <Date>2021-07-16 00:10:08</Date>
     <Title>Makaralı Bluetooth Kulaklık (Türkçe Seslendirme) Concord C981</Title>
@@ -67494,6 +67477,23 @@ Güvenli şarj için akım korumalı
     <Image1>https://teknotok.com/wp-content/uploads/2019/12/Toptan-Toptan-Makaralı-Bluetooth-Kulaklık-Türkçe-Concord-C981-1.jpg</Image1>
     <Image2>https://teknotok.com/wp-content/uploads/2019/12/Toptan-Toptan-Makaralı-Bluetooth-Kulaklık-Türkçe-Concord-C981-3.jpg</Image2>
     <Image3>https://teknotok.com/wp-content/uploads/2019/12/Toptan-Toptan-Makaralı-Bluetooth-Kulaklık-Türkçe-Concord-C981-2.jpg</Image3>
+    <Image4/>
+    <Image5/>
+    <Ürünkategorileri>Bluetooth Kulaklık</Ürünkategorileri>
+    <Markalar>TeknoTok</Markalar>
+    <urun_kargo_desi>0.9</urun_kargo_desi>
+  </post>
+  <post>
+    <ID>114574</ID>
+    <Date>2021-07-16 00:10:08</Date>
+    <Title>(Gold) Makaralı Bluetooth Kulaklık Titreşiml Concord I C-982</Title>
+    <açıklama/>
+    <Sku>isteburada_8699415421982</Sku>
+    <Price>690.78</Price>
+    <Stock>0</Stock>
+    <Image1>https://teknotok.com/wp-content/uploads/2020/06/Gold-Makaralı-Bluetooth-Kulaklık-Titreşiml-Concord-I-C-982.jpg</Image1>
+    <Image2/>
+    <Image3/>
     <Image4/>
     <Image5/>
     <Ürünkategorileri>Bluetooth Kulaklık</Ürünkategorileri>
