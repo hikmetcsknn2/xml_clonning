@@ -111,7 +111,7 @@
     <barcode>isteburada_BR542</barcode>
     <eklenme_tarihi>2026-10-29 10:00:03</eklenme_tarihi>
     <siralam_tarihi>2026-10-29 10:00:03</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>11</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -152,7 +152,7 @@
     <barcode>isteburada_BR541</barcode>
     <eklenme_tarihi>2026-10-29 09:59:56</eklenme_tarihi>
     <siralam_tarihi>2026-10-29 09:59:56</siralam_tarihi>
-    <miktar>9</miktar>
+    <miktar>8</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -3878,7 +3878,7 @@
     <barcode>isteburada_BB8915</barcode>
     <eklenme_tarihi>2026-10-21 09:46:30</eklenme_tarihi>
     <siralam_tarihi>2026-10-21 09:46:30</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>2</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -3980,63 +3980,6 @@
       <filtre>
         <name>Renk</name>
         <value>Altın</value>
-      </filtre>
-    </filtreler>
-    <aciklama>- Asansörlü yapısı sayesinde tüm bilek ölçülerine uygundur.- Ürünümüz pirinç materyalden üretilmiştir.- Doğru ve özenli kullanımda kararma ve renk değişimi yapmaz.- Ürününüzün formunu ve rengini uzun süre koruyabilmesi için parfüm, su ve kimyasal maddelerle temasından kaçınmanızı öneririz.- Ayrıca her cilt yapısının takı kullanımına tepkisi farklı olabileceği unutulmamalıdır.- Sağlıklı ve mutlu günlerde kullanmanız dileğiyle.</aciklama>
-  </Urun>
-  <Urun>
-    <adi>Sarmaşık Çiçek Model Gümüş Renk Zirkon Taşlı Asansörlü Kadın Bileklik</adi>
-    <stok_kodu>BB8913</stok_kodu>
-    <product_id/>
-    <id>6ad86dbcc55cc2383f077123</id>
-    <barcode>isteburada_BB8913</barcode>
-    <eklenme_tarihi>2026-10-21 09:46:04</eklenme_tarihi>
-    <siralam_tarihi>2026-10-21 09:46:04</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Bayan Bileklik</kategori>
-    <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/6ad86dbcc55cc2383f077123-fb95714c-6f87-4b10-8034-2dda2fb7f59a.jpg</resim1>
-    </resim>
-    <fiyat>
-      <son_kullanici>289.9</son_kullanici>
-      <bayi_fiyati>139.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Clariss</marka>
-    <filtreler>
-      <filtre>
-        <name>Taş Cinsi</name>
-        <value>Zirkon Taş</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Gümüş Kaplama</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Pirinç</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Günlük Kullanım</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Spor</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Abiye</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Klasik</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Gümüş</value>
       </filtre>
     </filtreler>
     <aciklama>- Asansörlü yapısı sayesinde tüm bilek ölçülerine uygundur.- Ürünümüz pirinç materyalden üretilmiştir.- Doğru ve özenli kullanımda kararma ve renk değişimi yapmaz.- Ürününüzün formunu ve rengini uzun süre koruyabilmesi için parfüm, su ve kimyasal maddelerle temasından kaçınmanızı öneririz.- Ayrıca her cilt yapısının takı kullanımına tepkisi farklı olabileceği unutulmamalıdır.- Sağlıklı ve mutlu günlerde kullanmanız dileğiyle.</aciklama>
@@ -4295,7 +4238,7 @@
     <barcode>isteburada_BKO11269</barcode>
     <eklenme_tarihi>2026-10-19 14:46:47</eklenme_tarihi>
     <siralam_tarihi>2026-10-19 14:46:47</siralam_tarihi>
-    <miktar>48</miktar>
+    <miktar>46</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -4320,7 +4263,7 @@
     <barcode>isteburada_BKO11268</barcode>
     <eklenme_tarihi>2026-10-19 14:46:42</eklenme_tarihi>
     <siralam_tarihi>2026-10-19 14:46:42</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>18</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -5097,7 +5040,7 @@
     <barcode>isteburada_BB8907</barcode>
     <eklenme_tarihi>2026-10-14 11:37:06</eklenme_tarihi>
     <siralam_tarihi>2026-10-14 11:37:06</siralam_tarihi>
-    <miktar>23</miktar>
+    <miktar>22</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -5439,7 +5382,7 @@
     <barcode>isteburada_BYK4332</barcode>
     <eklenme_tarihi>2026-10-10 13:32:34</eklenme_tarihi>
     <siralam_tarihi>2026-10-10 13:32:34</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>28</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -5496,7 +5439,7 @@
     <barcode>isteburada_BYK4331</barcode>
     <eklenme_tarihi>2026-10-10 13:32:31</eklenme_tarihi>
     <siralam_tarihi>2026-10-10 13:32:31</siralam_tarihi>
-    <miktar>18</miktar>
+    <miktar>16</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -5553,7 +5496,7 @@
     <barcode>isteburada_BYK4330</barcode>
     <eklenme_tarihi>2026-10-10 13:32:26</eklenme_tarihi>
     <siralam_tarihi>2026-10-10 13:32:26</siralam_tarihi>
-    <miktar>29</miktar>
+    <miktar>27</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -5610,7 +5553,7 @@
     <barcode>isteburada_BYK4329</barcode>
     <eklenme_tarihi>2026-10-10 13:32:20</eklenme_tarihi>
     <siralam_tarihi>2026-10-10 13:32:20</siralam_tarihi>
-    <miktar>21</miktar>
+    <miktar>19</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -5667,7 +5610,7 @@
     <barcode>isteburada_BYK4328</barcode>
     <eklenme_tarihi>2026-10-10 13:31:28</eklenme_tarihi>
     <siralam_tarihi>2026-10-10 13:31:28</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>28</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -5724,7 +5667,7 @@
     <barcode>isteburada_BYK4327</barcode>
     <eklenme_tarihi>2026-10-10 13:31:23</eklenme_tarihi>
     <siralam_tarihi>2026-10-10 13:31:23</siralam_tarihi>
-    <miktar>20</miktar>
+    <miktar>18</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -5781,7 +5724,7 @@
     <barcode>isteburada_BYK4326</barcode>
     <eklenme_tarihi>2026-10-10 13:31:18</eklenme_tarihi>
     <siralam_tarihi>2026-10-10 13:31:18</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>31</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -5838,7 +5781,7 @@
     <barcode>isteburada_BYK4325</barcode>
     <eklenme_tarihi>2026-10-10 13:31:12</eklenme_tarihi>
     <siralam_tarihi>2026-10-10 13:31:12</siralam_tarihi>
-    <miktar>21</miktar>
+    <miktar>19</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -8693,7 +8636,7 @@
     <barcode>isteburada_BKO11262</barcode>
     <eklenme_tarihi>2026-09-28 11:16:34</eklenme_tarihi>
     <siralam_tarihi>2026-09-28 11:16:34</siralam_tarihi>
-    <miktar>38</miktar>
+    <miktar>33</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -8756,7 +8699,7 @@
     <barcode>isteburada_BKO11261</barcode>
     <eklenme_tarihi>2026-09-28 11:16:31</eklenme_tarihi>
     <siralam_tarihi>2026-09-28 11:16:31</siralam_tarihi>
-    <miktar>44</miktar>
+    <miktar>39</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -8780,7 +8723,7 @@
     <barcode>isteburada_BKO11260</barcode>
     <eklenme_tarihi>2026-09-28 10:43:19</eklenme_tarihi>
     <siralam_tarihi>2026-09-28 10:43:19</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>29</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -9141,7 +9084,7 @@
     <barcode>isteburada_BKO11254</barcode>
     <eklenme_tarihi>2026-09-26 13:58:51</eklenme_tarihi>
     <siralam_tarihi>2026-09-26 13:58:51</siralam_tarihi>
-    <miktar>107</miktar>
+    <miktar>102</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -9168,7 +9111,7 @@
     <barcode>isteburada_BKO11253</barcode>
     <eklenme_tarihi>2026-09-26 13:53:31</eklenme_tarihi>
     <siralam_tarihi>2026-09-26 13:53:31</siralam_tarihi>
-    <miktar>101</miktar>
+    <miktar>95</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -9340,7 +9283,7 @@
     <barcode>isteburada_BKP12169</barcode>
     <eklenme_tarihi>2026-09-25 10:45:05</eklenme_tarihi>
     <siralam_tarihi>2026-09-25 10:45:05</siralam_tarihi>
-    <miktar>24</miktar>
+    <miktar>23</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -10826,7 +10769,7 @@
     <barcode>isteburada_BB6257</barcode>
     <eklenme_tarihi>2024-08-22 12:28:33</eklenme_tarihi>
     <siralam_tarihi>2026-09-16 14:17:05</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>32</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -12764,7 +12707,7 @@
     <barcode>isteburada_BKP9696</barcode>
     <eklenme_tarihi>2024-11-15 15:18:11</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:39:13</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>17</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -15356,7 +15299,7 @@
     <barcode>isteburada_BB7925</barcode>
     <eklenme_tarihi>2025-09-16 13:17:36</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:34:07</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>2</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -16461,7 +16404,7 @@
     <barcode>isteburada_BKO10571</barcode>
     <eklenme_tarihi>2025-09-16 13:06:47</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:32:20</siralam_tarihi>
-    <miktar>3</miktar>
+    <miktar>4</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -19491,7 +19434,7 @@
     <barcode>isteburada_BYK4003</barcode>
     <eklenme_tarihi>2026-02-12 11:37:08</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:29:35</siralam_tarihi>
-    <miktar>32</miktar>
+    <miktar>30</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -19605,7 +19548,7 @@
     <barcode>isteburada_BYK3984</barcode>
     <eklenme_tarihi>2026-02-12 11:35:28</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:29:31</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>5</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -20203,7 +20146,7 @@
     <barcode>isteburada_BYK4234</barcode>
     <eklenme_tarihi>2026-08-05 12:10:57</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:28:54</siralam_tarihi>
-    <miktar>42</miktar>
+    <miktar>38</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -20280,7 +20223,7 @@
     <barcode>isteburada_BYK4232</barcode>
     <eklenme_tarihi>2026-08-05 10:10:10</eklenme_tarihi>
     <siralam_tarihi>2026-09-12 13:28:52</siralam_tarihi>
-    <miktar>72</miktar>
+    <miktar>69</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -21680,7 +21623,7 @@
     <barcode>isteburada_BYK2237</barcode>
     <eklenme_tarihi>2022-03-18 13:10:14</eklenme_tarihi>
     <siralam_tarihi>2026-09-09 14:51:28</siralam_tarihi>
-    <miktar>41</miktar>
+    <miktar>39</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -21707,7 +21650,7 @@
     <barcode>isteburada_BKO9149</barcode>
     <eklenme_tarihi>2024-09-05 13:38:18</eklenme_tarihi>
     <siralam_tarihi>2026-09-09 14:51:24</siralam_tarihi>
-    <miktar>130</miktar>
+    <miktar>127</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -21735,7 +21678,7 @@
     <barcode>isteburada_BKO9150</barcode>
     <eklenme_tarihi>2024-09-05 13:38:22</eklenme_tarihi>
     <siralam_tarihi>2026-09-09 14:51:12</siralam_tarihi>
-    <miktar>150</miktar>
+    <miktar>147</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -21986,7 +21929,7 @@
     <barcode>isteburada_BYK4316</barcode>
     <eklenme_tarihi>2026-09-02 09:30:35</eklenme_tarihi>
     <siralam_tarihi>2026-09-02 09:30:35</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>17</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -22043,7 +21986,7 @@
     <barcode>isteburada_BYK4315</barcode>
     <eklenme_tarihi>2026-09-02 09:30:31</eklenme_tarihi>
     <siralam_tarihi>2026-09-02 09:30:31</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>24</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -22100,7 +22043,7 @@
     <barcode>isteburada_BYK4314</barcode>
     <eklenme_tarihi>2026-09-02 09:30:26</eklenme_tarihi>
     <siralam_tarihi>2026-09-02 09:30:26</siralam_tarihi>
-    <miktar>18</miktar>
+    <miktar>15</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -22157,7 +22100,7 @@
     <barcode>isteburada_BYK4313</barcode>
     <eklenme_tarihi>2026-09-02 09:30:19</eklenme_tarihi>
     <siralam_tarihi>2026-09-02 09:30:19</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>24</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -22328,7 +22271,7 @@
     <barcode>isteburada_BYK4310</barcode>
     <eklenme_tarihi>2026-09-02 09:29:57</eklenme_tarihi>
     <siralam_tarihi>2026-09-02 09:29:57</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>20</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -22385,7 +22328,7 @@
     <barcode>isteburada_BYK4309</barcode>
     <eklenme_tarihi>2026-09-02 09:29:51</eklenme_tarihi>
     <siralam_tarihi>2026-09-02 09:29:51</siralam_tarihi>
-    <miktar>33</miktar>
+    <miktar>31</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -23744,7 +23687,7 @@
     <barcode>isteburada_BKO11227</barcode>
     <eklenme_tarihi>2026-08-31 13:17:29</eklenme_tarihi>
     <siralam_tarihi>2026-08-31 13:17:29</siralam_tarihi>
-    <miktar>24</miktar>
+    <miktar>23</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -23806,7 +23749,7 @@
     <barcode>isteburada_BKO11226</barcode>
     <eklenme_tarihi>2026-08-31 13:17:23</eklenme_tarihi>
     <siralam_tarihi>2026-08-31 13:17:23</siralam_tarihi>
-    <miktar>13</miktar>
+    <miktar>12</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -28432,7 +28375,7 @@
     <barcode>isteburada_BR511</barcode>
     <eklenme_tarihi>2026-08-27 11:22:24</eklenme_tarihi>
     <siralam_tarihi>2026-08-27 11:22:24</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>6</miktar>
     <kategori>Broş</kategori>
     <AnaKategori>Kadın|Broş|</AnaKategori>
     <kdv>20</kdv>
@@ -30268,7 +30211,7 @@
     <barcode>isteburada_BKO11156</barcode>
     <eklenme_tarihi>2026-07-14 11:54:05</eklenme_tarihi>
     <siralam_tarihi>2026-08-26 10:34:29</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>0</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -30872,7 +30815,7 @@
     <barcode>isteburada_BYK4298</barcode>
     <eklenme_tarihi>2026-08-25 10:37:10</eklenme_tarihi>
     <siralam_tarihi>2026-08-25 10:37:10</siralam_tarihi>
-    <miktar>23</miktar>
+    <miktar>21</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -30925,7 +30868,7 @@
     <barcode>isteburada_BYK4297</barcode>
     <eklenme_tarihi>2026-08-25 10:37:04</eklenme_tarihi>
     <siralam_tarihi>2026-08-25 10:37:04</siralam_tarihi>
-    <miktar>18</miktar>
+    <miktar>16</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -30978,7 +30921,7 @@
     <barcode>isteburada_BYK4296</barcode>
     <eklenme_tarihi>2026-08-25 10:36:59</eklenme_tarihi>
     <siralam_tarihi>2026-08-25 10:36:59</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>28</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -31031,7 +30974,7 @@
     <barcode>isteburada_BYK4295</barcode>
     <eklenme_tarihi>2026-08-25 10:36:53</eklenme_tarihi>
     <siralam_tarihi>2026-08-25 10:36:53</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>20</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -31084,7 +31027,7 @@
     <barcode>isteburada_BYK4294</barcode>
     <eklenme_tarihi>2026-08-25 10:36:47</eklenme_tarihi>
     <siralam_tarihi>2026-08-25 10:36:47</siralam_tarihi>
-    <miktar>23</miktar>
+    <miktar>21</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -31141,7 +31084,7 @@
     <barcode>isteburada_BYK4293</barcode>
     <eklenme_tarihi>2026-08-25 10:36:42</eklenme_tarihi>
     <siralam_tarihi>2026-08-25 10:36:42</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>17</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -31304,7 +31247,7 @@
     <barcode>isteburada_BYK4290</barcode>
     <eklenme_tarihi>2026-08-25 10:36:27</eklenme_tarihi>
     <siralam_tarihi>2026-08-25 10:36:27</siralam_tarihi>
-    <miktar>31</miktar>
+    <miktar>29</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -31357,7 +31300,7 @@
     <barcode>isteburada_BYK4289</barcode>
     <eklenme_tarihi>2026-08-25 10:36:20</eklenme_tarihi>
     <siralam_tarihi>2026-08-25 10:36:20</siralam_tarihi>
-    <miktar>21</miktar>
+    <miktar>19</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -31410,7 +31353,7 @@
     <barcode>isteburada_BYK4288</barcode>
     <eklenme_tarihi>2026-08-25 10:36:15</eklenme_tarihi>
     <siralam_tarihi>2026-08-25 10:36:15</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>28</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -31463,7 +31406,7 @@
     <barcode>isteburada_BYK4287</barcode>
     <eklenme_tarihi>2026-08-25 10:36:10</eklenme_tarihi>
     <siralam_tarihi>2026-08-25 10:36:10</siralam_tarihi>
-    <miktar>23</miktar>
+    <miktar>21</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -32987,7 +32930,7 @@
     <barcode>isteburada_BYK2740</barcode>
     <eklenme_tarihi>2023-08-16 15:40:34</eklenme_tarihi>
     <siralam_tarihi>2026-08-22 16:24:39</siralam_tarihi>
-    <miktar>31</miktar>
+    <miktar>30</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -33469,7 +33412,7 @@
     <barcode>isteburada_EB3833</barcode>
     <eklenme_tarihi>2026-08-21 10:24:14</eklenme_tarihi>
     <siralam_tarihi>2026-08-21 10:24:14</siralam_tarihi>
-    <miktar>92</miktar>
+    <miktar>91</miktar>
     <kategori>Erkek Bileklik</kategori>
     <AnaKategori>Erkek|Erkek Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -34386,7 +34329,7 @@
     <barcode>isteburada_BKP12104</barcode>
     <eklenme_tarihi>2026-08-19 11:40:08</eklenme_tarihi>
     <siralam_tarihi>2026-08-19 11:40:08</siralam_tarihi>
-    <miktar>26</miktar>
+    <miktar>25</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -34482,7 +34425,7 @@
     <barcode>isteburada_BKP12100</barcode>
     <eklenme_tarihi>2026-08-19 11:39:40</eklenme_tarihi>
     <siralam_tarihi>2026-08-19 11:39:40</siralam_tarihi>
-    <miktar>31</miktar>
+    <miktar>30</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -35153,7 +35096,7 @@
     <barcode>isteburada_BKP12087</barcode>
     <eklenme_tarihi>2026-08-19 09:40:06</eklenme_tarihi>
     <siralam_tarihi>2026-08-19 09:40:06</siralam_tarihi>
-    <miktar>21</miktar>
+    <miktar>20</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -36339,7 +36282,7 @@
     <barcode>isteburada_BKP12064</barcode>
     <eklenme_tarihi>2026-08-18 12:44:10</eklenme_tarihi>
     <siralam_tarihi>2026-08-18 12:44:10</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>4</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -38217,7 +38160,7 @@
     <barcode>isteburada_BKO10213</barcode>
     <eklenme_tarihi>2025-05-15 15:46:37</eklenme_tarihi>
     <siralam_tarihi>2026-08-17 11:08:40</siralam_tarihi>
-    <miktar>27</miktar>
+    <miktar>26</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -41470,7 +41413,7 @@
     <barcode>isteburada_EB3820</barcode>
     <eklenme_tarihi>2026-08-05 13:39:34</eklenme_tarihi>
     <siralam_tarihi>2026-08-05 13:39:34</siralam_tarihi>
-    <miktar>34</miktar>
+    <miktar>33</miktar>
     <kategori>Erkek Bileklik</kategori>
     <AnaKategori>Erkek|Erkek Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -41898,7 +41841,7 @@
     <barcode>isteburada_BKO11193</barcode>
     <eklenme_tarihi>2026-08-03 15:40:02</eklenme_tarihi>
     <siralam_tarihi>2026-08-04 20:32:15</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>9</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -43628,7 +43571,7 @@
     <barcode>isteburada_BKP12002</barcode>
     <eklenme_tarihi>2026-08-01 09:03:10</eklenme_tarihi>
     <siralam_tarihi>2026-08-01 09:03:10</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>6</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -45023,63 +44966,6 @@
     <aciklama>- Ürünümüz pirinç materyalden üretilmiştir.- Doğru ve özenli kullanımda kararma ve renk değişimi yapmaz.- Ürününüzün formunu ve rengini uzun süre koruyabilmesi için parfüm, su ve kimyasal maddelerle temasından kaçınmanızı öneririz.- Ayrıca her cilt yapısının takı kullanımına tepkisi farklı olabileceği unutulmamalıdır.- Sağlıklı ve mutlu günlerde kullanmanız dileğiyle.</aciklama>
   </Urun>
   <Urun>
-    <adi>Gümüş Renk Zirkon Taşlı Pirinç Sedefli Yonca Model Asansörlü Bileklik</adi>
-    <stok_kodu>BB8843</stok_kodu>
-    <product_id/>
-    <id>6a68637bfc4f0d999d0fcf04</id>
-    <barcode>isteburada_BB8843</barcode>
-    <eklenme_tarihi>2026-07-28 10:08:27</eklenme_tarihi>
-    <siralam_tarihi>2026-07-28 10:08:27</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Bayan Bileklik</kategori>
-    <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/6a68637bfc4f0d999d0fcf04-38f1d544-d415-4b0b-a8e1-33dc153fd77e.jpg</resim1>
-    </resim>
-    <fiyat>
-      <son_kullanici>299.9</son_kullanici>
-      <bayi_fiyati>129.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Clariss</marka>
-    <filtreler>
-      <filtre>
-        <name>Taş Cinsi</name>
-        <value>Zirkon Taş</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Gümüş Kaplama</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Pirinç</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Günlük Kullanım</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Spor</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Abiye</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Klasik</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Gümüş</value>
-      </filtre>
-    </filtreler>
-    <aciklama>- Asansörlü yapısı sayesinde tüm bilek ölçülerine uygundur.- Ürünümüz pirinç materyalden üretilmiştir.- Doğru ve özenli kullanımda kararma ve renk değişimi yapmaz.- Ürününüzün formunu ve rengini uzun süre koruyabilmesi için parfüm, su ve kimyasal maddelerle temasından kaçınmanızı öneririz.- Ayrıca her cilt yapısının takı kullanımına tepkisi farklı olabileceği unutulmamalıdır.- Sağlıklı ve mutlu günlerde kullanmanız dileğiyle.</aciklama>
-  </Urun>
-  <Urun>
     <adi>Gümüş Renk Zirkon Taşlı Pirinç Kuğu Model Asansörlü Bileklik</adi>
     <stok_kodu>BB8841</stok_kodu>
     <product_id/>
@@ -45360,63 +45246,6 @@
       <filtre>
         <name>Renk</name>
         <value>Gümüş</value>
-      </filtre>
-    </filtreler>
-    <aciklama>- Asansörlü yapısı sayesinde tüm bilek ölçülerine uygundur.- Ürünümüz pirinç materyalden üretilmiştir.- Doğru ve özenli kullanımda kararma ve renk değişimi yapmaz.- Ürününüzün formunu ve rengini uzun süre koruyabilmesi için parfüm, su ve kimyasal maddelerle temasından kaçınmanızı öneririz.- Ayrıca her cilt yapısının takı kullanımına tepkisi farklı olabileceği unutulmamalıdır.- Sağlıklı ve mutlu günlerde kullanmanız dileğiyle.</aciklama>
-  </Urun>
-  <Urun>
-    <adi>Gold Renk Zirkon Taşlı Pirinç Sedefli Çiçek Model Asansörlü Bileklik</adi>
-    <stok_kodu>BB8834</stok_kodu>
-    <product_id/>
-    <id>6a686345275ca0ea110bc367</id>
-    <barcode>isteburada_BB8834</barcode>
-    <eklenme_tarihi>2026-07-28 10:07:33</eklenme_tarihi>
-    <siralam_tarihi>2026-07-28 10:07:33</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Bayan Bileklik</kategori>
-    <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/6a686345275ca0ea110bc367-226a277a-413b-4aee-90b3-69da4df9a5ae.jpg</resim1>
-    </resim>
-    <fiyat>
-      <son_kullanici>299.9</son_kullanici>
-      <bayi_fiyati>129.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Clariss</marka>
-    <filtreler>
-      <filtre>
-        <name>Taş Cinsi</name>
-        <value>Zirkon Taş</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Altın Kaplama</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Pirinç</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Günlük Kullanım</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Spor</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Abiye</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Klasik</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Altın</value>
       </filtre>
     </filtreler>
     <aciklama>- Asansörlü yapısı sayesinde tüm bilek ölçülerine uygundur.- Ürünümüz pirinç materyalden üretilmiştir.- Doğru ve özenli kullanımda kararma ve renk değişimi yapmaz.- Ürününüzün formunu ve rengini uzun süre koruyabilmesi için parfüm, su ve kimyasal maddelerle temasından kaçınmanızı öneririz.- Ayrıca her cilt yapısının takı kullanımına tepkisi farklı olabileceği unutulmamalıdır.- Sağlıklı ve mutlu günlerde kullanmanız dileğiyle.</aciklama>
@@ -55311,7 +55140,7 @@
     <barcode>isteburada_BKP11962</barcode>
     <eklenme_tarihi>2026-07-21 13:28:38</eklenme_tarihi>
     <siralam_tarihi>2026-07-21 13:28:38</siralam_tarihi>
-    <miktar>27</miktar>
+    <miktar>26</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -56285,7 +56114,7 @@
     <barcode>isteburada_BB8568</barcode>
     <eklenme_tarihi>2026-06-15 15:01:01</eklenme_tarihi>
     <siralam_tarihi>2026-07-13 15:00:34</siralam_tarihi>
-    <miktar>24</miktar>
+    <miktar>25</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -57071,7 +56900,7 @@
     <barcode>isteburada_BKO11149</barcode>
     <eklenme_tarihi>2026-07-07 15:24:04</eklenme_tarihi>
     <siralam_tarihi>2026-07-08 17:59:59</siralam_tarihi>
-    <miktar>1</miktar>
+    <miktar>0</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -57246,7 +57075,7 @@
     <barcode>isteburada_BKO11144</barcode>
     <eklenme_tarihi>2026-07-07 15:23:42</eklenme_tarihi>
     <siralam_tarihi>2026-07-08 17:59:53</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>16</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -58364,7 +58193,7 @@
     <barcode>isteburada_BB8630</barcode>
     <eklenme_tarihi>2026-07-07 15:17:06</eklenme_tarihi>
     <siralam_tarihi>2026-07-08 17:59:16</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>16</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -61084,7 +60913,7 @@
     <barcode>isteburada_BKP11529</barcode>
     <eklenme_tarihi>2025-12-27 08:53:13</eklenme_tarihi>
     <siralam_tarihi>2026-07-01 09:51:04</siralam_tarihi>
-    <miktar>104</miktar>
+    <miktar>105</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -61301,7 +61130,7 @@
     <barcode>isteburada_BKP8989</barcode>
     <eklenme_tarihi>2024-05-31 19:07:51</eklenme_tarihi>
     <siralam_tarihi>2026-06-30 11:03:55</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>20</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -61325,7 +61154,7 @@
     <barcode>isteburada_BKP8999</barcode>
     <eklenme_tarihi>2024-05-31 19:08:58</eklenme_tarihi>
     <siralam_tarihi>2026-06-30 10:51:36</siralam_tarihi>
-    <miktar>53</miktar>
+    <miktar>54</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -61425,7 +61254,7 @@
     <barcode>isteburada_BKP8987</barcode>
     <eklenme_tarihi>2024-05-31 19:07:11</eklenme_tarihi>
     <siralam_tarihi>2026-06-30 10:23:44</siralam_tarihi>
-    <miktar>79</miktar>
+    <miktar>80</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -62031,7 +61860,7 @@
     <barcode>isteburada_BKP10633</barcode>
     <eklenme_tarihi>2025-05-29 17:29:12</eklenme_tarihi>
     <siralam_tarihi>2026-06-23 17:47:20</siralam_tarihi>
-    <miktar>34</miktar>
+    <miktar>35</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -62501,7 +62330,7 @@
     <barcode>isteburada_BKP11875</barcode>
     <eklenme_tarihi>2026-06-17 17:28:37</eklenme_tarihi>
     <siralam_tarihi>2026-06-17 17:28:37</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>5</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -64088,7 +63917,7 @@
     <barcode>isteburada_SN793</barcode>
     <eklenme_tarihi>2026-06-10 14:02:14</eklenme_tarihi>
     <siralam_tarihi>2026-06-10 14:02:14</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>18</miktar>
     <kategori>Şahmeran</kategori>
     <AnaKategori>Kadın|Şahmeran|</AnaKategori>
     <kdv>20</kdv>
@@ -66810,7 +66639,7 @@
     <barcode>isteburada_BKP11852</barcode>
     <eklenme_tarihi>2026-06-10 13:44:53</eklenme_tarihi>
     <siralam_tarihi>2026-06-10 13:44:53</siralam_tarihi>
-    <miktar>14</miktar>
+    <miktar>15</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -68848,7 +68677,7 @@
     <barcode>isteburada_BKO11083</barcode>
     <eklenme_tarihi>2026-06-08 14:05:06</eklenme_tarihi>
     <siralam_tarihi>2026-06-08 14:05:06</siralam_tarihi>
-    <miktar>30</miktar>
+    <miktar>25</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -75521,7 +75350,7 @@
     <barcode>isteburada_BKP11476</barcode>
     <eklenme_tarihi>2025-12-15 17:54:53</eklenme_tarihi>
     <siralam_tarihi>2026-05-07 14:12:41</siralam_tarihi>
-    <miktar>36</miktar>
+    <miktar>37</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -75641,7 +75470,7 @@
     <barcode>isteburada_BKP11482</barcode>
     <eklenme_tarihi>2025-12-15 17:55:11</eklenme_tarihi>
     <siralam_tarihi>2026-05-07 14:12:25</siralam_tarihi>
-    <miktar>29</miktar>
+    <miktar>30</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -75665,7 +75494,7 @@
     <barcode>isteburada_BKP11480</barcode>
     <eklenme_tarihi>2025-12-15 17:55:05</eklenme_tarihi>
     <siralam_tarihi>2026-05-02 14:12:23</siralam_tarihi>
-    <miktar>53</miktar>
+    <miktar>54</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -75691,7 +75520,7 @@
     <barcode>isteburada_ERK1321</barcode>
     <eklenme_tarihi>2023-08-03 14:59:57</eklenme_tarihi>
     <siralam_tarihi>2026-04-30 18:00:33</siralam_tarihi>
-    <miktar>0</miktar>
+    <miktar>1</miktar>
     <kategori>Erkek Kolye</kategori>
     <AnaKategori>Erkek|Erkek Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -76229,7 +76058,7 @@
     <barcode>isteburada_BKP11791</barcode>
     <eklenme_tarihi>2026-04-30 17:43:05</eklenme_tarihi>
     <siralam_tarihi>2026-04-30 17:43:05</siralam_tarihi>
-    <miktar>10</miktar>
+    <miktar>11</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -78454,7 +78283,7 @@
     <barcode>isteburada_BKP11770</barcode>
     <eklenme_tarihi>2026-04-27 11:03:34</eklenme_tarihi>
     <siralam_tarihi>2026-04-27 11:03:34</siralam_tarihi>
-    <miktar>35</miktar>
+    <miktar>36</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -78568,7 +78397,7 @@
     <barcode>isteburada_BKP11768</barcode>
     <eklenme_tarihi>2026-04-27 11:03:17</eklenme_tarihi>
     <siralam_tarihi>2026-04-27 11:03:17</siralam_tarihi>
-    <miktar>62</miktar>
+    <miktar>63</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -78682,7 +78511,7 @@
     <barcode>isteburada_BKP11766</barcode>
     <eklenme_tarihi>2026-04-27 11:03:03</eklenme_tarihi>
     <siralam_tarihi>2026-04-27 11:03:03</siralam_tarihi>
-    <miktar>61</miktar>
+    <miktar>62</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -78796,7 +78625,7 @@
     <barcode>isteburada_BKP11764</barcode>
     <eklenme_tarihi>2026-04-27 11:02:51</eklenme_tarihi>
     <siralam_tarihi>2026-04-27 11:02:51</siralam_tarihi>
-    <miktar>85</miktar>
+    <miktar>86</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -78910,7 +78739,7 @@
     <barcode>isteburada_BKP11762</barcode>
     <eklenme_tarihi>2026-04-27 11:02:36</eklenme_tarihi>
     <siralam_tarihi>2026-04-27 11:02:36</siralam_tarihi>
-    <miktar>4</miktar>
+    <miktar>5</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -79024,7 +78853,7 @@
     <barcode>isteburada_BKP11760</barcode>
     <eklenme_tarihi>2026-04-27 11:02:21</eklenme_tarihi>
     <siralam_tarihi>2026-04-27 11:02:21</siralam_tarihi>
-    <miktar>63</miktar>
+    <miktar>64</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -79138,7 +78967,7 @@
     <barcode>isteburada_BKP11758</barcode>
     <eklenme_tarihi>2026-04-27 11:02:06</eklenme_tarihi>
     <siralam_tarihi>2026-04-27 11:02:06</siralam_tarihi>
-    <miktar>88</miktar>
+    <miktar>89</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -79252,7 +79081,7 @@
     <barcode>isteburada_BKP8800</barcode>
     <eklenme_tarihi>2024-05-06 16:20:47</eklenme_tarihi>
     <siralam_tarihi>2026-04-22 09:15:08</siralam_tarihi>
-    <miktar>0</miktar>
+    <miktar>1</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -82138,60 +81967,6 @@
     <aciklama>-Ürünümüz 316L kalite paslanmaz çelikten üretilmiştir.-Kararmaya ve paslanmaya karşı yüksek dirençlidir.-Ürününüzü uzun süre ilk günkü görünümüyle kullanabilmeniz için kimyasal maddelerden uzak tutmanızı ve özenle kullanmanızı tavsiye ederiz.-Sağlıklı ve mutlu günlerde kullanmanız dileğiyle.</aciklama>
   </Urun>
   <Urun>
-    <adi>316L Çelik Gold Renk Dorika ve İtalyan Zincirli Model Kadın Bileklik</adi>
-    <stok_kodu>BB8386</stok_kodu>
-    <product_id/>
-    <id>69de16eef4e99e2d7d0039a4</id>
-    <barcode>isteburada_BB8386</barcode>
-    <eklenme_tarihi>2026-04-14 12:29:02</eklenme_tarihi>
-    <siralam_tarihi>2026-04-14 12:29:02</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Bayan Bileklik</kategori>
-    <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/1776228946_BB8386.jpg</resim1>
-      <resim2>https://app.ebijuteri.com/storage/files/uploads/pimg/1776228946_BB8386-2.jpg</resim2>
-    </resim>
-    <fiyat>
-      <son_kullanici>229.9</son_kullanici>
-      <bayi_fiyati>89.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Clariss</marka>
-    <filtreler>
-      <filtre>
-        <name>Materyal</name>
-        <value>Altın Kaplama</value>
-      </filtre>
-      <filtre>
-        <name>Materyal</name>
-        <value>Çelik</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Abiye</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Klasik</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Spor</value>
-      </filtre>
-      <filtre>
-        <name>Tarz</name>
-        <value>Günlük Kullanım</value>
-      </filtre>
-      <filtre>
-        <name>Renk</name>
-        <value>Altın</value>
-      </filtre>
-    </filtreler>
-    <aciklama>-Ürünümüz 316L kalite paslanmaz çelikten üretilmiştir.-Kararmaya ve paslanmaya karşı yüksek dirençlidir.-Ürününüzü uzun süre ilk günkü görünümüyle kullanabilmeniz için kimyasal maddelerden uzak tutmanızı ve özenle kullanmanızı tavsiye ederiz.-Sağlıklı ve mutlu günlerde kullanmanız dileğiyle.</aciklama>
-  </Urun>
-  <Urun>
     <adi>316L Çelik Gold Renk Kelebek ve Dorikalı Kadın Bileklik</adi>
     <stok_kodu>BB8385</stok_kodu>
     <product_id/>
@@ -82689,7 +82464,7 @@
     <barcode>isteburada_BKO11033</barcode>
     <eklenme_tarihi>2026-04-08 10:49:47</eklenme_tarihi>
     <siralam_tarihi>2026-04-08 10:49:47</siralam_tarihi>
-    <miktar>45</miktar>
+    <miktar>46</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -86269,7 +86044,7 @@
     <barcode>isteburada_BKO7459</barcode>
     <eklenme_tarihi>2023-07-31 15:10:44</eklenme_tarihi>
     <siralam_tarihi>2026-03-30 17:31:56</siralam_tarihi>
-    <miktar>13</miktar>
+    <miktar>12</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -87224,34 +86999,6 @@
     <marka>Clariss</marka>
     <filtreler/>
     <aciklama>- Ürün tipi çeliktir kararmaz paslanmaz .- Ürünlerin özelliklerini kaybetmeden daha uzun süre kullanılabilmesi için, parfüm, su, deterjan, dezenfektan gibi sıvı kimyasallardan uzak tutularak kullanılması tavsiye edilir.&amp;nbsp;- Sağlıklı ve mutlu günlerde kullanmanız dileğiyle ..</aciklama>
-  </Urun>
-  <Urun>
-    <adi>316L Çelik Gold Renk Açılır Zirkon Taşlı Yonca Model Kadın Kolye</adi>
-    <stok_kodu>BKO7290</stok_kodu>
-    <product_id/>
-    <id>6477063154074e1315002ca4</id>
-    <barcode>isteburada_BKO7290</barcode>
-    <eklenme_tarihi>2023-05-31 10:32:49</eklenme_tarihi>
-    <siralam_tarihi>2026-03-25 12:54:24</siralam_tarihi>
-    <miktar>0</miktar>
-    <kategori>Kolye</kategori>
-    <AnaKategori>Kadın|Kolye|</AnaKategori>
-    <kdv>20</kdv>
-    <resim>
-      <resim1>https://app.ebijuteri.com/storage/files/uploads/pimg/1685525588_BKO7290.jpg</resim1>
-      <resim2>https://app.ebijuteri.com/storage/files/uploads/pimg/1685525588_BKO7290-2.jpg</resim2>
-      <resim3>https://app.ebijuteri.com/storage/files/uploads/pimg/1685525587_BKO7290-3.jpg</resim3>
-    </resim>
-    <fiyat>
-      <son_kullanici>169.9</son_kullanici>
-      <bayi_fiyati>59.9</bayi_fiyati>
-      <para_birimi>TL</para_birimi>
-    </fiyat>
-    <marka>Clariss</marka>
-    <filtreler>
-      <filtre/>
-    </filtreler>
-    <aciklama>- Ürün zinciri 316L çeliktir kararmaz paslanmaz .- Ürün zincir uzunluğu 45cm'dir.- Sağlıklı ve mutlu günlerde kullanmanız&amp;nbsp;dileğiyle…</aciklama>
   </Urun>
   <Urun>
     <adi>Pirinç Zİrkon Taşlı Kelebek ve Yıldız Model Gümüş Renk 3'lü Çift Kadın Küpe</adi>
@@ -90541,7 +90288,7 @@
     <barcode>isteburada_BKO8178</barcode>
     <eklenme_tarihi>2024-01-11 13:18:59</eklenme_tarihi>
     <siralam_tarihi>2026-02-24 09:21:31</siralam_tarihi>
-    <miktar>5</miktar>
+    <miktar>4</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -90566,7 +90313,7 @@
     <barcode>isteburada_BKO8177</barcode>
     <eklenme_tarihi>2024-01-11 13:18:55</eklenme_tarihi>
     <siralam_tarihi>2026-02-24 09:21:30</siralam_tarihi>
-    <miktar>22</miktar>
+    <miktar>21</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -90951,7 +90698,7 @@
     <barcode>isteburada_BKO6226</barcode>
     <eklenme_tarihi>2022-03-03 12:33:56</eklenme_tarihi>
     <siralam_tarihi>2026-02-24 09:20:00</siralam_tarihi>
-    <miktar>18</miktar>
+    <miktar>17</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -100169,7 +99916,7 @@
     <barcode>isteburada_BKO9765</barcode>
     <eklenme_tarihi>2025-01-27 12:23:09</eklenme_tarihi>
     <siralam_tarihi>2026-02-12 11:13:51</siralam_tarihi>
-    <miktar>17</miktar>
+    <miktar>16</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -105420,7 +105167,7 @@
     <barcode>isteburada_BKO7291</barcode>
     <eklenme_tarihi>2023-05-31 10:32:53</eklenme_tarihi>
     <siralam_tarihi>2026-01-21 17:59:20</siralam_tarihi>
-    <miktar>99</miktar>
+    <miktar>94</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -105994,7 +105741,7 @@
     <barcode>isteburada_BKO10902</barcode>
     <eklenme_tarihi>2026-01-23 14:28:48</eklenme_tarihi>
     <siralam_tarihi>2026-01-18 14:28:48</siralam_tarihi>
-    <miktar>19</miktar>
+    <miktar>18</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -122060,7 +121807,7 @@
     <barcode>isteburada_BKO8996</barcode>
     <eklenme_tarihi>2024-08-22 14:56:56</eklenme_tarihi>
     <siralam_tarihi>2025-09-13 12:03:14</siralam_tarihi>
-    <miktar>50</miktar>
+    <miktar>49</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -124060,7 +123807,7 @@
     <barcode>isteburada_BKO10511</barcode>
     <eklenme_tarihi>2025-08-27 10:34:54</eklenme_tarihi>
     <siralam_tarihi>2025-08-27 10:34:54</siralam_tarihi>
-    <miktar>7</miktar>
+    <miktar>6</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -126938,7 +126685,7 @@
     <barcode>isteburada_BKP10011</barcode>
     <eklenme_tarihi>2025-01-16 11:14:26</eklenme_tarihi>
     <siralam_tarihi>2025-08-02 16:17:36</siralam_tarihi>
-    <miktar>23</miktar>
+    <miktar>22</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -129565,7 +129312,7 @@
     <barcode>isteburada_BKP10876</barcode>
     <eklenme_tarihi>2025-07-02 12:55:25</eklenme_tarihi>
     <siralam_tarihi>2025-07-02 12:55:25</siralam_tarihi>
-    <miktar>28</miktar>
+    <miktar>29</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -132771,7 +132518,7 @@
     <barcode>isteburada_BKP10691</barcode>
     <eklenme_tarihi>2025-06-04 11:46:11</eklenme_tarihi>
     <siralam_tarihi>2025-06-04 11:46:11</siralam_tarihi>
-    <miktar>20</miktar>
+    <miktar>19</miktar>
     <kategori>Küpe</kategori>
     <AnaKategori>Kadın|Küpe|</AnaKategori>
     <kdv>20</kdv>
@@ -139963,7 +139710,7 @@
     <barcode>isteburada_BKO10054</barcode>
     <eklenme_tarihi>2025-04-28 15:05:50</eklenme_tarihi>
     <siralam_tarihi>2025-04-28 15:05:50</siralam_tarihi>
-    <miktar>25</miktar>
+    <miktar>24</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -140610,7 +140357,7 @@
     <barcode>isteburada_BYK2236</barcode>
     <eklenme_tarihi>2022-03-18 13:10:09</eklenme_tarihi>
     <siralam_tarihi>2025-04-21 16:59:34</siralam_tarihi>
-    <miktar>50</miktar>
+    <miktar>49</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -145374,7 +145121,7 @@
     <barcode>isteburada_BB6806</barcode>
     <eklenme_tarihi>2025-02-27 10:33:15</eklenme_tarihi>
     <siralam_tarihi>2025-02-27 10:33:15</siralam_tarihi>
-    <miktar>11</miktar>
+    <miktar>8</miktar>
     <kategori>Bayan Bileklik</kategori>
     <AnaKategori>Kadın|Bayan Bileklik|</AnaKategori>
     <kdv>20</kdv>
@@ -149863,7 +149610,7 @@
     <barcode>isteburada_BYK2068</barcode>
     <eklenme_tarihi>2021-11-05 12:16:59</eklenme_tarihi>
     <siralam_tarihi>2025-01-27 13:18:01</siralam_tarihi>
-    <miktar>6</miktar>
+    <miktar>5</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -171637,7 +171384,7 @@
     <barcode>isteburada_BKO8922</barcode>
     <eklenme_tarihi>2024-07-27 10:03:30</eklenme_tarihi>
     <siralam_tarihi>2024-07-27 10:03:30</siralam_tarihi>
-    <miktar>16</miktar>
+    <miktar>15</miktar>
     <kategori>Kolye</kategori>
     <AnaKategori>Kadın|Kolye|</AnaKategori>
     <kdv>20</kdv>
@@ -183503,7 +183250,7 @@
     <barcode>isteburada_BYK2032</barcode>
     <eklenme_tarihi>2021-11-05 12:08:12</eklenme_tarihi>
     <siralam_tarihi>2023-04-08 12:07:32</siralam_tarihi>
-    <miktar>12</miktar>
+    <miktar>11</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
@@ -183752,7 +183499,7 @@
     <barcode>isteburada_BYK2190</barcode>
     <eklenme_tarihi>2022-02-02 13:11:31</eklenme_tarihi>
     <siralam_tarihi>2022-12-07 09:28:08</siralam_tarihi>
-    <miktar>35</miktar>
+    <miktar>37</miktar>
     <kategori>Bayan Yüzük ve Kombinler</kategori>
     <AnaKategori>Kadın|Bayan Yüzük ve Kombinler|</AnaKategori>
     <kdv>20</kdv>
